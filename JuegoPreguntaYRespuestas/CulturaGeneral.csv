@@ -1,0 +1,1271 @@
+id_item;category;question;correct_answer;incorrect_answer_a;incorrect_answer_b;incorrect_answer_c;visualizations
+1;arquitectura;¿A qué deidad griega representa la estatua de \El Coloso de Rodas\?;Helios;Zeus;Artemisa;Hades;2224
+2;arquitectura;¿A qué estilo arquitectónico pertenece el Big Ben?;Neogótico;Neobarroco;Neoclásico;Neotudor;2180
+3;arquitectura;¿Cómo se conoce comúnmente a la primera universidad de París?;La Sorbona;El Diderot;El Liceo;El Saclay;2220
+4;arquitectura;¿Cómo se llama el muro romano de 119 km de longitud del norte de Inglaterra?;Muro de Adriano;Muro del Coliseo;Muro del César;Muro del Leviatán ;2185
+5;arquitectura;¿Cómo se llama el refugio hecho con nieve endurecida en el que viven los Inuit?;Iglú;Cueva glaciar;Cueva de nieve;Quinzhee;2210
+6;arquitectura;¿Cómo se llama la tienda de forma cónica en la que vivían los Nativos Americanos?;Tipi;Chum;Goahti;Oca;2275
+7;arquitectura;¿Con qué función se construyó originalmente el Louvre?;Fortaleza;Bodega;Biblioteca;Universidad;2257
+8;arquitectura;¿Cuál era el nombre del diseñador de la Torre Eiffel?;Alexandre Gustave;Flaubert Abel;Jean Bertrand;Léon Dominique;2222
+9;arquitectura;¿Cuál fue durante más de 3.800 años la estructura más alta creada por el hombre?;Gran Pirámide de Guiza;Torre de Babel;Gran Muralla China;Faro de Alejandría;2291
+10;arquitectura;¿Cuántas Maravillas del Mundo Antiguo solía haber?;7;3;5;9;2234
+11;arquitectura;¿De qué buscaba protegerse el imperio chino cuando construyó la Gran Muralla China?;Asaltos e invasiones nomádicas;La inundación del Tangtze y el Huang He;Un abrumador incendio;Espíritus malignos;2197
+12;arquitectura;¿De qué está hecho el esqueleto de la Torre Eiffel?;Hierro forjado;Titanio;Bronce sin pulir;Cobre;2288
+13;arquitectura;¿Dónde se encuentra el edificio conocido como el Atomium?;Bruselas;Amsterdam;París;Luxemburgo;2265
+14;arquitectura;¿Dónde se encuentra el hotel de lujo \Burj Al Arab\, que parece la vela de un barco?;Dubai, Emiratos Árabes Unidos;Doha, Qatar;Kuwait, Kuwait;Medina, Arabia Saudita;2284
+15;arquitectura;¿Dónde se encuentra el monumento prehistórico Stonehenge?;Wiltshire, Inglaterra;Waterford, Irlanda;Swansea, Gales;Stirling, Escocia;2205
+16;arquitectura;¿Dónde se encuentra el Taj Mahal?;Agra, India;Karachi, Pakistán;Daca, Bangladesh;Katmandú, Nepal;2288
+17;arquitectura;¿Dónde se encuentran las Torres Petronas?;Kuala Lumpur, Malasia;Shanghái, China;Manila, Filipinas;Taskent, Uzbekistan;2275
+18;arquitectura;¿Dónde se pueden encontrar pirámides aparte de en Egipto?;México;Rusia;Australia;Nueva Zelanda;2213
+19;arquitectura;¿En qué ciudad europea se encuentra el Partenón?;Atenas;Roma;Maratón ;Heraclión;2305
+20;arquitectura;¿En qué ciudad se encuentra el estadio conocido como \El Nido del Pájaro\?;Pekín;Seúl;Tokio;Singapur;2320
+21;arquitectura;¿En qué ciudad se encuentran los edificios \The Gherkin\ y \The Shard\?;Londres;Nueva York;Los Ángeles;Sydney;2333
+22;arquitectura;¿En qué ciudad se halla la famosa estatua de \La Sirenita\?;Copenhague;Estocolmo;Helsinki;San Petersburgo;2314
+23;arquitectura;¿Qué ciudad es famosa por albergar una ópera que parece un conjunto de conchas?;Sydney;Nueva York;Milán;París;2266
+24;arquitectura;¿Qué ciudad tiene la Catedral de San Basilio como su símbolo?;Moscú;Belgrado;Varsovia;Praga;2257
+25;arquitectura;¿Qué edificio fue el más alto del mundo durante aproximadamente 40 años?;Empire State Building;Edificio Chrysler;World Trade Center;432 Park Avenue;2155
+26;arquitectura;¿Qué edificio trepa King Kong en la película original de 1933?;Empire State Building;World Trade Center;MLC Centre;Big Ben;2303
+27;arquitectura;¿Qué es una cariátide?;Estatua de mujer que hace de columna;Criatura griega que trae fortuna;Vidente de la Antigua Grecia;Flor ornamental roja;2245
+28;arquitectura;¿Qué estilo arquitectónico da la sensación de que el edificio está fragmentado?;Deconstructivismo;Futurismo;Positivismo;Nativismo;2275
+29;arquitectura;¿Qué estilo arquitectónico representa la catedral de Notre Dame?;Gótico;Renacimiento;Barroco;Modernismo;2313
+30;arquitectura;¿Qué estructura de 155 km de longitud fue demolida en 1989?;El Muro de Berlín;El Muro de Palestina;Los Muros Largos de Atenas;La Gran Muralla de Gorgan;2318
+31;arquitectura;¿Qué longitud tiene la Gran Muralla China?;21.196 km ;5.196 km ;12.196 km ;18.196 km ;2339
+32;arquitectura;¿Que Maravilla del Mundo Antiguo existe todavía?;La Gran Pirámide de Guiza;Los Jardines Colgantes de Babilonia;La Estatua de Zeus de Olimpia;El Faro de Alejandría;2275
+33;arquitectura;¿Qué montaña tiene esculpidas las caras de 4 presidentes estadounidenses?;Monte Rushmore;Monte Whitney;Monte Joffre;Monte Bandera;2270
+34;arquitectura;¿Qué país le regaló la Estatua de la Libertad a Estados Unidos?;Francia;Reino Unido;Italia;Alemania;2308
+35;arquitectura;¿Qué palacio real fue construido en Francia por el rey Luis XIV?;Palacio de Versalles;Palacio del Elíseo;Palacio de Luxemburgo;Palacio de las Tullerías;2283
+36;arquitectura;¿Quién diseñó la cúpula de la Basílica de San Pedro en el Vaticano?;Miguel Ángel;Le Corbusier;Leonardo da Vinci;Antoni Gaudí;2381
+37;arquitectura;¿Sion es la colina en Jerusalén en la que se encuentra qué templo?;Templo de Salomón;Templo de David;Templo de Saúl;Templo de Gedeón;2359
+38;arte;¿A qué movimiento artístico pertenece Frida Kahlo?;Surrealismo;Impresionismo;Pop art;Realismo;2347
+39;arte;¿A qué movimientos artísticos pertenecía Picasso?;Cubismo y surrealismo;Futurismo y desconstructivismo;Expresionismo y realismo;Impresionismo y naturalismo;2219
+40;arte;¿Cómo murió Vincent van Gogh?;Se suicidó;Por los humos tóxicos de sus pinturas;Asesinado por Gaugin;Tuberculosis;2227
+41;arte;¿Cómo se llama el famoso cuadro de una mujer alzando la bandera francesa durante la Revolución Francesa?;La Libertad guiando al pueblo;Viva la vida;Batalla de Poitiers;Guernica;2187
+42;arte;¿Con qué otro nombre se conoce a \La Gioconda\?;La Mona Lisa;Le Rêve;Retrato de la madre del artista;La Joven de la Perla;2236
+43;arte;¿Con qué otro nombre se conoce a la \Afrodita de Melos\?;Venus de Milo;Atenea Partenos;Venus Braschi;Afrodita de Cnido;2330
+44;arte;¿Cuál era el nombre de la capilla cuyo techo fue pintado por Miguel Ángel?;Capilla Sixtina;Capilla de San Pedro;Acrópolis;Iglesia de la Santa Sepultura;2258
+45;arte;¿Cuál es la escultura y lugar de referencia más conocido de Bruselas?;Manneken Pis;La Sirenita;El Pensador;Loba Capitolina;2245
+46;arte;¿De dónde sacaron principalmente la inspiración los arquitectos y escultores del Renacimiento?;Antigua Grecia y Roma;Antiguo Egipto;Antigua Sumeria;Antigua Mexica;2287
+47;arte;¿De qué compañía eran las latas de sopa que pintó Andy Warhol?;Campbell's;Heinz;Knorr;Burrida;2320
+48;arte;¿De qué nacionalidad era el pintor Gustav Klimt?;Austriaco;Alemán;Italiano;Checo;2291
+49;arte;¿De qué nacionalidad era el pintor Pierre-Auguste Renoir?;Francés;Belga;Holandés;Suizo;2278
+50;arte;¿De quién es la obra \El Nacimiento de Venus\?;Sandro Botticelli;Peter Paul Rubens;William Tate;Piet Mondrian;2195
+51;arte;¿Dónde se puede encontrar el Buda de Oro valorado en 250 millones de dólares?;Bangkok;Delhi;Caracas ;Mumbai;2265
+52;arte;¿En qué año pintó Leonardo Da Vinci la \Mona Lisa\?;1503-1506 d. C.;1403-1406 d. C.;1703-1706 d. C.;1603-1606 d. C.;2238
+53;arte;¿En qué ciudad nació Leonardo da Vinci?;Vinci;Roma;Venecia;Palermo;2232
+54;arte;¿En qué ciudad se encuentra la estatua de David, de Miguel Ángel?;Florencia;Roma;Atenas;Salónica;2258
+55;arte;¿Por qué era famoso Donatello?;Esculturas;Cuadros;Murales;Edificios;2289
+56;arte;¿Qué artista del renacimiento capturó las proporciones humanas perfectas en su cuadro \Hombre de Vitruvio\?;Leonardo da Vinci;Vesalius;Tiziano;Fra Angélico;2192
+57;arte;¿Qué artista era conocido por su fascinación con la danza, habiendo pintado muchas bailarinas?;Edgar Degas;Claude Monet;Vincent van Gogh;Peter Paul Rubens;2313
+58;arte;¿Qué artista escribió las palabras \ceci n'est pas une pipe\ (esto no es una pipa) en su cuadro de una pipa?;René Magritte;Matisse;Georges Simenon;Georges Bizet;2288
+59;arte;¿Qué artista impresionista pintó la serie de óleos \Los Nenúfares\?;Claude Monet;Pierre-Auguste Renoir;Camille Pissarro;Albrecht Dührer;2252
+60;arte;¿Qué bailarina murió estrangulada en 1927 cuando se le enganchó la bufanda en las ruedas de un coche?;Isadora Duncan;Diana Vishneva;Evelyn Hart;Tamara Rojo;2276
+61;arte;¿Qué movimiento artístico fue creado por Seurat y Signat?;Puntillismo;Cubismo;Futurismo;Surrealismo;2221
+62;arte;¿Qué movimiento artístico ponía énfasis en la emoción, el individualismo y la glorificación del pasado y la naturaleza?;Romanticismo;Modernismo;Orientalismo;Simbolismo;2342
+63;arte;¿Qué obra de arte (normalmente una pintura al temple) está dividida en tres secciones?;Tríptico;Tabernáculo;Quincunce;Estancia;2341
+64;arte;¿Qué pintor es famoso por su estilo ornamentado y el uso frecuente del color dorado en sus cuadros?;Gustav Klimt;Vincent van Gogh;Pablo Picasso;Salvador Dalí;2356
+65;arte;¿Qué rama de la filosofía trata la naturaleza del arte y conceptos como la creatividad y la interpretación?;Estética;Epistemología;Ética;Metafísica;2309
+66;arte;¿Qué técnica de pintura era \sin líneas o bordes, en forma de humo o más allá del plano de enfoque\?;Esfumado;Esgrafiado;Claroscuro;Gouache;2260
+67;arte;¿Qué técnica para pintar murales se hace sobre mortero de cal húmeda?;Fresco;Asonancia;Armadura;Reconocimiento;2234
+68;arte;¿Qué técnica produce una imagen o patrón al aplicar pigmento a una superficie sobre un objeto con huecos?;Estarcido;Impasto;Divisionismo;Plenairismo;2293
+69;arte;¿Quién era Cayo Mecenas?;Generoso patrón de las artes;Rey griego de Micenas;Dios griego de la fortuna;General romano;2301
+70;arte;¿Quién es considerado el primer pintor abstracto?;Kandinski;Rafael;Vermeer;Modigliani;2357
+71;arte;¿Quién fue el joyero de la corte rusa que hizo los famosos huevos de pascua ornamentados?;Peter Carl Fabergé;Mikhail Aniskushin;Naum Gabo;Vasily Demut-Malinovsky;2346
+72;arte;¿Quién pintó \El Grito\?;Edvard Munch;Jan van Eyck;Andy Warhol;Jackson Pollock;2279
+73;arte;¿Quién pintó \El Jardín de Las Delicias\?;El Bosco;Albretch Dürer;Tiziano;Caravaggio;2269
+74;arte;¿Quién pintó \La Última Cena\?;Leonardo da Vinci;Miguel Ángel;El Greco;Rembrandt;2237
+75;arte;¿Quién pintó El Guernica?;Picasso;Courbet;Botticelli;Kandisnky;2286
+76;arte;¿Quién pintó la vanguardista y surrealista \La Persistencia de la Memoria\?;Salvador Dalí;René Magritte;Francisco Goya;J. M. W. Turner;2226
+77;astronautas;¿A partir de qué altura comienza el espacio exterior según la Federación Aeronáutica Internacional?;100 km;1 km;10 km;50 km;2280
+78;astronautas;¿Cómo llaman los rusos a sus astronautas?;Cosmonautas;Internautas;Aeronautas;Argonautas;2267
+79;astronautas;¿Cómo se llama la compañía espacial creada en 1999 que organizó el primer viaje turístico por el espacio?;MirCorp;Star Dust;Blue Sun;ARO Industries;2347
+80;astronautas;¿Cómo se llamaba la cápsula espacial en la que el primer hombre viajó al espacio?;Vostok 1;Sputnik 17;Orbit II;Ariane 4;2325
+81;astronautas;¿Cómo se llamaba la cápsula espacial en la que la primera mujer viajó al espacio?;Vostok 6;Apollo 4;WMAP;Pioneer 10;2315
+82;astronautas;¿Cómo se llamaba la cápsula espacial que llevó al primer hombre a la Luna?;Apollo 11;Sputnik 5;Lincoln 4;Viking 1;2258
+83;astronautas;¿Cuál era el nombre de la cápsula espacial en la que el primer perro fue al espacio?;Sputnik 2;Apollo 4;Alpha One;Neptune 3;2289
+84;astronautas;¿Cuál era la profesión de la primera mujer en el espacio?;Trabajadora textil;Enfermera;Piloto aéreo;Oficial de policía;2379
+85;astronautas;¿Cuál era la profesión del primer hombre en el espacio?;Piloto de las Fuerzas Aéreas;Contable;Médico;Sonógrafo;2314
+86;astronautas;¿Cuál es el apellido de la primera persona en pisar la Luna? ;Armstrong;Houston;Collins;Aldrin;2386
+87;astronautas;¿Cuál es el nombre del programa espacial ruso?;Roscosmos;Cosmocore;Ruspace;CosmoR;2257
+88;astronautas;¿Cuál fue el primer satélite de comunicación del mundo?;Project SCORE (USA);Project UNITE (EU);Project COMM (USA);Project EKSPRESS (USSR);2255
+89;astronautas;¿Cuándo descubrió la sonda estadounidense \Voyager 2\ varias nuevas lunas en Urano?;1986;1916;1946;1966;2301
+90;astronautas;¿Cuándo mandó China a su primera persona al espacio?;2003;2007;2011;2015;2389
+91;astronautas;¿Cuándo se lanzó la Estación Espacial Internacional al espacio?;1998;2005;2008;2015;2223
+92;astronautas;¿Cuánto duró la misión que mandó al primer hombre al espacio?;1 hora, 48 minutos;3 horas, 58 minutos;6 horas, 6 minutos;12 horas, 1 minuto;2281
+93;astronautas;¿Cuántos astronautas murieron en la misión fallida del Apollo 13 de aterrizar en la Luna en 1970?;0;3;1;2;2309
+94;astronautas;¿Hacia dónde partió la sonda espacial europea \Ulises\ en 1990?;Sol;Urano;Neptuno;Plutón;2261
+95;astronautas;¿Qué astronave despegó hacia Júpiter en 1972?;Pioneer 10;Voyager 1;WMAP;Cassini-Huygens;2335
+96;astronautas;¿Qué significa literalmente la palabra \cosmonauta\?;Navegante del universo;Viajero estelar;Buscador de estrellas;Misionero terrícola;2258
+97;astronautas;¿Qué significan las siglas de \NASA\?;National Aeronautics and Space Act;National Astronauts and Space Assembly;National Salvation Agency ;Nominal Air Space Agency;2301
+98;astronautas;¿Qué sonda estadounidense fue la primera en orbitar otro planeta en 1971?;Mariner 9;Viking 7;Challenger 1;Atlas 4;2246
+99;astronautas;¿Quién fue el primer hombre que viajó al espacio?;Yuri Gagarin;Neil Armstrong;Charles Lindbergh;Valentino Tereshkova;2234
+100;astronautas;¿Quién fue la primera mujer en el espacio?;Valentina Tereshkova;Sally Ride;Naidia Comenci;Steliana Nistor;2285
+101;astronautas;¿Quién fue la primera persona en morir en un vuelo espacial debido a un fallo en el paracaídas?;Vladimir Komarov;Lance Armstrong;Yuri Gagarin;Buzz Aldrin;2244
+102;astronautas;¿Quién o qué era Laika?;El primer perro en ir al espacio;La marca de coche más popular en China;La reina de la legendaria Atlántida;La primera mujer de Rasputín;2295
+103;astronomia;¿A qué antiguo planeta de nuestro sistema solar se le revocó su título y se le reconoce ahora como un planeta enano?;Plutón;Marte;Venus;Mercurio;2226
+104;astronomia;¿Aproximadamente cuál es la distancia media entre la Luna y la Tierra?;384.400 km;485.000 km;295.800 km;585.000 km;2361
+105;astronomia;¿Cómo se conoce comúnmente a la estrella Sirio?;Estrella perro;Estrella toro;Estrella paloma;Estrella gato;2269
+106;astronomia;¿Cómo se llama el despliegue natural de luz en el cielo que se da principalmente en la región Ártica?;Aurora Boreal;Aurora Amaranta;Corona Boreal;Corona Amaranta;2270
+107;astronomia;¿Cómo se llama la constelación que parece un caballo alado?;Pegaso;Sagitario;Unicornio;Orión;2302
+108;astronomia;¿Cómo se llama la lluvia de meteoros cuyo auge de actividad ocurre cada agosto?;Perseidas;Sirenas;Leónidas;Líricas;2257
+109;astronomia;¿Cuál de estos planetas tiene anillos?;Saturno;Marte ;Mercurio;Plutón;2257
+110;astronomia;¿Cuál es aproximadamente la distancia media entre la Tierra y el Sol?;149.500.000 km;248.500.000 km;105.000.000 km;151.000 km;2302
+111;astronomia;¿Cuál es aproximadamente la fuerza gravitacional de la Tierra en m/s2?;9,81;19,81;0,981;98,1;2272
+112;astronomia;¿Cuál es el nombre en latín de la Estrella del Norte?;Polaris;Sirio;Vega;Pleiades;2326
+113;astronomia;¿Cuál es el planeta más grande de nuestro sistema solar?;Júpiter;Saturno;Neptuno;Marte;2244
+114;astronomia;¿Cuál es el radio medio de la Tierra?;6.371 km;9.658 km;12.811 km;32.332 km;2262
+115;astronomia;¿Cuál es el volumen de la Luna comparado con el de la Tierra?;ene-50;01-ago;ene-20;ene-40;2306
+116;astronomia;¿Cuál es la luna más grande de Júpiter?;Ganimedes;Europa;Calisto;Ío;2244
+117;astronomia;¿Cuál es la luna más grande de Plutón?;Caronte;Nix;Hidra;Cerbero;2299
+118;astronomia;¿Cuáles son los 4 planetas gigantes conocidos de nuestro sistema solar?;Júpiter, Saturno, Urano y Neptuno;Júpiter, Venus, Marte y la Tierra;Júpiter, Mercurio, Plutón y Saturno;Júpiter, La Tierra, Marte y Neptuno;2281
+119;astronomia;¿Cuán antiguo es nuestro sistema solar aproximadamente?;4.600 millones de años;1.600 millones de años;2.600 millones de años;3.600 millones de años;2288
+120;astronomia;¿Cuán fuerte es la gravedad de Marte comparada con la de la Tierra aproximadamente?;0,38;0,5;1,4;2,3;2194
+121;astronomia;¿Cuántas veces más grande es el radio medio de Saturno comparado con el de la Tierra?;9;90;19;99;2263
+122;astronomia;¿Cuánto tarda la Luna en orbitar la Tierra aproximadamente?;27 días;32 horas;1 año;3 meses;2373
+123;astronomia;¿Cuánto tarda la luz de la estrella más cercana a la Tierra después del Sol (Alpha Centauri) en llegar a la Tierra?;4,37 años;437 años;437 días;437 semanas;2245
+124;astronomia;¿Cuánto tiempo tarda la luz del Sol en llegar a la Tierra?;8 minutos, 19 segundos;16 minutos, 39 segundos;2 minutos, 44 segundos;1 minuto, 48 segundos;2251
+125;astronomia;¿De qué planeta es Europa una luna?;Júpiter;Saturno;Neptuno;Plutón;2317
+126;astronomia;¿En qué galaxia se encuentra nuestro sistema solar?;La Vía Láctea;Andrómeda;Palioxis;Messier;2311
+127;astronomia;¿En qué otro planeta de nuestro sistema solar son comunes las dunas?;Marte;Mercurio;Venus;Urano;2317
+128;astronomia;¿En qué planeta está el Olympus Mons, la montaña más alta de todos los planetas del sistema solar?;Marte;Neptuno;Venus;Mercurio;2287
+129;astronomia;¿Para qué planeta se sugirieron los nombres \Zeus\, \Percival\ y \Constance\?;Plutón;Mercurio;Júpiter;Saturno;2283
+130;astronomia;¿Qué constelación debe su nombre a la latinización de la palabra griega para \cisne\?;Cygnus;Phaethon;Lyra;Taurus;2293
+131;astronomia;¿Qué famoso cometa tiene una órbita de entre 74-79 años?;Cometa Halley;Cometa Hale-Bop;Cometa Encke;El Gran Cometa;2317
+132;astronomia;¿Qué galaxia espiral es la más cercana a la nuestra?;Andrómeda;Casiopea;Nereida;Hespérides;2297
+133;astronomia;¿Qué luna de Saturno es la única luna con una atmósfera significativa?;Titán;Hiperión;Dione;Rea;2224
+134;astronomia;¿Qué palabra utilizan los astrofísicos para describir una estrella que ha explotado?;Supernova;Supercolisionador;Megadynamo;Megaexplosión;2234
+135;astronomia;¿Qué planeta da la vuelta al sol cada 84 años?;Urano;Neptuno;Saturno;Plutón;2231
+136;astronomia;¿Qué planeta tiene más lunas conocidas?;Júpiter;Neptuno;Marte;La Tierra;2232
+137;astronomia;¿Qué tienen Júpiter, Saturno, Urano y Neptuno en común?;Son gigantes de gas;Son los únicos planetas azules;No tienen lunas;Dan la vuelta al Sol en menos de un año;2296
+138;astronomia;¿Qué une a los nombres \Torbellino\, \Sombrero\ y \Andrómeda\?;Nombres de galaxias;Tipos de lavavajillas;Platos Mexicanos;Marcas de vino chileno;2293
+139;astronomia;¿Quién descubrió las 4 lunas más grandes de Júpiter?;Galileo Galilei;Copérnico;Edwin Hubble;Edmond Halley;2223
+140;astronomia;¿Quién fue el primer científico en desarrolar un modelo astronómico completo en el que la Tierra gira alrededor del Sol?;Copérnico;Galileo Galilei;Newton;Dalton;2197
+141;astronomia;¿Quién fue la primera persona en proponer un sistema heliocéntrico?;Aristarco de Samos;Galileo Galilei;Newton;Einstein;2222
+142;biologia;¿Cómo llamamos a los alomorfos de un gen que sólo se manifiesta si el individuo tiene dos copias del mismo?;Genes recesivos;Genes permisivos;Genes dimórficos;Genes bilaterales;2265
+143;biologia;¿Cómo se le llama a un organismo con órganos reproductivos femeninos y masculinos?;Hermafrodita;Transgénero;Diploide;Heterogámeto;2354
+144;biologia;¿Cómo se le llama a una relación no mutua entre especies en la que una se beneficia a costa de la otra?;Parasitismo;Simbiosis;Cohabitación;Cooperación;2232
+145;biologia;¿Cómo se le llama a una subunidad especializada en una función dentro de una célula?;Orgánulo;Centro;Cúpula;Bóveda;2296
+146;biologia;¿Cómo se llama a un grupo de organismos de la misma especie que actúan sinérgicamente?;Superorganismo;Megalito;Monstera;Megaloblasto;2291
+147;biologia;¿Cómo se llama el órgano que produce la insulina?;Páncreas;Riñón;Vejiga;Bazo;2291
+148;biologia;¿Cómo se llama el proceso de división celular?;Mitosis;Heterosis;Fusión;Génesis;2281
+149;biologia;¿Cómo se llama la cobertura exterior de los virus?;Cápside;Revestimiento;Virión;Viroide;2250
+150;biologia;¿Cómo se llama la porción líquida amarillenta de la sangre?;Plasma;Hidrógeno;Linfa;Amniótico;2314
+151;biologia;¿Cómo se llaman los organismos pluricelulares que tienen un número par de cromosomas?;Diploides;Biploides;Dícromos;Bícromos;2301
+152;biologia;¿Con qué nombre se conoce la muerte de todos los miembros de una especie en particular?;Extinción;Terminación;Obliteración;Aniquilación;2269
+153;biologia;¿Cuál es el nombre del material genético asociado a un rasgo físico específico?;Genotipo;Fenotipo;Alotipo;Haplotipo;2274
+154;biologia;¿Cuál es el proceso por el cual las sustancias orgánicas se rompen en materia más simple?;Descomposición;Minimización;Separación;Simplificación;2263
+155;biologia;¿Cuál es el término para una interacción biológica cercana, beneficiosa y a largo plazo entre dos especies?;Simbiosis;Dueto;Entrelazamiento;Intercalamiento;2276
+156;biologia;¿Cuál es la principal fuente de energía de la Tierra?;Sol;Agua;Suelo;Plantas;2291
+157;biologia;¿Cuál es la rama de la biología que estudia las células?;Citología;Entomología;Homoplastia;Endocrinología;2338
+158;biologia;¿Cuál es la salinidad media del agua de mar?;3,5%;2,5%;0,05%;5,3%;2197
+159;biologia;¿Cuál es la secuencia de nucleótidos de ADN que codifica la producción de una proteína?;Gen;Cromosoma;Encima;Proteína;2311
+160;biologia;¿Cuál es la unidad fundamental de la vida en biología?;Célula;Átomo;Órgano;Protoplasma;2315
+161;biologia;¿Cuántos individuos se requieren para reproducirse por partenogénesis?;1;2;3;6;2352
+162;biologia;¿Dónde se fabrican los glóbulos rojos?;Médula ósea;Corazón;Hígado;Nodos linfáticos;2327
+163;biologia;¿Dónde se guardan los rasgos hereditarios de un organismo?;ADN;Enzimas;Polipéptidos;Meiosis;2245
+164;biologia;¿En qué unidad se mide la energía proveniente de la comida?;Calorías;Kelvins;Bushels;Vatios;2290
+165;biologia;¿Qué científico hizo famosas las Islas Galápagos?;Charles Darwin;Isaac Newton;Louis Pasteur;Nikola Tesla;2319
+166;biologia;¿Qué frase acuñó Herbert Spence, habitualmente atribuida de forma incorrecta a Darwin?;Supervivencia del más apto;Adaptación por procreación ;El uso hace al órgano;Procreación por adaptación;2301
+167;biologia;¿Qué le sucede al ritmo respiratorio cuando hay una bajada en la concentración del oxígeno en sangre?;Aumenta;Disminuye;Primero disminuye y luego aumenta;No se ve afectado;2261
+168;biologia;¿Qué palabra se refiere a la variedad de vida animal y vegetal en el mundo o en un hábitat particular?;Biodiversidad;Bioconversión;Multiplicidad;Multiformidad;2290
+169;biologia;¿Qué se clasifica con el sistema ABO?;Grupos sanguíneos;Nódulos linfáticos;Ratones de laboratorio;Pingüinos;2277
+170;biologia;¿Qué se crea cuando el ADN de un organismo cambia permanentemente?;Mutación;Bifurcación;Transfiguración;Adaptación;2231
+171;biologia;¿Qué significa el \mio\ en \miocardial\?;Músculo;Corazón;Vena;Sangre;2282
+172;biologia;¿Qué significa la palabra\ biología\?;Estudio de la vida;Estudio de los seres;Estudio de la naturaleza;Estudio de las células;2242
+173;biologia;¿Qué son los humanos?;Omnívoros;Herbívoros;Carnívoros;Vermívoros;2321
+174;biologia;¿Qué son los mohos, las levaduras y las setas?;Hongos;Plantas;Algas;Bacterias;2248
+175;biologia;¿Qué vitamina aumenta su producción con la exposición al sol?;Vitamina D;Vitamina A;Vitamina B;Vitamina C;2295
+176;biologia;¿Qué vitamina tiene \ácido ascórbico\ como nombre químico?;C;D;E;K;2314
+177;biologia;¿Qué vitamina tiene \ácido fólico\ como nombre químico?;B9;A;C;D;2285
+178;botanica;¿A qué familia de plantas pertenece el brócoli?;Crucíferas;Perennes;Tuberculosas;Caducifolias;2309
+179;botanica;¿Cómo se le llama al movimiento diario o estacional de las plantas en respuesta a la dirección del sol?;Heliotropismo;Heterocentrismo;Cinefilia;Bioluminiscencia;2260
+180;botanica;¿Cómo se llama el fino tallo que une la hoja al tallo principal?;Pecíolo;Cáliz;Pistilo;Estamen;2272
+181;botanica;¿Cómo se llama el tejido hecho de corcho que forma la corteza exterior de los árboles?;Peridermo;Epidermo;Peritoneumo;Epitoneumo;2292
+182;botanica;¿Cómo se llaman los pigmentos orgánicos anaranjados producidos por plantas y algas?;Carotenoides;Clorofilas;Cianoides;Betanoides;2309
+183;botanica;¿Cuál es el nombre botánico para el órgano reproductivo masculino de las plantas con flores?;Estambre;Cáliz;Carpelo;Fronda;2339
+184;botanica;¿Cuál es el principal mecanismo que utilizan las plantas para mover el agua por sus tejidos?;Transpiración;Fotosíntesis;Osmosis;Movimientos peristálticos;2304
+185;botanica;¿Cuál es el proceso por el que las microesporas de una planta se transfieren a otra planta de la misma especie?;Polinización;Pimpolleo;Germinación;Fertilización;2313
+186;botanica;¿De qué está hecho el ámbar?;Resina fosilizada;Lava sólida;Carbón presurizado a alta temperatura;Silicio combinado con agua;2307
+187;botanica;¿Dónde se producen los granos de polen de las plantas?;Flores;Tallos;Raíces;Hojas;2163
+188;botanica;¿En qué convierten las plantas los nitratos que absorben del suelo?;Aminoácidos;Urea;Amoníaco;Metano;2350
+189;botanica;¿En qué crecen las plantas epifitas y parasíticas?;Otras plantas;Tierra;Arena;Piedra;2214
+190;botanica;¿En qué organismos tiene lugar el ciclo de Calvin?;En plantas;En mamíferos;En bacterias;En hongos;2333
+191;botanica;¿En qué proceso liberan las plantas oxígeno como producto de desecho?;Fotosíntesis;Respiración;Perspiración;Oxidación;2326
+192;botanica;¿Qué ácido hace que las ortigas piquen?;Ácido fórmico;Ácido nítrico;Ácido láctico;Ácido nucleico;2267
+193;botanica;¿Qué árboles mantienen sus hojas durante el invierno?;Perennes;Bieniales;Caducifolios;Ditransitivos;2317
+194;botanica;¿Qué células tienen una pared celular, plastos y plasmodesmos?;Células vegetales;Células procariotas;Células animales;Células víricas;2285
+195;botanica;¿Qué desarrollaron las plantas para aumentar la cantidad de luz que pueden capturar para la fotosíntesis?;Hojas;Raíces;Flores;Semillas;2236
+196;botanica;¿Qué es lo que produce la marchitación de las plantas si se da en exceso?;Transpiración;Fotosíntesis;Absorción;Convulsión;2269
+197;botanica;¿Qué es típico en las plantas caducifolias?;Perder las hojas en invierno;No producir oxígeno;No sobrevivir en aislamiento;No soportar la luz del sol;2296
+198;botanica;¿Qué es una granja a gran escala que se especializa en cultivos comerciales?;Plantación;Huerta;Arboleda;Jardín;2318
+199;botanica;¿Qué estudian los dendrólogos?;Árboles;Tundra;Jardines;Tubérculos;2233
+200;botanica;¿Qué longitud de onda luminosa absorbe la clorofila?;Roja y azul;Verde y azul;Amarilla y verde;Verde y roja;2316
+201;botanica;¿Qué nombre se le da a las plantas cuyas semillas están en el interior de un fruto?;Angiospermas;Endospermas;Zoospermas;Autospermas;2326
+202;botanica;¿Qué organismo posee características tanto de plantas como de animales y por ello forman su propio reino?;Hongos;Corales;Virus;Esponjas;2339
+203;botanica;¿Qué partes de algunas plantas se mueven con la luz?;Flores y hojas;Flores y tallos;Hojas y tallos;Tallos y raíces;2320
+204;botanica;¿Qué planta se llamó como la diosa griega del arcoiris?;Iris;Camelia;Dahlia;Mimosa;2167
+205;botanica;¿Qué planta tiene la mayor semilla del reino vegetal?;Coco de mar;Aguacate;Mango;Calabaza;2191
+206;botanica;¿Qué plantas crecen sobre otras plantas pero son inofensivas para sus anfitrionas?;Epífitas;Parasíticas;Parasimpáticas;Epigenéticas;2270
+207;botanica;¿Qué plantas crecen un año, florecen y producen frutos al siguiente y luego mueren?;Bienales;Ditransitivas;Semianuales;Flores gemelas;2286
+208;botanica;¿Qué plantas tienen partes gruesas y carnosas, normalmente para retener agua en climas áridos?;Suculentas;Caducifolias;Bienales;Perennes;2228
+209;botanica;¿Qué plantas tienen tejidos para conducir el agua y los minerales por ellas?;Plantas vasculares;Musgos;Hepáticas;Anthocerotophytas;2228
+210;botanica;¿Qué rama de la agricultura trata el arte, la ciencia, la tecnología y el negocio del cremiento de las plantas?;Horticultura;Fruticultura;Crececultura;Floricultura;2231
+211;botanica;¿Qué significa \sakura\ en japonés?;Cerezo en flor;Melocotonero en flor;Manzano en flor;Peral en flor;2308
+212;botanica;¿Qué son las espinas de los cactus?;Hojas altamente modificadas;Tallos muy finos;Raíces externas;Frutos no comestibles;2230
+213;botanica;¿Qué subunidades de las células vegetales llevan a cabo la fotosíntesis?;Cloroplastos;Mitocondria;Amiloplastos;Ribosomas;2246
+214;botanica;¿Qué tienen las plantas que la mayoría de animales no tienen?;Celulosa;Glucosa;Lipoproteínas;Ribosomas;2359
+215;botanica;¿Qué tipo de estructura vegetal es una patata?;Tubérculo;Rizoma;Tallo;Hoja;2294
+216;clasica;¿Cuál de éstas es una conocida obra de Richard Wagner?;El anillo del nibelungo;La reina de la noche;Claro de luna;Las cuatro estaciones;2199
+217;clasica;¿Cuál de las óperas de Mozart está basada en la leyenda de Don Juan?;Don Giovanni;Las bodas de Fígaro;La flauta mágica;La clemencia de Tito;2330
+218;clasica;¿Cuál es el nombre de una canción secular para varias voces, especialmente del período del Renacimiento?;Madrigal;Inseguendo;Concerto;Agglomerato;2299
+219;clasica;¿Cuál es el nombre del texto de una ópera?;Libreto;Foliato;Guiato;Lirato;2251
+220;clasica;¿Cuál fue la única ópera escrita por Beethoven?;Fidelio;La bohème;Rigoletto;Carmen;2364
+221;clasica;¿De qué compositor era Franz Liszt suegro?;Richard Wagner;Wolfgang Amadeus Mozart;Ludwig van Beethoven;Antonio Vivaldi;2207
+222;clasica;¿De qué compositor es la obra \El Barbero de Sevilla\?;Gioachino Rossini;Pyotr Ilyich Tchaikovsky;Antonio Vivaldi;Samuel Scheidt;2283
+223;clasica;¿De qué enfermedad murió Tchaikovsky?;Cólera;Tuberculosis;Peste;Gripe;2199
+224;clasica;¿De quién es el vals \El Danubio azul\?;Johann Strauss II;Giacomo Puccini;Richard Strauss;Gioachino Rossini;2282
+225;clasica;¿En qué ciudad se abrió la primera ópera pública?;Venecia;Viena;Roma;París;2282
+226;clasica;¿En qué ciudad se puede encontrar la famosa sala de conciertos \Carnegie Hall\?;Nueva York;París;Sidney;Londres;2261
+227;clasica;¿Para qué instrumento compuso Bach la \Tocata y fuga en re menor\?;Órgano;Violín;Arpa;Flauta;2274
+228;clasica;¿Qué bebida le gustaba tanto a Bach que escribió una cantata sobre ella?;Café;Leche;Vino;Hidromiel;2334
+229;clasica;¿Qué compositor barroco escribió más de trescientas cantatas?;Johann Sebastian Bach ;Claudio Monteverdi;Antonio Vivaldi;George Frideric Handel;2296
+230;clasica;¿Qué compositor clásico escribió las Rapsodias Húngaras?;Franz Liszt;Igor Stravinsky;Georges Bizet;Giacomo Puccini;2299
+231;clasica;¿Qué compositor empezó a componer a los 5 años?;Wolfgang Amadeus Mozart;Ludovico Einaudi;Antonio Vivaldi;Antonio Salieri;2263
+232;clasica;¿Qué compositor envió una serie de cartas de amor a una mujer desconocida a la que llamaba \Amada Inmortal\?;Ludwig van Beethoven;Franz Liszt;Igor Stravinsky;Johann Sebastian Bach;2338
+233;clasica;¿Qué compositor es famoso por sus 9 sinfonías?;Ludwig van Beethoven;Richard Wagner;Wolfgang Amadeus Mozart;Antonio Vivaldi;2337
+234;clasica;¿Qué cualidad define a una rapsodia?;Una sensación de espontaneidad;Un dueto entre una soprano y un barítono;La ausencia de instrumentos de cuerda;Armonías;2237
+235;clasica;¿Qué discapacidad sensorial desarrolló Beethoven?;Sordera;Ceguera;Alexia;Agnosia;2348
+236;clasica;¿Qué famoso compositor barroco era también un maestro organista?;Johann Sebastian Bach;Antonio Vivaldi;Heinrich Schütz;Samuel Scheidt;2325
+237;clasica;¿Qué instrumento inventó Bartolomeo Cristofori?;Piano;Flauta;Guitarra;Arpa;2291
+238;clasica;¿Qué instrumento musical inventó Johann Cristoph Denner?;Clarinete;Guitarra;Oboe;Trompeta;2285
+239;clasica;¿Qué otra profesión aparte de compositor tenía Vivaldi?;Sacerdote;Químico;Pintor;Granjero;2279
+240;clasica;¿Qué pieza musical se toca como lamento tras la muerte de alguien?;Réquiem;Concerto;Cantata;Sonata;2194
+241;clasica;¿Qué se utilizaba para dirigir la orquesta antes de que se inventara la batuta?;Bastón ;Espada de madera;Pértiga;Dos dagas de madera;2251
+242;clasica;¿Qué significa la palabra \Bolshói\ en el \Teatro Bolshói\?;Grande;Rojo ;El mejor;Grácil;2284
+243;clasica;¿Qué virtuoso del violín era tan bueno al tocarlo que se rumoreaba que había vendido su alma al diablo?;Niccolò Paganini;Wolfgang Amadeus Mozart;Arcangelo Corelli;Antonio Vivaldi;2315
+244;clasica;¿Quién compuso \Cuadros de una exposición\?;Modest Mussorgsky;Mily Balakirev;César Cui;Alexander Borodin;2329
+245;clasica;¿Quién compuso el \Himno de la alegría\, el himno oficial de la Unión Europea?;Ludwig van Beethoven;Johann Sebastian Bach;Mozart;Antonio Vivaldi;2340
+246;clasica;¿Quién compuso la ópera \Carmen\?;Georges Bizet;Maurice Ravel;Giuseppe Verdi;Wolfgang Amadeus Mozart;2265
+247;clasica;¿Quién compuso la ópera en 4 actos llamada \Aída\?;Giuseppe Verdi;Ludwig van Beethoven;Wolfgang Amadeus Mozart;Andre Gabrieli;2319
+248;clasica;¿Quién compuso la pieza orquestral de un solo movimiento llamada \Bolero\?;Maurice Ravel;Erich Leinsdorf;William Steinberg;Leonard Bernstein;2309
+249;clasica;¿Quién compuso los ballets \La Bella Durmiente\ y \El Cascanueces\?;Pyotr Ilyich Tchaikovsky;Modest Mussorgsky;Igor Stravinsky;Mily Balakirev;2392
+250;clasica;¿Quién escribió la música para los ballets \El pájaro de fuego\ y \La consagración de la primavera\?;Igor Stravinsky;Gioachino Rossini;Johann Sebastian Bach;Giuseppe Verdi;2202
+251;clasica;¿Quién escribió las óperas \Madam Butterfly\, \La bohème\ y \Tosca\?;Giacomo Puccini;Richard Wagner;Giuseppe Verdi;Franz Liszt;2198
+252;clasica;¿Quién fue el compositor de \Las cuatro estaciones\?;Antonio Vivaldi;Ludwig van Beethoven;Johann Sebastian Bach;Wolfgang Amadeus Mozart;2357
+253;comida;¿Cómo se le llama a una uva seca?;Pasa;Ciruela;Cereza;Dátil;2204
+254;comida;¿Cómo se llama el desayuno hecho con copos de avena, frutas, nueces y yogur?;Muesli;Hash browns;Tostadas francesas;Gofres;2330
+255;comida;¿Cómo se llama la fruta cuyo valor nutricial viene en un 75% de las grasas?;Aguacate;Mango;Piña;Plátano;2377
+256;comida;¿Con qué órgano se hace el foie gras?;Hígado;Corazón;Estómago;Cerebro;2210
+257;comida;¿Con qué se hace principalmente el cuscús?;Trigo;Arroz;Cebada;Avena;2262
+258;comida;¿Con qué tipo de leche se hace el queso feta principalmente?;Oveja;Cabra;Vaca;Camello;2248
+259;comida;¿Cuál de estos cócteles combina vodka con zumo de naranja?;Destornillador;Jäggerbomb;Mojito;Huracán;2309
+260;comida;¿Cuál de las siguientes comidas es una mejor fuente de proteína?;Pescado;Leche;Aguacate;Almendras;2259
+261;comida;¿Cuál es el animal cuya leche se utiliza para hacer el queso Mozzarella?;Búfala;Cabra;Yegua;Vaca;2224
+262;comida;¿Cuál es el ingrediente principal de la sopa rusa \Borscht\?;Remolacha;Carne de vacuno;Tomate;Pollo;2226
+263;comida;¿Cuánto dura aproximadamente la leche pasteurizada si se mantiene refrigerada?;Hasta 3 semanas;Casi un mes;Hasta 1 semana;Casi 3 meses;2257
+264;comida;¿De qué animal se obtiene la carne de Kobe?;Vacas;Cabras;Gallinas;Ovejas;2305
+265;comida;¿De qué está hecho el sake? ;Arroz;Patata;Maíz;Sandía;2298
+266;comida;¿De qué está hecho el tequila?;Agave azul;Patatas;Maíz;Arroz;2246
+267;comida;¿De qué está hecho el tofu?;Leche de soja;Puré de patata;Harina de maíz;Arroz comprimido;2329
+268;comida;¿De qué está hecho el turrón?;Azúcar y frutos secos;Azúcar, trigo y mantequilla;Azúcar, manzana y canela;Azúcar, sal y caramelo;2336
+269;comida;¿De qué está hecho el vodka?;Patatas;Ciruelas;Nabos;Maíz;2310
+270;comida;¿De qué está hecho el whiskey?;Mezcla de cereales;Frutos secos;Frutas tropicales;Jugo de verduras;2299
+271;comida;¿De qué país proviene el sushi?;Japón;China;Vietnam;Corea del sur;2260
+272;comida;¿De qué parte del árbol se saca la canela?;Corteza;Savia;Raíz;Hojas;2386
+273;comida;¿En qué país se cultivaron las primeras naranjas?;China;España;Estados Unidos;Chad;2293
+274;comida;¿En qué tipo de grasas que ayudan a reducir el colesterol es rico el aceite de oliva?;Monoinsaturadas;Poliinsaturadas;Saturadas;Oligoinsaturadas;2305
+275;comida;¿Qué comida es la tercera más producida en el mundo?;Arroz;Trigo;Patata;Cuscús;2378
+276;comida;¿Qué es el basmati?;Arroz indio;Verdura vietnamita;Fruta china;Especia japonesa;2371
+277;comida;¿Qué país produce el vino Tokay?;Hungría;Egipto;Colombia;Uzbekistán;2190
+278;comida;¿Qué popular verdura fue cultivada primero por los antiguos egipcios?;Lechuga;Pimiento verde;Espinacas;Coles de Bruselas;2259
+279;comida;¿Qué proporción de agua contienen los pepinos?;0,95;0,65;0,45;0,85;2315
+280;comida;¿Qué proceso se utiliza para matar microbios en la leche, el zumo y la comida enlatada?;Pasteurización;Deshidratación;Filtración;Centrifugación;2277
+281;comida;¿Qué significa la palabra \brut\ cuando hablamos de champán?;Muy seco;Muy frutal;Muy ligero;Muy dulce;2299
+282;comida;¿Qué son las trufas?;Hongos;Legumbres;Frutas;Raíces;2301
+283;comida;¿Qué son los \portobello\ y los \shiitake\?;Setas;Queso;Carne;Cereales;2251
+284;comida;¿Qué verdura veneraban los antiguos egipcios, considerándola un símbolo de la vida eterna?;Cebolla;Ajo;Puerro;Rábano;2298
+285;cuerpo;¿Cada cuánto se renueva la epidermis con una nueva cosecha de células?;48 días;14 días;7 días;32 días;2326
+286;cuerpo;¿Cómo llamamos a alguien que vive más de 100 años?;Centenario;Decadecario;Longevo;Matusalén;2298
+287;cuerpo;¿Cómo se le llama a la incapacidad para dormir?;Insomnio;Apnea;Terrores nocturnos;Hipotiroidismo;2261
+288;cuerpo;¿Cómo se llama a la parte coloreada del ojo que controla cuánta luz pasa a través de la pupila?;Iris;Retina;Córnea;Mácula;2249
+289;cuerpo;¿Cómo se llama el músculo que se utiliza para respirar y que separa el pecho del abdomen?;Diafragma;Bronquio;Alvéolo;Hilio;2332
+290;cuerpo;¿Cómo se llama el pronunciado dolor de cabeza que aparece de forma periódica y que suele estar acompañado de náuseas?;Migraña;Cefalea tensional;Epilepsia;Amnesia;2236
+291;cuerpo;¿Cómo se llama el tendón situado por encima del talón humano?;Tendón de Aquiles;Tendón de Cleopatra;Tendón de César;Tendón de Zeus;2230
+292;cuerpo;¿Cómo se llama la arteria mayor situada en el lateral del cuello?;Carótida;Aorta;Femoral;Braquial;2293
+293;cuerpo;¿Cuál es el músculo más largo del cuerpo humano?;Sartorio;Occipital;Supracostal;Músculo recto del abdomen;2252
+294;cuerpo;¿Cuál es el nombre de la metaloproteína que transporta oxígeno en nuestro cuerpo?;Hemoglobina;Queratina;Colágeno;Mioglobina;2185
+295;cuerpo;¿Cuál es el número de cromosomas en el Síndrome de Down en humanos?;47;48;49;46;2245
+296;cuerpo;¿Cuál es el número habitual de cromosomas en una célula humana?;46;42;44;48;2290
+297;cuerpo;¿Cuál es el órgano humano más transplantado?;Riñón;Hígado;Corazón;Pulmón;2302
+298;cuerpo;¿Cuál es la presión sanguínea normal en humanos?;120/80;110/50;150/100;160/80;2182
+299;cuerpo;¿Cuál fue el primer órgano en ser transplantado con éxito en 1954?;Riñón;Pulmón;Hígado;Corazón;2219
+300;cuerpo;¿Cuántas cámaras hay en un corazón humano?;4;3;2;6;2277
+301;cuerpo;¿Cuántas semanas dura un embarazo normalmente?;38 semanas;47 semanas;59 semanas;31 semanas;2333
+302;cuerpo;¿Cuántas vértebras tiene normalmente un ser humano?;33;27;42;18;2246
+303;cuerpo;¿Cuántos músculos esqueléticos tiene el cuerpo humano?;Alrededor de 640;Alrededor de 900;Alrededor de 395;Alrededor de 175;2299
+304;cuerpo;¿Dónde está el hioides, el único hueso humano que no está directamente conectado a otro?;Garganta;Pecho;Pie;Cráneo;2330
+305;cuerpo;¿En qué parte del cuerpo humano es la piel más fina?;En los párpados;En la punta de los dedos;En la planta de los pies;En el codo;2167
+306;cuerpo;¿En qué parte del cuerpo se encuentra el occipucio?;En la parte trasera de la cabeza;En las pantorrillas;En las muñecas;En la parte baja de la espalda;2321
+307;cuerpo;¿Qué aflicción sufre al menos un cuarto de la humanidad?;Miopía;Polidactília;Asma;Amusia;2276
+308;cuerpo;¿Qué células del cuerpo humano son las menos sensisbles a la radiación?;Células nerviosas y musculares;Células epidérmicas;Células medulares;Células hepáticas;2273
+309;cuerpo;¿Qué componente se encuentra en el pelo, las uñas y la piel? ;Queratina;Glucosa;Colesterol;Vitamina A;2296
+310;cuerpo;¿Qué elemento está presente en mayor proporción en masa en el cuerpo humano?;Oxígeno;Nitrógeno;Carbono;Hidrógeno;2325
+311;cuerpo;¿Qué hueso es el más fuerte y más largo en los seres humanos?;Fémur;Cúbito;Tibia;Peroné;2288
+312;cuerpo;¿Qué incrementa la norepinefrina?;Presión sanguínea;Distensión muscular;Producción de orina;Producción de saliva;2258
+313;cuerpo;¿Qué neurotransmisor y hormona es habitualmente conocida como \adrenalina\?;Epinefrina;Melatonina;Glutamato;Serotonina;2210
+314;cuerpo;¿Qué órgano está involucrado en el desarrollo de la ictericia?;Hígado;Páncreas;Intestino delgado;Bazo;2270
+315;cuerpo;¿Qué proporción de nuestro cuerpo representa la médula ósea?;0,05;0,15;0,1;0,2;2259
+316;cuerpo;¿Qué puede hacer la gente escotópica?;Ver en la oscuridad;Chuparse el codo;Ponerse los pies tras el cuello;Leer al revés con facilidad;2243
+317;cuerpo;¿Qué sistema biológico controla las glándulas y las hormonas?;Endocrino;Locomotor;Digestivo;Respiratorio;2316
+318;cuerpo;¿Qué suele ocurrir cuando el diafragma sufre espasmos?;Hipo;Vómito;Excreción;Estornudo;2301
+319;cuerpo;¿Qué tipo de pelo no se ve afectado por la pubertad?;Pestañas;Vello facial;Pelo de la cabeza;Vello de la axila;2246
+320;deportes;¿Con qué deporte está asociado Tiger Woods?;Golf;Boxeo;Ping-pong;Tenis;2271
+321;deportes;¿Cuál era el nombre de nacimiento de Muhammad Alí?;Cassius Clay;Aaron Chester;Andre Diamond;Darnell Houston;2220
+322;deportes;¿Cuál es el término de tenis que denota que cada lado tiene una puntuación de 40 en un juego?;Deuce;Falta;Grand Slam;Basline;2316
+323;deportes;¿Cuál es la distancia de una maratón?;42,195 km;28,8 km;26,219 km;45,195 km;2292
+324;deportes;¿Cuál es la duración normal de un partido de rugby?;80 minutos;90 minutos;60 minutos;100 minutos;2347
+325;deportes;¿Cuáles son las dimensiones de la cancha de baloncesto para los Juegos Olímpicos y los Torneos mundiales?;28 m x 15 m;26 m x 14 m;29 m x 16 m;25 m x 15 m;2286
+326;deportes;¿Cuándo tuvieron lugar los primeros Juegos Olímpicos en la ciudad de Olimpia en Grecia?;776 a. C.;850 a. C.;1000 a. C.;753 a. C.;2283
+327;deportes;¿Cuándo y dónde se introdujo el atletismo en los Juegos Olímpicos?;1896 en Atenas;1900 en París;1992 en Barcelona;2012 en Londres;2268
+328;deportes;¿Cuántos equipos de fútbol participaron en la Copa Mundial de la FIFA 2010?;32;24;16;64;2193
+329;deportes;¿Cuántos jugadores de cada equipo juegan al mismo tiempo en un partido de baloncesto?;5;7;6;8;2241
+330;deportes;¿Cuántos jugadores de cada equipo juegan al mismo tiempo en un partido de fútbol?;11;10;12;13;2206
+331;deportes;¿De qué color es la camiseta que lleva el líder en la clasificación de puntos del Tour de Francia?;Verde;Blanco;Amarillo;Azul;2199
+332;deportes;¿Dónde se celebraron los Juegos Olímpicos de 2012?;Londres;Pekín;Sudáfrica;Atenas;2309
+333;deportes;¿Dónde se celebraron los primeros Juegos Olímpicos de Invierno?;Chamonix (Francia);Innsburck (Austria);Lake Placid (Estados Unidos);Calgary (Canadá);2258
+334;deportes;¿En qué año llegó Sir Edmund Hillary a la cima del Monte Everest?;1953;1960;1975;1971;2257
+335;deportes;¿En qué carrera de atletismo podría uno mojarse?;Carrera con obstáculos;110m vallas;4 x 800m relevos;1000m;2247
+336;deportes;¿En qué ciudad inglesa se ha celebrado el torneo de Wimbledon desde su fundación en 1877?;Londres;Liverpool;Birmingham;Manchester;2261
+337;deportes;¿En qué deporte se disputa la Copa Stanley?;Hockey sobre hielo;Esgrima;Tiro con arco;Rugby;2263
+338;deportes;¿En qué deporte se les pide a las personas zurdas que jueguen con la mano derecha?;Polo;Dardos;Badminton;Tenis;2325
+339;deportes;¿En qué deporte un jinete a caballo golpea una pelota con un mazo?;Polo;Croquet;Cricket;Lacrosse;2261
+340;deportes;¿Qué ciudad albergó las primeras Olimpiadas modernas en 1896?;Atenas (Grecia);París (Francia);Londres (Gran Bretaña);Los Ángeles (Estados Unidos);2283
+341;deportes;¿Qué color de pista usan los esquiadores expertos?;Negro;Verde;Azul;Rojo;2308
+342;deportes;¿Qué deporte de raqueta se puede jugar con cuatro bolas de diferentes rebotes?;Squash;Tenis;Badminton;Pádel;2338
+343;deportes;¿Qué deporte es el más similar al softbol?;Baseball;Balonmano;Volleyball;Baloncesto;2260
+344;deportes;¿Qué deporte se juega en el Campeonato de Wimbledon?;Tenis;Fútbol;Rugby;Baseball;2276
+345;deportes;¿Qué jugador fue el culpable del incidente conocido como \La mano de Dios\?;Diego Maradona;Eric Cantona;Cristiano Ronaldo;Lionel Messi;2292
+346;deportes;¿Qué otro color está presente en el símbolo de los Juegos Olímpicos aparte del azul, rojo, verde y amarillo?;Negro;Marrón;Púrpura;Naranja;2305
+347;deportes;¿Quién es el MVP en un equipo deportivo?;Jugador más valioso;Jugador más volátil;Jugador más redimido;Jugador más veloz;2261
+348;deportes;¿Quién ganó la Copa Mundial de la FIFA 1998?;Francia;Brasil;España;Inglaterra;2259
+349;deportes;¿Quién ganó seis títulos consecutivos de Wimbledon femenino en la década de 1980?;Martina Navratilova;Serena Williams;Margaret Court;Venus Williams;2277
+350;economia;¿Cómo llamamos a las ganancias totales de un individuo que provienen de sus salarios, inversiones y otras fuentes?;Ingresos personales;Surplús;Dividendos;Acciones;2290
+351;economia;¿Cómo se le llama a un negocio o una empresa dirigida por una sola persona?;Empresa individual;Monopolio;Auto-negocio;Independencia;2224
+352;economia;¿Cómo se le llama a una promesa escrita de pagar más adelante una cantidad que se ha tomado prestada?;Bono;Enlace;Juramento;Aseguración;2263
+353;economia;¿Cómo se le llama al cheque que representa una porción de los beneficios de una corporación?;Dividendo;Cociente;Divisor;Restos;2252
+354;economia;¿Cómo se le llama al uso de las recaudaciones de ingresos del gobierno para influir en la economía?;Política fiscal;Política de intercambio;Política monetaria;Política pública;2348
+355;economia;¿Cómo se denomina al declive económico de una economía?;Recesión;Ralentización;Rezague;Lentitud;2330
+356;economia;¿Cómo se denomina al hecho de que una persona o empresa específica sea el único suministrador de una mercancía particular?;Monopolio;Oligopolio;Centralización;Mercado libre;2256
+357;economia;¿Cómo se llama el dinero extra que se debe pagar al pedir un préstamo?;Interés;Copago;Impuesto;Surplús;2296
+358;economia;¿Cómo se llama el sistema en el que ciudadanos privados controlan los medios de producción?;Capitalismo;Comunismo;Socialismo;Feudalismo;2351
+359;economia;¿Cuál es la abrumadora ventaja que tiene el suministrador más grande de una industria sobre sus competidores?;Monopolio natural;Inicio rápido;Precio fijo;Empujón estructural;2293
+360;economia;¿Cuál es la fuerza que motiva a las personas y organizaciones a obtener un beneficio monetario?;Ánimo de lucro;Ánimo de utilidad;Ánimo moral;Ánimo de satisfacción;2261
+361;economia;¿Cuál es la principal y más efectiva forma de incentivo utilizada en el mundo de los negocios?;Incentivo financiero;Incentivo moral;Incentivo coercitivo;Incentivo natural;2149
+362;economia;¿Cuál fue la primera tarjeta de crédito del mundo?;Diners Club;Carte Blanche;American Express;Visa;2348
+363;economia;¿Cuál suele ser la principal fuente de ingresos de un gobierno?;Impuestos;Regalías;Valores;Imprenta;2195
+364;economia;¿Cuándo comenzó la crisis del euro?;2009;2012;2005;2003;2226
+365;economia;¿Cuándo entraron en circulación las monedas físicas de Euro?;2002;1998;2000;1999;2313
+366;economia;¿Dónde está el cuartel general del Banco Central Europeo?;Frankfurt;Estrasburgo;Salsburgo;Grenoble;2238
+367;economia;¿En qué década tuvo lugar la Gran Depresión?;1930s;1940s;1950s;1920s;2271
+368;economia;¿En qué industria se hizo rico John Davidson Rockefeller?;Petróleo;Oro;Piedras preciosas;Tecnología;2329
+369;economia;¿En qué país es la rupia la unidad monetaria?;India;Francia;Chad;Lesoto;2237
+370;economia;¿En qué país utilizan el yen como moneda?;Japón;China;Corea del Sur;Corea del Norte;2345
+371;economia;¿Qué ciudad se considera el lugar de nacimiento del mercado de valores?;Amsterdam;Londres;Nueva York;Roma;2186
+372;economia;¿Qué estudia y colecciona la numismática?;Monedas;Sellos;Medallas;Pins;2352
+373;economia;¿Qué ley busca mantener la competitividad del mercado regulando la conducta anti-competitiva de las compañías?;Derecho de la competencia;Darwinismo social;Mercado libre;Ley de demanda y oferta;2216
+374;economia;¿Cómo se denomina al bajón sostenido y a largo plazo en la actividad económica de una o más economías?;Depresión;Hundimiento;Valle;Foso;2367
+375;economia;¿Cómo se denomina a la ralentización en la actividad económica durante un ciclo de negocios normal?;Recesión;Deceleración;Rezague;Retraso;2302
+376;economia;¿Qué nombre se le da a las negociaciones entre representates de los trabajadores y la administración?;Negociación colectiva;Salario;Beneficios;Representación;2351
+377;economia;¿Qué otro nombre hay para un intercambio de valores?;Bolsa;Mercado;Economía;Beneficio;2293
+378;economia;¿Qué país usa el dong como moneda?;Vietnam;China;Malasia;Korea;2322
+379;economia;¿Qué parte de la economía trata el comportamiento y decisiones de pequeñas unidades, como los individuos y las firmas?;Microeconomía;Macroeconomía;Mesoeconomía;Nanoeconomía;2214
+380;economia;¿Qué rama de la economía trata el rendimiento, estructura, comportamiento y decisiones de una economía en general?;Macroeconomía;Microeconomía;Meseconomía;Exoeconomía;2348
+381;economia;¿Qué significa USD?;United States dollar;United States distinction;United States district;United States dwelling;2312
+382;economia;¿Qué término denota una bajada del valor de una moneda?;Inflación;Volumen;Flote;Densidad;2265
+383;economia;¿Qué utilizaban como moneda Siberia, Mongolia, Tibet y China en el siglo 18?;Té;Seda;Marfil;Especias;2315
+384;europa;¿A qué país pertenece Groenlandia?;Dinamarca;Suiza;Gran Bretaña;Alemania;2318
+385;europa;¿Cómo se llama la ciudad de Italia situada en un grupo de 118 pequeñas islas?;Venecia;Florencia;Trieste;Milán;2279
+386;europa;¿Cuál de estas ciudades está más al norte?;Londres;París;Madrid;Roma;2241
+387;europa;¿Cuál es el golfo que separa Finlandia de Suecia?;Golfo de Botnia;Golfo de León;Golfo de Génova;Golfo de Venecia;2285
+388;europa;¿Cuál es el país europeo con la mayor densidad poblacional?;Malta;Bélgica;Países Bajos;Francia;2326
+389;europa;¿Cuál es el pico más alto de Europa?;Elbrús;Olimpo;Mont Blanc;Everest;2332
+390;europa;¿Cuál es el río más largo de Europa?;Volga;Dniéper;Támesis;Danubio;2215
+391;europa;¿Cuál es el río más largo de Francia?;Loira;Sena;Marne;Somme;2379
+392;europa;¿Cuál es el río más largo de Italia?;Po;Tíber;Adigio;Oglio;2149
+393;europa;¿Cuál es el volcán activo más alto de Europa?;Etna;Estrómboli;Vesubio;Krakatoa;2291
+394;europa;¿Cuál es la capital de Albania?;Tirana;Yerevan;Riga;Vaduz;2334
+395;europa;¿Cuál es la capital de Bielorrusia?;Minsk;Belgrado;Helsinki;Moscú;2322
+396;europa;¿Cuál es la capital de Dinamarca?;Copenhage;Viena;Madrid;Estocolmo;2365
+397;europa;¿Cuál es la capital de Finlandia?;Helsinki;Reikiavik;Estocolmo;Oslo;2279
+398;europa;¿Cuál es la ciudad más poblada de Suiza?;Zúrich;Ginebra;Basilea;Lausana;2236
+399;europa;¿Cuáles son las cordilleras más prominentes de Europa?;Alpes, Cárpatos, Pirineos y Apeninos;Alpes, Himalaya y Montañas Rocosas;Alpes, Andes y Pirineos;Alpes y Apalaches;2274
+400;europa;¿Cuántos idioma oficiales tiene Suiza?;4;3;2;5;2304
+401;europa;¿De dónde viene el nombre de Europa?;Mitología griega;Mitología romana;Mitología eslava;Mitología anglosajona;2346
+402;europa;¿De qué color es la cruz de la bandera griega?;Blanca;Azul;Amarilla;Verde;2280
+403;europa;¿De qué país es Budapest la capital?;Hungría;India;Estonia;Austria;2245
+404;europa;¿Dónde se encuentra Hellas?;Grecia;Hungría;Noruega;Suecia;2383
+405;europa;¿Dónde se halla la cuenca hidrográfica del Río Rin?;Mar del Norte;Golfo de Vizcaya;Mar Adrático;Mar Báltico;2350
+406;europa;¿En qué grupo insular se halla la isla de Formentera?;Baleares;Canarias;Cíclades;Azores;2181
+407;europa;¿En qué mar desemboca el rio Ródano?;Mar Mediterráneo;Mar del Norte;Mar Rojo;Mar Negro;2230
+408;europa;¿A orillas de qué río está situada la ciudad de Londres?;Támesis;Severn;Danubio;Tíber;2401
+409;europa;¿Qué capital está caldeada por aguas termales volcánicas?;Reikiavik;Oslo;Estocolmo;Helsinki;2234
+410;europa;¿Qué ciudad contiene las antiguas ruinas romanas de cuando fue enterrada en lava proveniente del Vesuvio?;Pompeya;Alcúdia;Florencia;Marsella;2239
+411;europa;¿Qué ciudad es la capital de Liechtenstein?;Vaduz;Viena;Budapest;Amsterdam;2274
+412;europa;¿Qué país era conocido por los antiguos romanos como \Hibernia\?;Irlanda;Inglaterra;Escocia;Gales;2222
+413;europa;¿Qué país llama a parte de su población \Sami\?;Noruega;Dinamarca;Grecia;Francia;2267
+414;europa;¿Qué país tiene su mapa en su bandera?;Chipre;Malta;Líbano;Siria;2197
+415;europa;¿Qué país tiene Tallin como su capital?;Estonia;Austria;Croacia;Chipre;2248
+416;europa;¿Qué río europeo pasa por 10 países y 4 capitales?;Danubio;Volga;Rin;Elba;2383
+417;europa;¿Qué ríos forman la bahía donde se encuentra Venecia?;Po y Piave;Po y Arno;Tíber y Arno;Adigio y Tíber;2350
+418;filosofia;¿A qué filósofo describió Platón como \Sócrates delirante\?;Diógenes;Aristóteles;Tales de Mileto;Epicuro;2381
+419;filosofia;¿Cómo se le llama a la creencia de que maximizar el placer es la forma de alcanzar la felicidad?;Hedonismo;Axiología;Estoicismo;Deontología;2304
+420;filosofia;¿Cómo se llama el poderoso individuo que Nietzsche veía como meta para la humanidad?;Superhombre;Superego;Superhumano;Superpersona;2317
+421;filosofia;¿Con qué filósofo se asocia habitualmente el \imperativo categórico\?;Immanuel Kant;René Descartes;Jügen Habermas;Hannah Arendt;2353
+422;filosofia;¿Con qué movimiento filosófico se asocia principalmente al \Círculo de Viena\?;Empiricismo lógico;Significatividad cognitiva;Antipositivismo;Historicismo;2295
+423;filosofia;¿Cuál es el nombre del estudiante más famoso de Sócrates?;Platón;Aristóteles;Damasio;Diógenes;2279
+424;filosofia;¿Cuál es la doctrina que prioriza proporcionar el mayor bien para la mayor cantidad de personas?;Utilitarismo;Altruismo ético;Egoísmo ético;Consecuencialismo;2340
+425;filosofia;¿Cuál es la opinión de que el universo opera como una máquina de acuerdo con la ley de causa y efecto?;Mecanicismo;Relojerismo;Logicismo;Pasismo;2271
+426;filosofia;¿Qué doctrina crearon los filósofos alemanes Karl Marx y Friedrich Engels?;Comunismo;Psicoanálisis;Deontología;Sofismo;2327
+427;filosofia;¿Qué doctrina filosófica argumenta que la vida carece de significado objetivo, propósito o valor intrínseco?;Nihilismo;Hedonismo;Empirismo;Mecanicismo;2288
+428;filosofia;¿Qué doctrina sostiene que todos los humanos son fundamentalmente iguales en valor o estatus social?;Igualitarismo;Aciología;Cartesianismo;Ecumenismo;2290
+429;filosofia;¿Qué es lo que hace que las sociedades humanas se desarrollen según la ideología de Karl Marx?;Lucha de clases;Unidad de clases;Salto de clases;Rotación de clases;2319
+430;filosofia;¿Qué escuela griega de filosofía creía que el cambio era ilusorio?;Eleanismo;Estoicismo;Epicureísmo;Platonismo;2302
+431;filosofia;¿Qué estudio filosófico aborda la naturaleza del ser y la existencia o realidad?;Ontología;Estética;Ética;Epistemología;2310
+432;filosofia;¿Qué famoso trabajo filosófico incluye el Mito de la Caverna?;\República\ de Platón;\Metafísica\ de Aristóteles;\El Anticristo\ de Nietzsche;\Lógica\ de Kant;2275
+433;filosofia;¿Qué filosofía afirma que la realidad tal como la conocemos es una construcción mental o, de otra manera, inmaterial?;Idealismo;Racionalismo;Sofismo;Ecumenismo;2259
+434;filosofia;¿Qué filosofía enfatiza el papel de la razón en la obtención de conocimiento?;Racionalismo;Empirismo;Hedonismo;Estoicismo;2234
+435;filosofia;¿Qué filosofía enfatiza que todo conocimiento se basa en la experiencia y niega la posibilidad de ideas innatas?;Empirismo;Racionalismo;Cinismo;Estoicismo;2357
+436;filosofia;¿Qué filósofo ateniense no escribió ningún libro, y en su lugar sus enseñanzas fueron inmortalizadas por Platón?;Sócrates;Aristóteles;Epicuro;Tales de Mileto;2252
+437;filosofia;¿Qué filósofo dijo \Sólo sé que no sé nada\?;Sócrates;Nietzsche;Kant;Descartes;2186
+438;filosofia;¿Qué filósofo dijo: \Pienso, luego existo\?;René Descartes;Emmanuel Kant;Platón;John Locke;2260
+439;filosofia;¿Qué filósofo postulaba en un ensayo que Sísifo era feliz en realidad?;Albert Camus;Søren Kierkegaard;Arthur Schopenhauer;Friedrich Nietzsche;2360
+440;filosofia;¿Qué filósofo griego escribió \La República\?;Platón;Aristóteles;Sócrates;Séneca;2381
+441;filosofia;¿Qué filósofo griego escribió \Metafísica\?;Aristóteles;Platón;Sócrates;Diógenes;2227
+442;filosofia;¿Qué nihilista escribió \El ser y la nada\?;Jean-Paul Sartre;Søren Kierkegaard ;Friedrich Nietzche;Martin Heidegger;2264
+443;filosofia;¿Qué novela es ampliamente considerada como una de las primeras novelas existencialistas?;Memorias del subsuelo;La edad de la razón;El idiota;El hombre invisible;2264
+444;filosofia;¿Qué pensador enseñaba que el hombre era bueno por naturaleza y era la sociedad la que lo corrompía?;Jean-Jacques Rousseau;John Locke;Thomas Hobbes;Aristóteles;2222
+445;filosofia;¿Qué rama de la filosofía explora la naturaleza fundamental de la realidad?;Metafísica;Ética;Estética;Hedonismo;2256
+446;filosofia;¿Qué une a Sartre, Nietzsche, Russell y Descartes?;Filosofía;Economía;Biología;Deporte;2288
+447;filosofia;¿Quién desarrolló el método mayeútico?;Sócrates;Platón;Aristóteles;Séneca;2214
+448;filosofia;¿Quién es conocido como el \padre del existencialismo\?;Søren Kierkegaard;Gabriel Marcel;Simone de Beauvoir;Frederik Copleston;2325
+449;filosofia;¿Quiénes eran las personas comunes cuya única posesión era su fuerza de trabajo, según Karl Marx?;Proletariado;Burguesía;Comunistas;Capitalistas;2280
+450;fisica;¿A qué velocidad vuelan los aviones supersónicos?;A mayor velocidad que la del sonido;A mayor velocidad que la de la luz;A menor velocidad que la del sonido;A menor velocidad que la del viento;2212
+451;fisica;¿Cómo se le llama a un sonido con una frecuencia por debajo de 20 Hz?;Infrasónico;Ultrasónico;Supersónico;Binaural;2361
+452;fisica;¿Cómo se llaman los \paquetes\ en los que se emite y se absorbe la luz?;Fotones;Protones;Electrones;Neutrinos;2297
+453;fisica;¿Cuál de los siguientes productos químicos es útil en fotografía?;Bromuro de plata;Cloruro de sodio;Hidróxido de aluminio;Nitrato de potasio;2197
+454;fisica;¿Cuál es el apellido del hombre que propuso la teoría de la relatividad?;Einstein;Newton;Hawking;Boyle;2192
+455;fisica;¿Cuál es el color complementario del naranja en el modelo de color RYB?;Azul;Rojo;Verde;Púrpura;2246
+456;fisica;¿Cuál es el metal mayoritario en el peltre?;Estaño;Hierro;Cobre;Zinc;2288
+457;fisica;¿Cuál es la antipartícula del positrón?;Electrón;Protón;Neutrón;Átomo;2282
+458;fisica;¿Cuál es la velocidad del sonido en el aire (en condiciones normales)?;343 m/sec;3.320 m/sec;30 m/sec;3 m/sec;2295
+459;fisica;¿De qué color es una tonalidad el bermellón?;Rojo;Violeta;Azul;Verde;2246
+460;fisica;¿De qué color es una tonalidad el cerúleo?;Azul;Rojo;Verde;Amarillo;2229
+461;fisica;¿De qué depende la fuerza de empuje?;Masa de líquido desplazado;Forma del recipiente;Masa del recipiente;Profundidad a la que se hunde el cuerpo;2292
+462;fisica;¿En qué fenómeno óptico los rayos de luz se doblan para producir una imagen?;Espejismo;Decomposición;Transducción;Gestalt;2312
+463;fisica;¿Entre qué dominios transforma una señal la Transformada de Fourier?;Tiempo y frecuencia;Amplitud y fase;Frecuencia y amplitud;Fase y tiempo;2278
+464;fisica;¿Por dónde viaja más rápido el sonido?;Acero;Agua;Aire;Vacío;2194
+465;fisica;¿Por dónde viaja más rápido la luz?;Vacío;Cristal;Agua;Hidrógeno;2329
+466;fisica;¿Por qué los pasajeros se caen hacia adelante cuando un autobús en movimiento se detiene repentinamente?;Inercia de los pasajeros;Inercia del autobús;Fricción entre autobús y suelo;Fricción entre pasajeros y suelo;2328
+467;fisica;¿Qué científico formuló la ley de la gravedad?;Isaac Newton;Thomas Edison;Albert Einstein;Stephen Hawking;2314
+468;fisica;¿Qué color de luz visible tiene la longitud de onda más corta?;Violeta;Azul;Verde;Naranja;2234
+469;fisica;¿Qué color se obtiene mezclando rojo y azul?;Púrpura;Verde;Amarillo;Naranja;2297
+470;fisica;¿Qué demostró Boyle que disminuye a medida que aumenta el volumen de un gas?;Presión;Paso del tiempo;Temperatura;Masa;2267
+471;fisica;¿Qué físico estadounidense fue el pionero de la teoría de los agujeros negros en 1939?;J. Robert Oppenheimer;Stephen Hawking;Brian Greene;Keith Burrell;2270
+472;fisica;¿Qué físico formuló las tres leyes del movimiento?;Isaac Newton;Albert Einstein;Stephen Hawking;Sheldon Cooper;2195
+473;fisica;¿Qué forma tienen las lentes para la gente con miopía?;Cóncava;Convenxa;Redonda;Cuadrada;2267
+474;fisica;¿Qué ley afirma que una corriente eléctrica produce un campo magnético?;Ley de Ampère;Ley de Ohm;Ley de Newton;Ley de Fappington;2342
+475;fisica;¿Qué ley postula que los líquidos transmiten presión por igual en todas las direcciones?;Ley de Pascal;Principio de Arquímedes;Ley de Newton;Ley de Boyle;2218
+476;fisica;¿Qué metal fue el primero en fundirse en un molde y en alearse con otro metal?;Cobre;Oro;Bronce;Hierro;2254
+477;fisica;¿Qué número Mach corresponde a la velocidad del sonido?;Mach 1;Mach 2;Mach 3 ;Mach 4;2255
+478;fisica;¿Qué partículas da como resultado la fisión nuclear?;Neutrones y fotones gamma;Protones y fotones gamma;Deuterones y fotones gamma;Electrones y fotones gamma;2278
+479;fisica;¿Qué suele indicar que los niveles de un barómetro bajen?;Lluvia;Inundaciones;Contaminación;Calor intenso;2248
+480;fisica;¿Qué teoría de la física propone que la energía no se transfiere continuamente sino en cantidades discretas?;Mecánica cuántica;Termodinámica;Teoría de cuerdas;Teoría de la relatividad;2235
+481;fisica;¿Qué tipo de lente es una lupa?;Convexa;Cóncava;Antirreflectante;Cumulativa;2262
+482;fisica;¿Qué tipo de transformación realiza un micrófono?;Ondas sonoras a energía eléctrica;Energía eléctrica a ondas sonoras;Ondas sonoras a pulsos de luz;Energía eléctrica a pulsos de luz;2325
+483;fisica;¿Quién fue la primera persona en identificar el electrón?;J. J. Thompson;J. Kepler;D. Rutherford;James Chadwick;2319
+484;fisica;¿Quién fue la primera persona en medir la velocidad de la luz?;Ole Rømer;Galileo Galilei;Albert Einstein;Isaac Newton;2281
+485;fisica;¿Quién recibió el primer Premio Nobel de Física en 1901?;Wilhelm Röntgen;Max Planck;Marie y Pierre Curie;Gabriel Lippman;2282
+486;geografia;¿Cómo es el diámetro polar de la Tierra comparado con el diámetro ecuatorial?;Más pequeño;Más grande;Igual;Aproximadamente el doble;2279
+487;geografia;¿Cómo se le llama a una colina de arena suelta construida por el viento o el flujo del agua?;Duna;Cana;Ona;Lara;2298
+488;geografia;¿Cómo se llama el meridiano que pasa por Londres?;Greenwich;Capricornio;Ecuador;Cáncer;2230
+489;geografia;¿Cómo se llama el océano que se encuentra entre África y Australia?;Índico;Pacífico;Atlántico;Antártico;2182
+490;geografia;¿Cómo se llama la parte de la Tierra compuesta por toda la vida?;Biosfera;Mesosfera;Estratosfera;Ionosfera;2333
+491;geografia;¿Cómo se llamaba el super-continente que existió hace aproximadamente 335-175 millones de años?;Pangea;Cambria;Calibria;Pandemia;2329
+492;geografia;¿Cuál de estos es un herbazal tropical?;Sabana;Pampa;Pradera;Taiga;2290
+493;geografia;¿Cuál es el período más temprano de la historia de la Tierra?;Precámbrico;Hádico;Cenozoico;Cuaternario;2307
+494;geografia;¿Cuál es el punto más al sur de África?;Cabo de las Agujas;Cabo de Finisterre;Cabo Baba;Cabo Maclear;2245
+495;geografia;¿Cuál es el punto más al sur de Sudamérica?;Islote Águila;Motu Nui;Isla Jorge;Isla Darwin;2246
+496;geografia;¿Cuál es el tercer continente más grande del mundo?;África;Europa;Asia;Oceanía;2252
+497;geografia;¿Cuál es el término habitual en geografía para la altura angular de un objeto sobre el horizonte?;Elevación;Flote;Latitud;Cénit;2300
+498;geografia;¿Cuál es la isla más grande del océano Pacífico?;Nueva Guinea;Hawai;Kyushu;Hokkaido;2277
+499;geografia;¿Cuál es la mayor porción de nuestra hidrosfera, representando hasta un 46% de la misma?;Océano pacífico;Océano Antártico;Océano Atlántico;Océano Índico;2308
+500;geografia;¿Cuál es la noche más corta en el hemisferio sur?;21 de diciembre;21 de junio;23 de Septiembre;23 de Marzo;2220
+501;geografia;¿Cuál es la principal vegetación de las zonas estepáricas?;Grandes herbazales;Bosques de coníferas;Bosques perennes;Bosques caducifolios;2270
+502;geografia;¿Cuál es la proporción de tierra a océano en el hemisferio sur?;1 a 5;1 a 10;1 a 1,5 ;1 a 1;2211
+503;geografia;¿Cuánta área terrestre en el mundo está ocupada por desiertos cálidos y fríos?;Un tercio;La mitad;Un cuarto;Tres cuartos;2256
+504;geografia;¿En qué meses tienen lugar los dos equinoccios respectivamente?;Marzo y septiembre;Septiembre y diciembre;Enero y junio;Junio y marzo;2222
+505;geografia;¿En qué océano se encuentra la Corriente del Golfo?;Atlántico;Pacífico;Índico;Ártico;2274
+506;geografia;¿En qué región del Océano Atlántico se dice que han desaparecido aviones y barcos misteriosamente?;Triángulo de las Bermudas;Islas Canarias;Estrecho de Magallanes;Azores;2213
+507;geografia;¿En qué se divide la litosfera terrestre?;Placas tectónicas;Capas atmosféricas;Corrientes oceánicas;Países;2187
+508;geografia;¿Qué áreas geográficas componen el Nuevo Mundo?;Las Américas;Sudáfrica;Asia del este;Oceanía y la Polinesia;2314
+509;geografia;¿Qué áreas geográficas componen el Viejo Mundo?;Afro-Eurasia;Oceanía y la Polinesia;Los polos Norte y Sur;Las Américas;2324
+510;geografia;¿Qué causa la crecida y bajada de los niveles marinos?;La gravedad del Sol y la Luna;Las corrientes de aire;La migración de las ballenas;El uso de transporte marítimo;2336
+511;geografia;¿Qué continente es el único que se halla en los 4 hemisferios (norte, sur, este y oeste)?;África;Europa;Ásia;Oceanía;2256
+512;geografia;¿Qué continente tiene la cordillera más larga del mundo?;Sudamérica;Ásia;Europa;África;2278
+513;geografia;¿Qué continente tiene más países?;África;Europa;Asia;Oceanía;2325
+514;geografia;¿Qué evento causó la extinción de los dinosaurios?;El impacto de un asteriode;Una severa sequía;Una lluvia torrencial;Un incendio masivo;2291
+515;geografia;¿Qué mar no tiene playas?;Mar de los Sargazos;Mar Rojo;Mar Negro;Mar Muerto;2215
+516;geografia;¿Qué otra escala se utiliza para medir la intensidad de los terremotos además de la escala Ritcher?;Mercalli;Signori;Bianchi;Lombardi;2229
+517;geografia;¿Qué proceso crea las profundas fosas oceánicas?;Téctonica de placas;Expansión del fondo oceánico;Deriva continental;Isostasia;2283
+518;geografia;¿Qué rama de conocimiento estudia las rocas y los procesos que las hacen cambiar a lo largo del tiempo?;Geología;Geografía;Biología;Paleontología;2341
+519;geografia;¿Qué rama de la geografía estudia la distribución de especies y ecosistemas a lo largo del tiempo?;Biogeografía;Ecogeografía;Etnogeografía;Cartografía;2251
+520;geografia;¿Qué rama de la geografía estudia los suelos en su entorno natural?;Pedología;Geodesia;Glaciología;Paleontología;2237
+521;geografia;¿Qué representan los isohelios?;Radiación solar;Humedad;Potencial electrostático del aire;Lluvia;2315
+522;geografia;¿Qué representan los isonefos?;Nubosidad;Altitud de terreno;Presión atmosférica;Temperatura;2267
+523;geografia;¿Qué son siroco, mistral y levante?;Vientos;Terremotos;Precipitaciones;Erupciones volcánicas;2326
+524;historia;¿A qué monarca se le conocía como \El Rey Sol\?;Luis XIV;Luis XVI;Enrique VIII;Enrique V;2220
+525;historia;¿Cómo se le llama al área entre dos trincheras enemigas?;Tierra de nadie;Vida salvaje;Reino de la muerte;Riesgo;2308
+526;historia;¿Cómo se llamaba a los Viet Minh cuando cruzaron a Vietnam del Sur?;Viet Cong;Viet Mang;Viet Lua;Viet Nur;2258
+527;historia;¿Cómo se llamaba el gobernador romano y principal agente en el asesinato de Julio César?;Marco Junio Bruto;Calígula;Marco Aurelio;Marco Antonio;2273
+528;historia;¿Cómo se llamaba el último emperador Alemán?;Guillermo II;Bismarck;Federico III;Guillermo I;2274
+529;historia;¿Cuál era el rango militar más alto en la Alemania Nazi?;Reichsmarschall;Marschall;Himmler;Kragenpatte;2315
+530;historia;¿Cuál es la palabra alemana para una estrategia de guerra que se utilizó mucho en la Segunda Guerra Mundial?;Blitzkrieg;Siege;Guerrilla;Kampf;2362
+531;historia;¿Cuándo capturaron los cruzados Jerusalén en la primera cruzada?;1099 d. C.;1000 d. C.;971 d. C.;1116 d. C.;2360
+532;historia;¿Cuándo fue el ataque a Pearl Harbor?;7 de Diciembre de 1941;7 de Diciembre de 1945;7 de Diciembre de 1942;7 de Diciembre de 1943;2226
+533;historia;¿Cuándo fundó Rómulo Roma?;753 a. C.;604 a. C.;660 a. C.;850 a. C.;2283
+534;historia;¿Cuándo llegó Cristóbal Colón a América?;1492;1139;1556;1455;2286
+535;historia;¿Cuándo tuvo lugar la Guerra Civil Americana?;1861-1865;1775-1783;1899-1902;1916-1924;2257
+536;historia;¿Dónde y cuándo emergieron los primeros movimientos fascistas?;Italia en la Primera Guerra Mundial;Alemania en la Segunda Guerra Mundial;España en la Guerra Civil Española;Rusia en la Revolución Rusa;2261
+537;historia;¿Cuánto duró la Guerra de los Cien Años?;116 años;100 años;120 años;122 años;2360
+538;historia;¿Cuánto hace que acabó la Edad de Hielo?;11.700 años;140.000 años;140 años;1.400 años;2191
+539;historia;¿Cuánto tiempo llevaban sin celebrarse los Juegos Olímpicos cuando se reinstauraron?;15 siglos;10 siglos;5 siglos;1 siglo;2304
+540;historia;¿De qué calendario era una reforma el calendario juliano del 46 a. C.?;Romano;Griego;Maya;Gregoriano;2318
+541;historia;¿De qué país era Mata Hari una espía?;Alemania;Países Bajos;Gran Bretaña;Bélgica;2245
+542;historia;¿En qué año acabaron las negociaciones del Tratado de Versalles?;1919;1945;1937;1939;2262
+543;historia;¿En qué año atacó Alemania a Francia durante la Segunda Guerra Mundial?;1940;1941;1942;1939;2332
+544;historia;¿En qué año cayó el muro de Berlín?;1989;1991;1990;1987;2236
+545;historia;¿En qué año ocurrió el desastre nuclear de Chernobyl?;1986;1989;1985;1991;2354
+546;historia;¿En qué mes tuvo lugar la Revolución de Octubre?;Noviembre;Octubre;Septiembre;Diciembre;2272
+547;historia;¿Por qué territorio intercambió Gran Bretaña la Habana con España en 1762?;Florida;California;Menorca;Gibraltar;2308
+548;historia;¿Qué emperador romano prohibió los Juegos Olímpicos en el 393 d. C.?;Teodosio I;Julio César;Calígula;Gordiano II;2203
+549;historia;¿Qué famoso líder murió en Santa Helena?;Napoleón Bonaparte;Julio César;Adolf Hitler;Alejandro Magno;2302
+550;historia;¿Qué figura de la Segunda Guerra Mundial era popularmente conocida como \El Zorro del Desierto\?;Erwin Rommel;Walter Scott;Bismarck;Eisenhower;2231
+551;historia;¿Qué general era famoso por utilizar un ejército de elefantes en sus batallas?;Aníbal Barca;Pirro de Epiro;Alejandro Magno;Genghis Khan;2298
+552;historia;¿Qué guerra se libró principalmente utilizando guerra de trincheras?;Primera Guerra Mundial;Segunda Guerra Mundial;Guerra del Golfo;Guerra Civil Americana;2301
+553;historia;¿Qué pasó cuando Napoléon fue a asediar Moscú en 1812?;Los rusos redujeron Moscú a cenizas;Napoleón murió congelado;Los rusos se rindieron;Napoleón exterminó a los rusos;2191
+554;historia;¿Quién cabalgaba un caballo llamado Bucéfalo?;Alejandro Magno;Genghis Khan;El Cid;Marco Aurelio;2266
+555;historia;¿Quién cabalgaba un caballo llamado Marengo?;Napoleón;El Cid;Alejandro el Magno ;Genghis Khan;2266
+556;historia;¿Quién construyó la Torre de Londres?;Guillermo el Conquistador;Enrique VIII;Isabel II;Ricardo I;2318
+557;historia;¿Quién derrotó a Marco Antonio y a Cleopatra en la batalla de Accio?;Augusto;Tiberio;Claudio;Nerón;2359
+558;historia;¿Quién fue el padre de Cleopatra?;Ptolomeo XII Auletes;Ptolomeo XIV;Cesarión;Ptolomeo XIII Teos Filopátor;2264
+559;historia;¿Quién fue el primer marido de Cleopatra?;Ptolomeo XIII Teos Filopátor;Ptolomeo XIV;Marco Antonio;Augusto;2263
+560;historia;¿Quién fue el principal autor de la Declaración de Independencia de Estados Unidos en 1776?;Thomas Jefferson;Alexander Hamilton;George Washington;John Adams;2298
+561;historia;¿Quién fue el rey de Macedonia que conquistó la mayoría de Asia Menor y derrotó al Rey Poro en 326 a. C.?;Alejandro Magno;Napoleón;Julio César;Carlomagno;2305
+562;historia;¿Quién introdujo el calendario gregoriano en 1582?;El Papa;El rey de Italia;Un general francés;Copérnico;2365
+563;historia;¿Quién navegó en la Niña, la Pinta y la Santa María?;Cristóbal Colón;Marco Polo;Napoléon;John Smith;2264
+564;historia;¿Quiénes lucharon en la Guerra de los Cien Años?;Francia e Inglaterra;Grecia y Persia;Estados Unidos e Iraq;El norte y el sur de Estados Unidos;2357
+565;inventos;¿A qué científico se le reconoce como \el padre de la bomba atómica\?;Robert Oppenheimer;Albert Einstein;Nikola Tesla;Thomas Edison;2231
+566;inventos;¿A quién se le reconoce como el inventor de las versiones prototípicas del paracaídas, el helicóptero y los tanques?;Leonardo da Vinci;Los hermanos Wright;Francis Rogallo;Galileo Galilei;2262
+567;inventos;¿Cómo obtuvo Alfred Nobel la mayor parte de su dinero?;Inventó la dinamita;Diseñó la primera autopista;Descubrió la penicilina;Invirtió en petróleo;2253
+568;inventos;¿Cuál fue el primer país en utilizar la pólvora?;China;Gran Bretaña;Babilonia;Asiria;2301
+569;inventos;¿Cuándo introdujo Gutenberg la imprenta en Europa aproximadamente?;1440;1540;1340;1640;2342
+570;inventos;¿En qué década se inventó el teléfono?;La década de 1870;La década de 1920;La década de 1790;La década de 1950;2261
+571;inventos;¿En qué década se inventó el transistor?;1940s;1950s;1960s;1970s;2305
+572;inventos;¿Por qué invento recibió el húngaro Dennis Gabor un premio Nobel en 1971?;Hologramas;Pantallas de plasma;CDs;Microchips;2298
+573;inventos;¿Qué arma fue inventada por el oficial Ernest Swinton y utilizada en 1916?;Tanque;Bazooka;Metralleta;Rifle de asalto;2202
+574;inventos;¿Que arma marina inventó Robert Whitehead en 1866?;Torpedo;Tanque;Submarino;Mina naval;2285
+575;inventos;¿Qué científico descubrió el virus del VIH y determinó que era la causa del SIDA en 1983?;Luc Montagnier;Samuel Hahneman;Edward Jenner;Stanley Prusiner;2286
+576;inventos;¿Qué científico fue el primero en formular la teoría del Big Bang en 1927?;Georges Lemaître;Stephen Hawking;Edwin Hubble;Nicolaus Copernicus;2375
+577;inventos;¿Qué ciudad perdida descubrió Hiram Bingham III en 1911?;Machu Picchu;Mesopotamia;Alejandría;Bali;2265
+578;inventos;¿Qué decubrió Howard Carter en 1922?;La tumba de Tutankamón;El cadáver de Cleopatra;Las ropas de Julio César;El cetro de Augusto;2270
+579;inventos;¿Qué electrodoméstico de cocina inventó Percy Spencer en 1945?;Horno microondas;Cocina de gas;Lavavajillas;Nevera eléctrica;2230
+580;inventos;¿Qué explorador llegó a Australia en 1770?;Capitán James Cook;Vasco da Gama;Marco Polo;Fernando Magallanes;2222
+581;inventos;¿Qué explorador llegó a Brasil en 1500?;Pedro Álvares Cabral;Fernando Magallanes;Cristóbal Colón;John Smith;2334
+582;inventos;¿Qué famoso explorador navegó en el Golden Hind?;Sir Francis Drake;Cristóbal Colón;Marco Polo;John Smith;2280
+583;inventos;¿Qué físico perfeccionó la teoría del Big Bang de Lemaître?;George Gamow;Roger Penrose;Albert Einstein;Michael Skube;2269
+584;inventos;¿Qué instrumento médico inventó René Laennec?;Estetoscopio;Electrocardiograma;Ecógrafo;Fórceps;2334
+585;inventos;¿Qué invención se atribuye a Galileo Galilei?;Termómetro;Barómetro;Reloj de péndulo;Microscopio;2237
+586;inventos;¿Qué invención se le atribuye habitualmente a Benjamin Franklin?;Lentes bifocales;Radio;Barómetro;Higrómetro;2280
+587;inventos;¿Qué inventaron los hermanos Wright?;Avión;Bicicleta;Paracaídas;Coche;2348
+588;inventos;¿Qué inventaron y patentaron W. Davis y Levi Strauss?;Vaqueros azules;Pasta de dientes de menta;Penicilina;Cocina de gas;2325
+589;inventos;¿Qué inventó el doctor polaco Ludwik Lejzer Zamenhof en 1887?;Esperanto;Leyes de mercado libre;Cubismo;Sonetos;2364
+590;inventos;¿Qué inventó Enrico Fermi?;Reactor nuclear artificial;Máquina de rayos X;Betatrón;Ciclotrón;2282
+591;inventos;¿Qué inventó Evangelista Torricelli en 1643?;Barómetro;Tornillo;Zapatos ortopédicos;Pipeta;2298
+592;inventos;¿Qué inventó James Dewar en 1892?;Termo;Martillo pneumático;Luces de neón;Pintura acrílica;2266
+593;inventos;¿Qué inventó y patentó James Watt?;Motor rotatorio de vapor;Campana de buceo;Barco de vapor;Globo aerostático;2234
+594;inventos;¿En qué país se inventó la brújula?;China;Alemania;Egipto;Italia;2245
+595;inventos;¿Qué planeta descubrió Clyde Tombaugh en 1930?;Plutón;Neptuno;Marte;Urano;2229
+596;inventos;¿Quién descubrió la estructura de doble hélice del ADN?;James Watson y Francis Crick;Ramon y Cajal;Ortega y Gasset;Pierre y Marie Curie;2306
+597;inventos;¿Quién es reconocido como uno de los inventores de la televisión electromecánica?;John Logie Baird;Thomas Edison;Nikola Tesla;Benjamin Franklin;2300
+598;inventos;¿Quién fue el microbiólogo que descubrió las bacterias al observarlas a través de un microscopio?;Antonie van Leeuwenhoek;Christian Gottfried Ehrenberg;Louis Pasteur;Ferdinand Cohn;2355
+599;inventos;¿Quién fue el primero en describir la circulación sanguínea con detalle?;William Harvey;James Chadwik;Francis Crick;Anthony Hewish;2269
+600;inventos;¿Quién fue la primera persona en llegar al Polo Sur en 1911?;Roald Amundsen;Adren de Gerlache;Carstem Borchgrevink;Robert Falcon Scott;2287
+601;inventos;¿Quién inventó una muy exitosa versión de la maquinilla de afeitar?;King Camp Gillette;Erik Frank Venus;Charles John Sleetch;Nathan Collin Earnest;2307
+602;inventos;¿Quién transmitió las primeras señales de radio a través del Atlántico en 1901?;Guglielmo Marconi;Graham Bell;Samuel Morse;John Logie Baird;2331
+603;linguistica;¿Aproximadamente cuántos idiomas se habla en Papúa Nueva Guinea?;851;184;302;17;2237
+604;linguistica;¿Cómo se dice \barba\ en latín?;Barba;Bucca;Beradum;Borrum;2304
+605;linguistica;¿Cómo se le llama a una lengua que se crea artificialmente en lugar de desarrollarse de forma natural?;Conlang;Sociolengua;Planhabla;Artifidioma;2230
+606;linguistica;¿Cómo se llamaba el primer no-humano que aprendió a comunicarse utilizando la lengua de signos americana?;Washoe;Koko;Dymo;Tchetche;2264
+607;linguistica;¿Con qué otro nombre se conoce la palabra japonesa \seppuku\?;Harakiri (Suicidio);Ramen (Fideos);Kokoro (Corazón);Mizu (Agua);2254
+608;linguistica;¿Cuál es el idioma oficial de Andorra?;Catalán;Español;Francés;Andorrano;2318
+609;linguistica;¿Cuál es el idioma oficial de Belice?;Inglés;Portugués;Francés;Holandés;2358
+610;linguistica;¿Cuál es el idioma oficial de Jordania?;Árabe;Francés;Inglés;Zulú;2304
+611;linguistica;¿Cuál es el idioma romance más hablado en el mundo?;Español;Portugués;Francés;Rumano;2305
+612;linguistica;¿Cuál es la última letra del alfabeto griego?;Omega;Sigma;Alfa;Épsilon;2338
+613;linguistica;¿Cuáles son algunos ejemplos de lenguas que no se han desarrollado naturalmente?;Dothraki, Klingon, Élfico ;Catalán, Euskera, Gallego;Chino, Japonés, Coreano;Hawaiano, Malayo, Tongano;2301
+614;linguistica;¿Cuántas letras hay en el alfabeto inglés?;26;30;28;24;2231
+615;linguistica;¿De qué idioma proviene la palabra \alfabeto\?;Griego;Latín;Sánscrito;Árabe;2214
+616;linguistica;¿De qué países es el idioma oficial el farsi?;Irán, Afganistán y Tayikistán;Uzbekistán y Kazajistán;Farsia y Perusia;Iraq, Kirguistán y Turkmenistán;2344
+617;linguistica;¿De qué tribus antiguas toman el nombre al menos seis de los siete días de la semana en inglés?;Anglosajones;Celtíberos;Galos;Inuit;2303
+618;linguistica;¿En qué dirección se escribe el hebreo moderno?;De derecha a izquierda;De izquierda a derecha;De arriba a abajo;De abajo a arriba;2298
+619;linguistica;¿En qué idioma rezan las personas de fe ortodoxa rusa?;Eslavo eclesiástico;Alto sorabo;Protoeslavo;Silesio;2300
+620;linguistica;¿En qué idiomas \God Jul\ significa \Feliz Navidad\?;Sueco, noruego y danés;Alemán y rumano;Polaco y ruso;Checo, eslovaco y bielorruso;2337
+621;linguistica;¿En qué país es el urdu la lengua nacional y la lingua franca?;Pakistán;Turkmenistán;Kazajistán;Mongolia;2272
+622;linguistica;¿En qué país se habla el idioma zulú?;Sudáfrica;Kenia;Sudán;Chad;2223
+623;linguistica;¿Qué es el esperanto?;Una lengua;Una bebida alcohólica;Una marca de coches;Una banda famosa de los años 80;2289
+624;linguistica;¿Qué expresión encajaría con la idea de un \desliz freudiano\?;Lapsus linguae;Ab epistus;Ex silentio;Coniunctis viribus;2319
+625;linguistica;¿Qué frase denota una falsa demostración de tristeza?;Lágrimas de cocodrilo;Lágrimas de lagartija;Lágrimas de serpiente;Lágrimas de tortuga;2400
+626;linguistica;¿Qué grupo de idiomas suele dividirse en goidélico y británico?;Celtas;Germánicos;Romances;Occitanos;2239
+627;linguistica;¿Qué historia explica la existencia de los diferentes idiomas?;Torre de Babel;Ícaro y el sol;Arca de Noé;Génesis;2239
+628;linguistica;¿Qué idioma es una combinación de alemán, hebreo, arameo y algunos idiomas eslavos y lenguas romances?;Yidis;Occitano;Urdu;Dehlavi;2319
+629;linguistica;¿Qué idioma o dialecto se usa sistemáticamente para comunicarse con personas que no comparten un idioma común?;Lingua franca;Esperanto;Lengua del comerciante;Mash-lang;2329
+630;linguistica;¿Qué idioma tiene el alfabeto más largo del mundo?;Camboyano;Español;Árabe;Hawaiano;2325
+631;linguistica;¿Qué lengua es el idioma vivo más cercano al inglés?;Frisón;Galés;Euskera;Alemán;2259
+632;linguistica;¿Qué lengua romance tiene una inteligibilidad mutua del 85% con el portugués?;Gallego;Español;Italiano;Rumano;2372
+633;linguistica;¿Qué letras usaban varios idiomas germánicos para escribir antes de adoptar el alfabeto latino?;Runas;Kanjis;Sánscritos;Welchers;2337
+634;linguistica;¿Qué palabra describe mejor a una tarea ingrata, insoportable, repetitiva e interminable?;Sisífea;Orfeista;Pelopsiana;Otrerana;2226
+635;linguistica;¿Qué significa \televisión\?;Visión lejana;Miope;Ver imágenes;Sonido y luz;2262
+636;linguistica;¿Qué significa el nombre del antiguo idioma \sánscrito\?;Perfecto, refinado;Simple, conciso;Fuerte, duradero;Rápido, ágil;2333
+637;linguistica;¿Qué significa la palabra \sóviet\?;Consejo;Camarada;Oso;Reino;2266
+638;linguistica;¿Qué significa la palabra japonesa \origami\?;Papel doblado;Creación preciosa;Dar vida;Pájaros voladores;2339
+639;linguistica;¿Qué significa la palabra sánscrita \yoga\?;Unión;Poder;Riqueza;Paz;2330
+640;linguistica;¿Qué significa literalmente la expresión latina \ad hoc\?;Para esto;Por ejemplo;Al hombre;Esto es;2233
+641;linguistica;¿Qué término denota una declaración breve y concisa?;Laconismo;Estoicismo;Maquiavelismo;Nepotismo;2273
+642;linguistica;¿Qué transmite la frase \Et tu, Brute?\?;Traición;Frustración;Enfado;Felicidad;2300
+643;literatura;¿Cómo se llama el socio de Sherlock Holmes?;Dr. Watson;Dr. Walton;Dr. Wallace;Dr. Willy;2216
+644;literatura;¿Con qué se pincha el dedo la bella durmiente de los hermanos Grimm antes de caer en un profundo sueño?;Huso;Rosa;Erizo;Astilla;2311
+645;literatura;¿Con quién comete adulterio Anna Karenina?;Conde Vronsky;Oblonsky;Rasputín;El Zar;2275
+646;literatura;¿Cuál es el nombre del capitán en \Moby Dick\?;Ahab;Ismael;Elijah;Bildad;2196
+647;literatura;¿Cuál es el primer nombre del escritor de cuentos argentino Borges?;Jorge Luis;Gregoire;Ignacio;Pedro José;2197
+648;literatura;¿Cuál fue el primer libro de James Bond?;Casino Royale;Vive y deja morir;Moonraker;Los diamantes son para siempre;2261
+649;literatura;¿Cuál fue la última novela (inacabada) de Charles Dickens?;El misterio de Edwin Drood;El guardavía;Nuestro común amigo;Grandes esperanzas;2343
+650;literatura;¿En qué ciudad vivía Julieta, de Shakespeare?;Verona;Venecia;Viena;Valencia;2318
+651;literatura;¿En qué novela distópica se decía que Gran Hermano vigilaba a los ciudadanos?;1984;Un mundo feliz;Rebelión en la granja;Divergente;2270
+652;literatura;¿En qué siglo publicaron los hermanos Grimm su primera colección de cuentos de hadas?;19;17;15;16;2275
+653;literatura;¿Qué adjetivo usa F. Scott Fitzgerald en el título de su libro para describir a su protagonista Jay Gatsby?;Gran;Grandioso;Majestuoso;Asombroso;2326
+654;literatura;¿Qué escritor de ciencia ficción escribió las tres leyes de la robótica?;Isaac Asimov;H. P. Lovecraft;Aaron Allston;William Golding;2250
+655;literatura;¿Qué famoso personaje infantil creó Carlo Collodi?;Pinocho;Cenicienta;La Sirenita;Rapunzel;2311
+656;literatura;¿Qué físico teórico es el autor de \Breve historia del tiempo\?;Stephen Hawking;Samuel Edwards;Ugo Fano;Vladimir Arnold;2252
+657;literatura;¿Qué libro autobiográfico fue publicado por Adolf Hitler en 1925?;Mein Kampf;Mi nuevo orden;Deustchen Reich;Nazismo;2376
+658;literatura;¿Qué novela de Charles Dickens se considera una autobiografía?;David Copperfield;Oliver Twist;Cuento de Navidad;Historia de dos ciudades;2138
+659;literatura;¿Qué novela se considera una obra central de la literatura mundial y uno de los mejores logros literarios de Tolstoy?;Guerra y paz;Anna Karenina;El reino de Dios está en vosotros;La muerte de Iván Ilich;2299
+660;literatura;¿Qué obra de Shakespeare tiene a Próspero y Miranda como personajes?;La tempestad;Sueño de una noche de verano;Otelo;Antonio y Cleopatra;2287
+661;literatura;¿Qué tienen en común los personajes de Shakespeare \Cleopatra\, \Romeo\ y \Otelo\?;Se suicidaron;Eran soberanos;Sufrían acrofobia;Eran dotados artistas;2350
+662;literatura;¿Qué une a Frank Herbert, Samuel Delany, H. G. Wells, Frederik Pohl y Harlan Ellison?;Literatura de ciencia ficción;Poesía romántica;Pintura cubista;Música clásica;2259
+663;literatura;¿Quién creó \Tarzán\ en 1912?;Edgar Rice Burroughs;Los hermanos Grimm;Hans Christian Andersen;Rudyard Kipling;2188
+664;literatura;¿Quién es conocido como el \Bardo de Avon\?;William Shakespeare;Francis Bacon;John Ford;Edmund Spencer;2280
+665;literatura;¿Quién es el autor de la novela \Los miserables\?;Victor Hugo;Alium Tofler;G. Wynne;Fedric;2251
+666;literatura;¿Quién escribió \Alicia en el país de las maravillas\?;Lewis Caroll;C. S. Lewis;Thomas Hardy;Charles Dickens;2251
+667;literatura;¿Quién escribió \Anna Karenina\?;Leo Tolstoy;Boris Pasternak;Victor Hugo;Lewis Carroll;2347
+668;literatura;¿Quién escribió \Crimen y castigo\?;Fyodor Dostoyevsky;Vladimir Nabokov;Lewis Carroll;Alexander Solzhenitsyn;2297
+669;literatura;¿Quién escribió \Doctor Zhivago\?;Boris Pasternak;Stanislaw Lem;Henryk Sienkiewicz;Roald Dahl;2232
+670;literatura;¿Quién escribió \El retrato de Dorian Gray\ en 1890?;Oscar Wilde;Robert Musil;Aldous Huxley;C. S. Lewis;2276
+671;literatura;¿Quién escribió \Las aventuras de Huckleberry Finn\?;Mark Twain;Charles Dickens;Roald Dahl;Enid Blyton;2296
+672;literatura;¿Quién escribió \Las aventuras de Tom Sawyer\?;Mark Twain;John Ruskin;William Shakespeare;Leo Tolstoy;2232
+673;literatura;¿Quién escribió \Los viajes de Gulliver\?;Jonathan Swift;Alexandre Dumas;Charles Lamb;Charles Dickens;2320
+674;literatura;¿Quién escribió la novela \Robinson Crusoe\?;Daniel Defoe;Jonathan Swift;Roald Dahl;Charles Dickens;2276
+675;literatura;¿Quién escribió la serie de libros de Harry Potter?;J. K. Rowling;J. R. R. Tolkien;George R. R. Martin;Rick Riordan;2310
+676;literatura;¿Quién fue el creador de \Sherlock Holmes\?;Arthur Conan Doyle;Ian Fleming;Dr. Watson;Shakespeare;2285
+677;literatura;¿Quiénes eran los protagonistas de \Lo que el viento se llevó\?;Rhett Buttler y Scarlett O'Hara;Charles Hamilton y Ellen O'Hara;Frank Kennedy y Gerald O'Hara;Ella Kennedy y Carreen O'Hara;2228
+678;marcas;¿De cuál de estos países es la agencia de noticias Reuters?;Reino Unido;Palestina;Estados Unidos;Vietnam;2248
+679;marcas;¿De qué color es habitualmente una lata de crema Nivea?;Azul;Naranja;Verde;Gris;2327
+680;marcas;¿De qué país es la marca deportiva Adidas?;Alemania;Estados Unidos;Dinamarca;Suecia;2232
+681;marcas;¿De qué país es Nokia?;Finlandia;Suecia;Islandia;Dinamarca;2331
+682;marcas;¿De qué país proviene la marca de helado Häagen-Dazs?;Estados Unidos;Dinamarca;Reino Unido;Alemania;2264
+683;marcas;¿De qué son marcas Pall Mall, Viceroy y Woodbine?;Cigarrillos;Chocolate;Vino;Brandy;2197
+684;marcas;¿Dónde están los cuarteles generales de Panasonic?;Osaka;Tokio;Kioto;Kobe;2300
+685;marcas;¿Dónde están los cuarteles generales de Samsung?;Corea del Sur;Japón;Indonesia;China;2287
+686;marcas;¿Dónde están los cuarteles oficiales de Opera Software, famosos por su navegador de Internet?;Oslo;Londres;Estocolmo;Florencia;2341
+687;marcas;¿En qué ciudad abrió el primer Starbucks en 1971?;Seattle;San Francisco;Sacramento;Nueva York;2367
+688;marcas;¿En qué ciudad japonesa están los cuarteles generales de Toyota?;Toyota;Nagoya;Osaka;Tokio;2264
+689;marcas;¿En qué estado americano están los cuarteles oficiales de Microsoft?;Washington;California;Illinois;Florida;2302
+690;marcas;¿En qué país se creó la compañía \Lego\?;Dinamarca;Alemania;Noruega;Suecia;2298
+691;marcas;¿Qué compañía de ordenadores sacó los videojuegos de \Sonic the Hedgehog\?;Sega;Atari;Sony;Square Enix;2232
+692;marcas;¿Qué compañía desarrolló la primera impresora láser?;Xerox;Canon;Hewlett-Packard;Konica;2281
+693;marcas;¿Qué compañía fue fundada por Bill Gates?;Microsoft;Apple;IBM;PayPal;2311
+694;marcas;¿Qué compañía posee Marvel, los Muppets, Pixar y Hulu?;Disney;Sony;Netflix;Amazon;2204
+695;marcas;¿Qué compañía tiene como logo 4 círculos entrelazados?;Audi;BMW;Chrysler;Toyota;2277
+696;marcas;¿Qué compañía tiene como logo una silueta azul de un niño pescando y sentado sobre una luna creciente?;Dreamworks;Disney;Pixar;Sony;2322
+697;marcas;¿Qué dos palabras se combinan para formar el nombre de la marca de relojes \Swatch\?;Second watch;Stylish watch;Special watch;Sophisticated watch;2274
+698;marcas;¿Qué marca de cigarrillos fue la primera en tener una cajetilla con tapa?;Marlboro;Camel;Winston ;Lucky Strike;2340
+699;marcas;¿Qué tipo de Coca-Cola estaba originalmente anunciada específicamente para hombres?;Coca-Cola Zero;Coca-Cola Light;Coca-Cola Class;C2 Cola;2239
+700;marcas;¿Quién tuvo los derechos de autor de \Cumpleaños feliz\ durante casi 30 años?;Warner/Chappell Music;Michael Jackson;Marilyn Monroe;Hollywood Records;2179
+701;marcas;¿Quiénes fueron junto con Steve Jobs los co-fundadores de Apple?;Steve Wozniak y Ronald Wayne;Steve Wozniak y Tim Cook;Ronald Wayne y Tim Cook;Mike Markkula y Steve Wozniak;2251
+702;matematicas;¿A qué equivale el número de Avogadro aproximadamente?;6,02 por 10 elevado a 23;1,66 por 10 elevado a -27;3,8 por 10 elevado a -21;5,4 por 10 elevado a 29;2229
+703;matematicas;¿Cómo se conoce a la propiedad A * B = B * A?;Conmutativa;Distributiva;Asociativa;Discriminativa;2244
+704;matematicas;¿Cómo se le llama a un número entero más grande que 1 que sólo es divisible entre 1 y él mismo?;Primo;Par;Impar;Peculiar;2210
+705;matematicas;¿Cómo se le llama a un polígono con seis lados?;Hexágono;Heptágono;Pentágono;Tetrágono;2206
+706;matematicas;¿Cómo se le llama a un polígono de nueve lados?;Nonágono o eneágono;Heptágono o septágono;Hexágono o Sexágono;Decágono o Tenágono;2302
+707;matematicas;¿Cómo se le llama al valor que aparece más frecuentemente en un grupo de datos?;Moda;Media;Desviación típica;Mediana;2244
+708;matematicas;¿Cómo se llama el análogo de un cubo en cuatro dimensiones?;Teseracto;Couboide;Tetracúbilo;Marvolio;2317
+709;matematicas;¿Cómo se llama el número en la parte inferior de una fracción?;Denominador;Numerador;Cociente;Índice;2251
+710;matematicas;¿Cómo se llama el número en la parte superior de una fracción?;Numerador;Denominador;Cociente;Índice;2207
+711;matematicas;¿Cómo se llama un polígono de 15 lados?;Pentadecágono;Tenapentágono;Pentatenágono;Decatenágono;2242
+712;matematicas;¿Cómo se llama un triángulo cuyos tres lados tienen distinta longitud?;Escaleno;Isósceles;Equilátero;Obtuso;2313
+713;matematicas;¿Cuál es el grupo de numeros que incluye todos los números naturales tanto positivos como negativos?;Enteros;Reales;Primos;Pares;2242
+714;matematicas;¿Cuál es el número romano para 1.000?;M;D;C;L;2297
+715;matematicas;¿Cuál es el valor de la constante matemática \e\ redondeada a 2 decimales?;2,72;3,14;1,82;4,81;2242
+716;matematicas;¿Cuál es la probabilidad de que al lanzar una moneda salga cara si las 10 veces anteriores también ha salido cara?;1 entre 2;1 entre 10;10 entre 11;9 entre 10;2285
+717;matematicas;¿Cuál es la raíz cuadrada de 16?;4;6;8;3;2295
+718;matematicas;¿Cuál es la raíz cuadrada de 196?;14;13;12;15;2262
+719;matematicas;¿Cuál es la raíz cuadrada de 49?;7;9;8;6;2351
+720;matematicas;¿Cuántos grados suman los ángulos de un pentágono regular?;540;360;180;270;2285
+721;matematicas;¿Qué descubrió el matemático John Napier en 1614?;Logaritmos;Multiplicación;Raíces cuadradas;Fracciones;2247
+722;matematicas;¿Qué dígito no existe en los números romanos?;Cero;Uno;Millón;Billón;2352
+723;matematicas;¿Qué matemático griego tiene una esfera encerrada en un cilindro tallada en su tumba?;Arquímedes;Pitágoras;Euclides;Aristóteles;2226
+724;matematicas;¿Qué número representa \giga\?;1.000.000.000;1.000.000;1.00E+12;1;2312
+725;matematicas;¿Qué número representa el número romano \D\?;500;50;5;5;2324
+726;matematicas;¿Qué símbolo matemático determinó Ferdinand von Lindemann que era un número trascendental en 1882?;Pi;e;0;Número áureo;2323
+727;matematicas;¿Qué término significa \a la misma distancia respecto a algo\?;Equidistante;Equilátero;Equiareal;Diametral;2257
+728;matematicas;¿Qué tipo de triángulo tiene un ángulo interno mayor de 90 grados?;Obtuso;Recto;Agudo;Equilátero;2311
+729;medicina;¿Cómo se le llama a la inflamación del hueso?;Osteítis;Tendinitis;Meningitis;Otitis;2270
+730;medicina;¿Cómo se le llama a una radiografía de poca energía realizada en los pechos?;Mamografía;Ecografía;Tidografía;Pechografía;2285
+731;medicina;¿Cómo se llama el trastorno cuyo nombre en griego significa \sin apetito\?;Anorexia;Afasia;Bulimia;Amusia;2259
+732;medicina;¿Con qué se fabricaban los primeros antibióticos?;Hongos;Arena;Algas;Sales;2359
+733;medicina;¿Contra qué enfermedad no protege la vacuna triple vírica?;Polio;Sarampión;Paperas;Rubeola;2345
+734;medicina;¿Cuál de estos trastornos es muy común en los recién nacidos?;Ictericia;Osteoporosis;Xerostomía;Artritis;2202
+735;medicina;¿Cuál de estos materiales se utilizaba para hacer dientes falsos?;Marfil;Cristal;Diamante;Cuarzo;2336
+736;medicina;¿Cuál es el resultado de una secreción excesiva de la glándula pituitaria?;Altura, pies y manos desmedidos;Debilitamiento de los huesos;Voz extremadamente aguda;Crecimiento capilar y ungueal excesivo;2259
+737;medicina;¿Cuál es el término médico para un nivel bajo de azúcar en sangre?;Hipoglucemia;Hipotiroidismo;Hipofrenia;Hipomimia;2264
+738;medicina;¿Cuál es la primera causa de muertes en el mundo?;Enfermedades cardiovasculares;Cáncer;Alzheimer;Accidentes de coche;2283
+739;medicina;¿Cuál es otro nombre más común para el ácido acetilsalicílico?;Aspirina;Ibuprofeno;Paracetamol;Antihistamínico;2295
+740;medicina;¿Cuándo se realizó el primer transplante de corazón humano?;1967;1958;1970;1973;2258
+741;medicina;¿De qué tipo de medicina alternativa se encontró evidencia en una momia de 5.300 años?;Acupuntura;Terapia de cristales;Homeopatía;Aceites esenciales;2320
+742;medicina;¿En qué año se hizo la primera cirugía con anestesia general?;1804;1905;1733;1911;2333
+743;medicina;¿En qué parte del cuerpo se inserta una aguja durante una punción lumbar?;Columna vertebral;Oreja;Estómago;Próstata;2255
+744;medicina;¿Para qué se utiliza comúnmente la penicilina?;Antibiótico;Desinfectante;Antiviral;Antihistamínico;2319
+745;medicina;¿Qué antiguo griego es considerado por muchos como \el padre de la medicina moderna\?;Hipócrates de Cos;Tales de Mileto;Diocles de Caristo;Critón de Heraclea;2279
+746;medicina;¿Qué contrarrestan los antihistamínicos?;Reacciones alérgicas;Síndrome de abstinencia;Coagulación sanguínea excesiva;Epilepsia;2217
+747;medicina;¿Qué defecto sanguíneo hereditario era conocido como \La enfermedad de la realeza\?;Hemofilia;Anemia;Leucemia;Malaria;2248
+748;medicina;¿Qué descubrió Karl Landsteiner en 1901?;Grupos sanguíneos ABO;Neurogénesis;Ondas cerebrales;Vacunas;2243
+749;medicina;¿Qué enfermedad afecta 16 veces menos a las mujeres que a los hombres?;Daltonismo;Hemofilia;Cáncer de pulmón;Apendicitis;2340
+750;medicina;¿Qué enfermedad causa casi 1 de cada 6 muertes en el mundo?;Cáncer;Diarrea;Enfermedades cardiovasculares;SIDA;2267
+751;medicina;¿Qué enfermedad estudia la oncología?;Cáncer;Alzheimer;Parkinson;Epilepsia;2254
+752;medicina;¿Qué enfermedad investigaba Robert Koch?;Tuberculosis;Cáncer;Esquizofrenia;Epilepsia;2251
+753;medicina;¿Qué enfermedad produce la falta de vitamina C?;Escorbuto;Anemia;Kwashiorkor;Raquitismo;2328
+754;medicina;¿Qué es la halitosis?;Mal aliento;Pelos enquistados;Acné;Dermatitis;2263
+755;medicina;¿Qué es un hemodializador?;Riñón artificial;Corazón artificial;Pulmón artificial;Hígado artificial;2328
+756;medicina;¿Qué medicación se descubrió en 1928 pero no fue producida en masa hasta 1940?;Penicilina;Ibuprofeno;Vacuna contra la polio;Aspirina;2236
+757;medicina;¿Qué medicamento descubierto en 1943 fue el primero en ser efectivo contra la tuberculosis?;Estreptomicina;Finasteride;Paracetamol;Isotrenoína;2354
+758;medicina;¿Qué miran los médicos con un oftalmoscopio?;Ojo;Ano;Garganta;Nariz;2263
+759;medicina;¿Qué órgano se inflama cuando se tiene encefalitis?;Cerebro;Hígado;Ojo;Lengua;2294
+760;medicina;¿Qué parte del ojo se ve afectada por las cataratas?;Cristalino;Retina;Córnea;Nervio óptico;2268
+761;medicina;¿Qué se tiene si se sufre de epitaxis?;Sangrado nasal;Salivación excesiva;Dolor articular;Caries;2293
+762;medicina;¿Qué sentido pierde la gente que sufre ageusia?;Gusto;Oído;Olfato;Tacto;2290
+763;medicina;¿Qué tiene en exceso la gente que sufre de leucemia?;Leucocitos;Eritrocitos;Plaquetas;Células de Schwann;2288
+764;medicina;¿Qué tipo de medicina alternativa pone énfasis en el masaje y la manipulación física del tejido muscular y los huesos?;Osteopatía;Acupuntura;Homeopatía;Terapia de cristales;2320
+765;medicina;¿Qué tipo de problema sufre alguien con alopecia?;Pérdida del cabello;Debilitación de las uñas;Descamación de la piel;Decoloración del ojo;2258
+766;medicina;¿Qué tratamiento o medicamento estudió en profundidad Frederick Sanger?;Insulina;Penicilina;Vacunas;Quimioterapia;2330
+767;medicina;¿Quién desarrolló la vacuna de la polio?;Jonas Salk;Alb E. Sabin;J. L. Baird;J. Perkins;2267
+768;medicina;¿Quién inventó la penicilina?;Alexander Fleming;Jonas E. Salk;William Osler ;Robert Koch;2278
+769;mediciones;¿A cuántas millas equivale un kilómetro?;0,62 millas;0,84 millas;0,5 millas;1,6 millas;2329
+770;mediciones;¿Cómo se conoce también a la lente de un microscopio?;Ocular;Observador;Réflex;Lentuma;2225
+771;mediciones;¿Cuál es la unidad de intensidad del sonido?;Decibelio;Hertz;Grado;Newton;2228
+772;mediciones;¿Cuál es la unidad de medida de la iluminancia?;Lux;Brillum;Glister;Shinon;2326
+773;mediciones;¿Cuántos caballos son un kilovatio?;1,34;2,91;6,45;3,82;2158
+774;mediciones;¿Cuántos centímetros hay en un metro?;100;1;10;500;2310
+775;mediciones;¿Cuántos grados Celsius son 86 grados Farenheit?;30;20;15;40;2294
+776;mediciones;¿Cuántos kilómetros hay en una milla aproximadamente?;1,61 km;2,46 km;0,89 km;3,24 km;2294
+777;mediciones;¿De qué medio de transporte miden la velocidad los número Mach?;Aviones;Astronaves;Barcos;Coches;2338
+778;mediciones;¿En qué unidad se expresa el trabajo realizado sobre un objeto?;Julio;Vatio;Amperio;Kinetic;2275
+779;mediciones;¿En qué unidades se mide normalmente la resistencia eléctrica?;Ohmnios;Voltios;Amperios;Vatios;2276
+780;mediciones;¿Qué objeto se utiliza para separar la luz solar en sus componentes?;Prisma;Decompositor;Iridizador;Lumine;2194
+781;mediciones;¿Qué civilización fue la primera en dividir el día en 24 horas?;Egipcios;Romanos;Griegos;Mayas;2318
+782;mediciones;¿Qué herramienta de laboratorio se utiliza para transportar pequeños volúmenes medidos de líquido?;Pipeta;Placa de Petri;Forceps;Destilador;2321
+783;mediciones;¿Qué instrumento detecta los terremotos?;Sismómetro;Escala Ritcher;Barómetro;Manómetro;2221
+784;mediciones;¿Qué instrumento indica dónde están los puntos cardinales?;Brújula;Sextante;Astrolabio;Altímetro;2293
+785;mediciones;¿Qué instrumento médico se utiliza para examinar los oídos?;Otoscopio;Estetoscopio;Microscopio;Conductoscopio;2252
+786;mediciones;¿Qué instrumento produce rayos que aumentan el riesgo de problemas en el desarrollo y cáncer?;Máquina de rayos X;Ecógrafo;Electroencefalograma;Densograma;2304
+787;mediciones;¿Qué instrumento se utiliza para medir la densidad relativa de los líquidos?;Hidrómetro;Liquidómetro;Viscómetro;Densómetro;2353
+788;mediciones;¿Qué mide el \bar\?;Presión ;Corriente;Temperatura;Calor;2308
+789;mediciones;¿Qué mide el tubo de Venturi?;Fluir de un líquido;Intensidad de sonido;Gravedad;Densidad;2221
+790;mediciones;¿Qué mide la escala Beaufort?;Velocidad del viento;Fuerza de un terremoto;Radiación ultravioleta;Viscosidad;2304
+791;mediciones;¿Qué mide un brazómetro?;Profundidad oceánica;Lluvia;Presión atmosférica;Humedad;2245
+792;mediciones;¿Qué mide un manómetro?;Presión de gas;Volumen;Carga iónica;Flexibilidad;2329
+793;mediciones;¿Qué mide un pluviómetro?;Lluvia;Rocío;Vapor de agua;Grosor del hielo;2282
+794;mediciones;¿Qué mide un podómetro?;Pasos dados;Crecimiento de los niños;Concentración de gas;Ritmo musical;2235
+795;mediciones;¿Qué miden los años luz?;Distancia;Corriente eléctrica;Intensidad luminosa;Tiempo;2318
+796;mediciones;¿Qué miden los hertz?;Frecuencia;Voltaje;Resistencia eléctrica;Intensidad de sonido;2215
+797;mediciones;¿Qué miden los kilovatios?;Potencia;Resistencia eléctrica;Intensidad de corriente;Trabajo;2285
+798;mediciones;¿Qué miden los nilómetros?;El nivel del agua del Nilo;La concentración bacterial del Nilo;La población de cocodrilos del Nilo;La densidad vegetacional del Nilo;2225
+799;mediciones;¿Qué se mide con la escala Gay-Lussac?;Graduación alcohólica;Acidez;Picante de la comida;Dureza;2222
+800;mediciones;¿Qué se mide con un contador Geiger?;Radiación ionizante;Intensidad de corriente;Conductividad;Voltaje;2347
+801;mediciones;¿Qué sistema decimal de medida se usa en prácticamente todo el mundo?;Sistema métrico;Sistema imperial;Sistema clásico;Sistema colonial;2323
+802;mediciones;¿Qué unidad de longitud es igual a aproximadamente la distancia desde la Tierra al Sol?;Unidad astronómica;Año luz;Eón;Mol;2244
+803;mediciones;¿Qué unidad de medida romana originalmente medía la distancia que podía caminar una persona en un día?;Legua;Estadio;Maratón;Kilómetro;2235
+804;mitologia;¿A qué dos \más allá\ iban los guerreros que morían en combate en la mitología nórdica?;Valhalla y Fólkvangr;Elivagar y Bifrost;Gimli y Alfheim;Helheim y Idavol;2208
+805;mitologia;¿A qué grupo pertenecía Atlas en la mitología griega?;Titanes;Dioses;Gigantes;Semidioses;2179
+806;mitologia;¿A quién castigó la diosa Atenea convirtiéndola en una araña?;Aracne;Iris;Pandora;Medusa;2293
+807;mitologia;¿A quién quería rescatar del inframundo Orfeo?;Eurídice;Apolo;Calíope;Perséfone;2261
+808;mitologia;¿Asclepius era el héroe y dios griego de qué?;Medicina;Matemáticas;Naturaleza;Caza;2257
+809;mitologia;¿Cómo se llama la batalla final, la muerte de los dioses y el fin del mundo en la mitología nórdica?;Ragnarök;Mjölnir;Valhalla;Hella;2231
+810;mitologia;¿Cómo se llama la isla que desde la antigüedad se cree que se hundió en el océano?;Atlántida;Antártida;Deeptena;Te fiti;2222
+811;mitologia;¿Cómo se llamaba el martillo del dios nórdico Thor?;Mjölnir;Eir;Göll;Kára;2281
+812;mitologia;¿Cómo se llaman las figuras que deciden qué guerreros viven o mueren en la mitología nórdica?;Valkirias;Enanos;Brunnmigi;Fafnir;2319
+813;mitologia;¿Cuál de estos es un reino nórdico, gobernado por Odín?;Asgard;Rorgard;Malagard;Durgard;2353
+814;mitologia;¿Cuál era el hogar de los dioses griegos?;Monte Olimpo;Coloseo;Hades;Partenón;2311
+815;mitologia;¿Cuál era el término para la arrogancia de alguien ante los dioses en la mitología griega?;Hubris;Humor;Bilis;Panteón;2220
+816;mitologia;¿Cuál era la diosa griega del amor?;Afrodita;Atenea;Artemisa;Diana;2227
+817;mitologia;¿Cuál era la diosa nórdica del amor, sexo, belleza, fertilidad, oro, brujería y guerra?;Freyja;Frigg;Sif;Idun;2212
+818;mitologia;¿Cuál fue la primera mujer creada por los dioses según la mitología griega?;Pandora;Perséfone;Megara;Calíope;2260
+819;mitologia;¿Cuántos reinos une el árbol Yggdrasil en la mitología nórdica?;9;7;5;3;2257
+820;mitologia;¿De qué animal tenía forma el dios egipcio Sobek?;Cocodrilo;Águila;Serpiente;Gato;2287
+821;mitologia;¿De qué era Démeter diosa según la mitología griega?;Agricultura;Amor;Sabiduría;Caza;2296
+822;mitologia;¿De qué era dios Freyr según la mitología nórdica?;Fertilidad y virilidad;Sabiduría y conocimiento;Muerte;Risa;2215
+823;mitologia;¿De qué era diosa Hathor según la mitología egipcia?;Maternidad, música y baile;Sol y luz;Sabiduría;Cosecha;2282
+824;mitologia;¿De qué era diosa Minerva según la mitología romana?;Sabiduría;Muerte;Cosecha;Belleza;2225
+825;mitologia;¿De qué es dios Agni en la mitología hindú?;Fuego;Agua;Tierra;Aire;2317
+826;mitologia;¿Dónde residían las hamadríades según la mitología griega?;Árboles;Cuevas;Ríos;Estanques;2223
+827;mitologia;¿En qué isla se forjó Excalibur, la espada del rey Arturo, según la leyenda?;Avalon;Camelot;Morgana;Uther;2304
+828;mitologia;¿Para qué pueblo antiguo era Marduk el dios del agua, la vegetación, el juicio y la magia?;Babilonios;Egipcios;Celtas;Eslavos;2244
+829;mitologia;¿Qué animal amamantó a Rómulo y Remo según la mitología romana?;Loba;Cerda;Yegua;Osa;2284
+830;mitologia;¿Qué criatura mitológica era mitad hombre mitad caballo?;Centauro;Minotauro;Cíclope;Caribdis;2354
+831;mitologia;¿Qué dios griego era el dios del cielo, el gobernante de todos los demás dioses e infame por su flirteo?;Zeus;Poseidón;Hades;Hermes;2362
+832;mitologia;¿Qué dios nórdico murió al ser envenenado por una serpiente monstruosa, según la leyenda nórdica del fin del mundo?;Thor;Loki;Meili;Ullr;2305
+833;mitologia;¿Qué dios, conocido como el mensajero de los dioses, era el hijo de Zeus y Maia?;Hermes;Apolo;Dioniso;Poseidón;2307
+834;mitologia;¿Qué dos dioses son los gobernantes de los dos \más allá\ en la mitología nórdica?;Odín y Freyja;Thor y Loki;Váli y Vili;Hella y Zisa;2336
+835;mitologia;¿Qué era Nessus, el asesino de Hércules?;Centauro;Minotauro;Esfinge;Quimera;2254
+836;mitologia;¿Qué es una rusalka?;Ninfa de agua rusa;Monstruo celta de las montañas;Hada griega de la cosecha;Espíritu doméstico chino;2246
+837;mitologia;¿Qué figura de la mitología romana es la personificación del sueño?;Somnus;Mors;Morfeo;Icelos;2257
+838;mitologia;¿Qué fue lo único que quedó en la caja de Pandora después de que dejase salir todos los males del mundo?;Esperanza;Venganza;Futuro;Bondad;2231
+839;mitologia;¿Qué grupo de gigantes míticos lideraba Polifemo?;Cíclopes;Asterios;Gratios;Hecatónquiros;2300
+840;mitologia;¿Qué hizo Pigmalión según la mitología griega?;Se enamoró de una estatua que esculpió;Se comió a sus propios hijos;Vendió a su familia;Todo lo que tocaba se convertía en oro;2262
+841;mitologia;¿Qué le robó Prometeo a los dioses para dárselo a la humanidad?;Fuego;Oro;Juventud;Magia;2314
+842;mitologia;¿Qué mitología tiene dioses como Odin, Thor, Freyja y Njörðr?;Nórdica;Eslava;Griega;Hindú;2289
+843;mitologia;¿Qué mitología tiene dioses como Rod, Perun, Vesna y Svarog?;Eslava;Nórdica;Sumeria;Polinesia;2251
+844;mitologia;¿Qué monstruo tiene cuerpo de león, una cabeza de cabra sobre su espalda y una serpiente como cola?;Quimera;Esfinge;Hipogrifo;Minotauro;2334
+845;mitologia;¿Qué significa el nombre de la diosa egipcia Isis?;Trono;Madre;Ayuda;Canción;2297
+846;mitologia;¿Quién era el dios romano de la riqueza y la agricultura?;Saturno;Urano;Neptuno;Mercurio;2373
+847;mitologia;¿Quién era el padre del dios nórdico Thor?;Odín;Loki;Njörðr;Asgard;2299
+848;mitologia;¿Quién era la antigua diosa griega del arco iris?;Iris;Atenea;Afrodita;Diana;2286
+849;mitologia;¿Quién era la diosa griega que castigaba a aquellos que eran arrogantes ante los dioses?;Némesis;Nix;Ápate;Keres;2299
+850;mitologia;¿Quién es el dios del trueno en la mitología nórdica?;Thor;Odin;Loki;Vili;2284
+851;mitologia;¿Quién es la narradora de \Las noches árabes\ (\Las 1.001 noches\)?;Sheherazade;Aladino;Ali Baba;Shahryar;2248
+852;mitologia;¿Quién fabricó el martillo del dios nórdico Thor?;Enanos;Trolls;Elfos;Brujas;2285
+853;mitologia;¿Quién fue el mensajero del mar y el hijo de Poseidón y Anfitrite?;Tritón;Hermes;Neptuno;Ninfa;2395
+854;mitologia;¿Quién mató a la gorgona Medusa en la mitología griega?;Perseo;Heracles;Aquiles;Homero;2296
+855;mitologia;¿Quién salvó a Andrómeda del monstruo marino Ceto?;Perseo;Zeus;Poseidón;Afrodita;2247
+856;mitologia;¿Quién se enamoró de su propio reflejo?;Narciso;Iris;Medusa;Heracles;2293
+857;mundo;¿Cómo se llama el río situado a lo largo de la frontera entre Estados Unidos y México?;Río Grande;Amazonas;Mississipi;Colorado;2267
+858;mundo;¿Cuál de los ríos más largos del mundo pasa a través de Kenia?;Nilo;Amazonas;Congo;Níger;2311
+859;mundo;¿Cuál era el antiguo nombre de la isla de Sri Lanka?;Ceilán;Turton;Komora;Canva;2292
+860;mundo;¿Cuál es el estado más grande en área en los Estados Unidos de América?;Alaska;Texas;California;Nueva York;2380
+861;mundo;¿Cuál es el lago de agua dulce más grande de África?;Victoria;Tanganica;Malaui;Moero;2238
+862;mundo;¿Cuál es el río más largo de América del Sur?;Amazonas;Paraná;Orinoco;Magdalena;2264
+863;mundo;¿Cuál es el río más largo de Asia?;Yangtsé;Huang He;Mekong;Lena;2262
+864;mundo;¿Cuál es el único país centroamericano sin costa en el Caribe?;El Salvador;México;Guatemala;Honduras;2266
+865;mundo;¿Cuál es la capital de Canadá?;Ottawa;Vancouver;Toronto;Montreal;2299
+866;mundo;¿Cuál es la capital de Chile?;Santiago;La Plata;Bogotá;Quito;2199
+867;mundo;¿Cuál es la capital de Etiopía?;Adís Abeba;Bahir Dar;Gondar;Mekele;2234
+868;mundo;¿Cuál es la capital de Ghana?;Acra;Abiyán;Lilongüe;Lagos;2253
+869;mundo;¿Cuál es la capital de Indonesia?;Yakarta;Bangkok;Kuala Lumpur;Ho Chi Minh;2324
+870;mundo;¿Cuál es la capital de Jamaica?;Kingston;Jamaica;La Habana;Portmore;2352
+871;mundo;¿Cuál es la capital de Marruecos?;Rabat;Casablanca;Fez;Marrakech;2306
+872;mundo;¿Cuál es la capital de Nueva Zelanda?;Wellington;Auckland;Brisbane;Queenstown;2268
+873;mundo;¿Cuál es la ciudad más poblada del hemisferio sur?;São Paulo;Sidney;Buenos Aires;Lima;2251
+874;mundo;¿Cuál es la montaña más alta de África?;Kilimanjaro;Kosciuszko;Mont Blanc;Aconcagua;2264
+875;mundo;¿Cuál fue el primer parque nacional de Estados Unidos?;Yellowstone;Everglades;Yosemite;Gran Cañón;2305
+876;mundo;¿Cuántos estados componen los Estados Unidos de América?;50;52;51;49;2299
+877;mundo;¿De qué país es Bagdad la capital?;Iraq;Afganistán;Irán;Siria;2238
+878;mundo;¿De qué país es Nairobi la capital?;Kenia;Uganda;Nigeria;El Congo;2270
+879;mundo;¿De qué país es Sucre la capital?;Bolivia;Perú;Argentina;Chile;2286
+880;mundo;¿En qué ciudad se encuentra la famosa playa de Copacabana?;Río de Janeiro;São Paulo;Brasilia;Belo Horizonte;2177
+881;mundo;¿En qué continente está Eritrea?;África;Asia;Europa;Antártida;2258
+882;mundo;¿En qué continente se encuentra Guyana?;Sudamérica;África;Ásia;Australia;2204
+883;mundo;¿En qué continente se encuentran las montañas más altas del mundo?;Asia;África;Sudamérica;Europa;2251
+884;mundo;¿En qué isla japonesa está el Monte Fuji?;Honshu;Hokkaido;Shikoku;Okushiri;2278
+885;mundo;¿En qué océano están las Seychelles?;Índico;Pacífico;Atlántico;Antártico;2318
+886;mundo;¿En qué país está la ciudad de Brisbane?;Australia;Nueva Zelanda;Estados Unidos;Reino Unido;2267
+887;mundo;¿En qué país se encuentra el punto más septentrional de África?;Túnez;Algeria;Egipto;Marruecos;2247
+888;mundo;¿En qué país se puede encontrar la cima del monte Kilimanjaro?;Tanzania;Mozambique;Kenia;Uganda;2350
+889;mundo;¿Qué conecta el canal de Suez?;Mar Mediterráneo y Mar Rojo;Mar Rojo y Mar Caspio;Mar Mediterráneo y Mar del Norte;Mar Báltico y Mar Caspio;2351
+890;mundo;¿Qué desierto tienen en común Botswana, Namibia y Sudáfrica?;Kalahari;Sahara;Karoo;Namib;2224
+891;mundo;¿Qué dos países rodean el Mar Muerto?;Israel y Jordania;Egipto y Líbano;Israel y Egipto;Líbano y Jordania;2282
+892;mundo;¿Qué país se conoce a veces como el \Reino Medio\?;China;Rusia;Irán;México;2268
+893;mundo;¿Qué país tiene a Puerto Príncipe como capital?;Haití;Marruecos;Costa Rica;Honduras;2233
+894;mundo;¿Qué une a Brasil, Guinea-Bissau, Mozambique y Angola?;Colonias de Portugal;Colonias de España;El inglés es el idioma oficial;Parte del imperio Maya;2225
+895;musica;¿A quién se le conoce a menudo como el \Rey del rock and roll\?;Elvis Presley;Steve Perry;Paul McCartney;Jon Bon Jovi;2331
+896;musica;¿Bajo qué alias lanzó Snoop Dogg un álbum de reggae?;Snoop Lion;Snoop Tiger;Snoop Leopard;Snoop Cheetah;2332
+897;musica;¿Cómo continúa la letra de los Beatles \Ob-la-di, ob-la-da, life goes on\?;Brah;La;Da;Nah;2311
+898;musica;¿Con qué dos bandas está relacionado Dave Grohl?;Foo Fighters y Nirvana;Aerosmith y AC/DC;Black Sabbath y Kiss;Metallica y Seether;2299
+899;musica;¿Cuál es el nombre artístico del rapero estadounidense nacido como Marshall Bruce Mathers III?;Eminem;50 Cent;Dr Dre;Lil' Wayne;2269
+900;musica;¿Cuál fue el primer artista que cantó \What a Wonderful World\?;Louis Armstrong;Stevie Wonder ;Frank Sinatra;Bono;2310
+901;musica;¿Cuál fue el primer hit de las Spice Girls?;Wannabe;Lose Yourself;What a Girl Wants;Toxic;2289
+902;musica;¿Cuál fue el primer sencillo número uno de Madonna en la lista Billboard Hot 100?;Like a Virgin;Material Girl;Like a Prayer;Vogue;2396
+903;musica;¿Cuál fue la primera boy band estadounidense en ganar fama internacional a finales de la década de 1980?;New Kids on the Block;N'Sync;Backstreet Boys;Westlife;2329
+904;musica;¿De qué banda es el álbum \The Dark Side of the Moon\, en cuya portada hay un prisma?;Pink Floyd;Nirvana;Red Hot Chili Peppers;The Rolling Stones;2223
+905;musica;¿De qué icono musical eran las canciones \Can't Help Falling in Love\ y \Love Me Tender\?;Elvis Presley;Frank Sinatra;Billy Joel;\Nat \King\ Cole\;2300
+906;musica;¿En qué año ganó ABBA el Festival de Eurovisión?;1974;1980;1976;1982;2268
+907;musica;¿Qué artista masculino ganó un récord de 8 premios Grammy en una noche en 1984?;Michael Jackson;Bryan Adams;John Lennon;Usher;2258
+908;musica;¿Qué artista será recordado por sus éxitos \Purple Rain\ y \When Doves Cry\?;Prince;Michael Jackson;Stevie Wonder;Billy Joel;2305
+909;musica;¿Qué banda cantó \Losing My Religion\?;R.E.M.;Radiohead;Creed ;Nirvana;2296
+910;musica;¿Qué banda compuso el álbum \Highway to Hell\?;AC/DC;Metallica;Guns N' Roses;Black Sabbath;2346
+911;musica;¿Qué banda cuenta actualmente con los miembros Jagger, Richards, Watts y Wood?;The Rolling Stones;Heart;Alice in Chains;Radiohead;2240
+912;musica;¿Qué banda fue formada por Gilmour, Barett, Waters, Wright y Mason?;Pink Floyd;Led Zeppelin;The Who ;U2;2275
+913;musica;¿Qué canción fue una colaboración entre Queen y David Bowie?;Under Pressure;Radio Gaga;Show Must Go On;I Want to Break Free;2255
+914;musica;¿Qué cantante es conocida por el sencillo \My Heart Will Go On\?;Celine Dion;Whitney Houston;Mariah Carey;Bonnie Tyler;2309
+915;musica;¿Qué es el K-pop?;Un género musical surcoreano;Un tipo de caramelo;Un tipo de bomba;Un material de construcción;2286
+916;musica;¿Qué estrella de rock murió de cáncer de hígado el 10 de enero de 2016?;David Bowie;Freddy Mercury;Marilyn Manson;Axl Rose;2266
+917;musica;¿Qué famosa banda de rock tenía como cantante a alguien cuyo verdadero nombre era Farrokh Bulsara?;Queen;Aerosmith;Guns N' Roses;Journey;2203
+918;musica;¿Qué género musical se originó en Seattle a principios de la década de 1990?;Grunge;EDM;Soul;Pop;2289
+919;musica;¿Qué miembro de los Beatles se casó con Yoko Ono?;John Lennon;Paul McCartney;Ringo Starr;George Harrison;2302
+920;musica;¿Qué músico tenía un alter ego llamado \Ziggy Stardust\?;David Bowie;Freddy Mercury;Lady Gaga;Elton John;2261
+921;musica;¿Qué popular banda de pop activa desde 1972 hasta 1983 se formó en Estocolmo?;ABBA;Roxette;A-ha;Ace of Base;2255
+922;musica;¿Qué significa la abreviatura DJ en el mundo de la música?;Disc jockey;Dancing jockey;Drum jockey;Dubstep jockey;2262
+923;musica;¿Quién cantó las palabras \you may say I'm a dreamer, but I'm not the only one\ en 1971?;John Lennon;Paul McCartney;Ringo Starr;George Harrison;2370
+924;musica;¿Quién co-escribió la canción \Fame\ con David Bowie?;John Lennon;Paul McCartney ;Ringo Starr;George Harrison;2286
+925;musica;¿Quién fue el cantante principal de Led Zeppelin?;Robert Plant;Jimmy Page;John Paul Jones;John Bonham;2273
+926;musica;¿Quién fue el primer batería de los Beatles?;Pete Best;Ringo Starr;Stuart Sutcliffe;George Harrison;2288
+927;musica;¿Quién mató a John Lennon en Nueva York en 1980?;Mark Chapman;Jack Ruby;Yoko Ono;Annie Leibovitz;2192
+928;musica;¿Quiénes son Benny, Björn, Agnetha y Frida?;Miembros de ABBA;Los creadores de los Grammy;Alter egos artísticos de Cher;Los protagonistas de Los Miserables;2345
+929;organizaciones;¿\Fidelidad, Valor, Integridad\ es el lema de qué organización?;FBI;CIA;UNESCO;Amnistía Internacional;2244
+930;organizaciones;¿Cuál era el método más utilizado por el Ku Klux Klan para intimidar?;Quemar cruces;Pintar paredes;Destrozar jardines;Mandar cartas;2261
+931;organizaciones;¿Cuál fue el primer país en abandonar las Naciones Unidas?;Indonesia;Singapur;India;China;2260
+932;organizaciones;¿Cuándo entró en vigor la constitución de la UNESCO?;1946;1919;1957;1939;2269
+933;organizaciones;¿Cuándo se estableció la OTAN (Organización del Tratado del Atlántico Norte)?;4 de abril, 1949;1 de septiembre, 1966;12 de diciembre, 1990;20 de enero, 1950;2278
+934;organizaciones;¿De qué palabra griega adoptó su nombre el Ku Klux Klan?;Kuklos (Círculo);Kathairo (Purga);Kalare (Brillante);Kasin (Puro);2344
+935;organizaciones;¿Dónde está la sede de las Naciones Unidas?;Nueva York;Washington;Génova;París;2288
+936;organizaciones;¿Dónde están las oficinas centrales de la INTERPOL?;Lyon (Francia);Bruselas (Bélgica);Berlín (Alemania);Florencia (Italia);2222
+937;organizaciones;¿Dónde están las oficinas centrales de la Organización Mundial de la Salud?;Ginebra;Zúrich;Bruselas;París;2245
+938;organizaciones;¿Dónde están las oficinas centrales del Comité Internacional de la Cruz Roja?;Ginebra;París;Roma;Estocolmo;2377
+939;organizaciones;¿Dónde se encuentra la sede de la Unión Europea?;Bruselas;París;Londres;Roma;2286
+940;organizaciones;¿Qué dos organizaciones de seguridad dominaron la era de la Guerra Fría?;OTAN y Pacto de Varsovia;CIA y FBI;FBI y OTAN;CIA y Pacto de Varsovia;2238
+941;organizaciones;¿Qué es el infame Grupo Lazarus?;Grupo de cibercrimen;Banda de secuestradores;Secta religiosa;Sociedad de asesinos;2277
+942;organizaciones;¿Qué organización de derechos humanos fundada en 1961 obtuvo un Premio Nobel en 1977?;Amnistía Internacional;UNESCO;Freedom House;Alianza Internacional de Mujeres;2284
+943;organizaciones;¿Qué orden religiosa fundó Ignacio de Loyola?;Jesuitas;Franciscanos;Carmelitas;Protestantes;2301
+944;organizaciones;¿Qué organización proporciona asistencia humanitaria y de desarrollo a niños y madres en países en desarrollo?;UNICEF;UNESCO;FBI;OTAN;2321
+945;organizaciones;¿Qué organización tiene como lema \Citius, Altius, Fortius\ (\Más rápido, más alto, más fuerte\)?;Olimpiadas;Fuerza Aérea de los Estados Unidos;NASA;FIFA;2402
+946;organizaciones;¿Qué presidente estadounidense dio su nombre a las Naciones Unidas?;Franklin D. Roosevelt;George Washington;Abraham Lincoln;John F. Kennedy;2274
+947;organizaciones;¿Qué significa \INTERPOL\?;International Police Organization;International Political Organization;International Politeness Organization;International Polish Organization;2250
+948;organizaciones;¿Qué significa CIA?;Central Intelligence Agency;Central Information Agency;Central Investigation Agency;Central Inquiring Agency;2270
+949;organizaciones;¿Qué significa literalmente \Hezbolá\?;Partido de Dios;Cordero de Dios;Dios es misericordioso;Dios es poderoso;2299
+950;organizaciones;¿Qué significa UNICEF?;United Nations Children's Fund;United Nations Capital Fund;United Nations Commerce Fund;United Nations Collaboration Fund;2294
+951;organizaciones;¿Qué sociedad internacional para personas inteligentes se fundó en Oxford en 1946?;MENSA;Triple Nine Society;Prometheus Society;ISPE;2230
+952;organizaciones;¿Quién fue el fundador de la Cruz Roja?;Henri Dunant;Irving Stowe;Jacques Bérès;Ingrid Newkirk;2263
+953;organizaciones;¿Quién fue el fundador y el jefe del grupo terrorista islámico de Al-Qaeda hasta 2011?;Osama Bin Laden;Sadam Hussein;Hibatullah Akhundzada;Mohammed Yusuf;2275
+954;organizaciones;¿Quiénes son los estados miembros de la Benelux?;Bélgica, Países Bajos y Luxemburgo;Algeria, Baréin, Comoras e Iraq;Indonesia, Kuwait y Libia;Guyana, Jamaica, Trinidad y Tobago;2298
+955;peliculas;¿Cómo se llama el compositor clásico cuya música adora el protagonista de \La naranja mecánica\?;Ludwig van Beethoven;Wolfgang Amadeus Mozart;Antonio Salieri;Richard Wagner;2170
+956;peliculas;¿Cómo se llama el tío de Luke Skywalker?;Owen;Ben;Han;Obi;2238
+957;peliculas;¿Cómo se llama la ciudad en la que vive Superman?;Metrópolis;Gotham City;Kryptonopolis;Mega-City One;2325
+958;peliculas;¿Cómo se llama la ciudad natal de Batman?;Gotham City;Metropolis;Arrakeen;Smallville;2230
+959;peliculas;¿Cómo se llama la protagonista del musical \West Side Story\?;María;Bess;Esther;Lupita;2283
+960;peliculas;¿Cómo se llamaba la novia de Tarzán?;Jane;Kala;Joan;Beth;2308
+961;peliculas;¿Cómo se llaman los premios conferidos anualmente por la Asociación de la Prensa Extranjera de Hollywood?;Globos de oro;Emmy;Oscar;Owen;2234
+962;peliculas;¿Cuál de las siguientes películas ganó 9 Oscars en 1988?;El último emperador;Rain Man;Amadeus;Mi vecino Totoro;2277
+963;peliculas;¿Cuál era el nombre de Darth Vader antes de pasarse al lado oscuro?;Anakin Skywalker;Conde Dooku;Han Solo;Qui-Gon Jinn;2242
+964;peliculas;¿Cuál es el nombre de nacimiento de Superman?;Kal-El;Jor-El;Clark Kent;Lex Luthor;2303
+965;peliculas;¿Cuál es el verdadero nombre de Batman?;Bruce Wayne;Thomas Wayne;Ra's al Ghul;James Gordon;2265
+966;peliculas;¿Cuál fue el primer largometraje animado de Disney?;Blancanieves y los siete enanitos;Bambi;La bella durmiente;Cenicienta;2261
+967;peliculas;¿Cuál fue la primera película de James Bond?;Dr. No;Desde Rusia con amor;Sólo se vive dos veces;James Bond contra Goldfinger;2288
+968;peliculas;¿Cuándo se estrenó \El cantante de jazz\, la primera película con diálogo sincronizado?;1927;1887;1939;1945;2243
+969;peliculas;¿Cuándo se instituyó la ceremonia de los premios Oscar?;1929;1901;1938;1915;2295
+970;peliculas;¿De quién eran las famosas películas \El gran dictador\ y \Tiempos modernos\?;Charlie Chaplin;Sean Connery;Ian McKellen;Patrick Stuart;2271
+971;peliculas;¿Dónde nació el actor Will Smith?;Filadelfia;Miami;Los Ángeles;San Diego;2285
+972;peliculas;¿En qué año se estrenó la película \Lo que el viento se llevó\?;1939;1944;1946;1935;2289
+973;peliculas;¿En qué científico está basada la película \Una mente maravillosa\?;John Nash;Richard P. Feynman;Stephen Hawking;Albert Einstein;2315
+974;peliculas;¿En qué novela del siglo XIX está basado \El diario de Bridget Jones\?;Orgullo y prejuicio;Madame Bovary;Anna Karenina;Matar a un ruiseñor;2290
+975;peliculas;¿En qué película de 1993 se travistió Robin Williams?;Señora Doubtfire;Dr. Doolittle;Dos rubias de pelo en pecho;Este cuerpo no es el mío;2333
+976;peliculas;¿En qué película de Disney la heroína se alista en el ejército y salva China de los Hunos?;Mulán;Mushu;Enredados;Vaiana;2214
+977;peliculas;¿Qué actor interpretó a Rocky Balboa?;Sylvester Stallone;Arnold Schwarzenegger;Jason Statham;Chuck Norris;2271
+978;peliculas;¿Qué actriz es conocida por aparecer en \Mary Poppins\ y \Sonrisas y lágrimas\?;Julie Andrews;Judy Garland;Barbra Streisand;Patti LuPone;2310
+979;peliculas;¿Qué actriz ganadora de un Oscar de la Era Dorada de Hollywood se convirtió en la princesa de Mónaco?;Grace Kelly;Kate Middleton;Meghan Markle;Diana Spencer;2285
+980;peliculas;¿Qué película ganó el Oscar a la mejor película en 1944?;Casablanca;Alarma en el Rin;El amor llamó dos veces;Footloose;2398
+981;peliculas;¿Qué película ganó Oscars en las 5 categorías más importantes: mejor película, actor, actriz, director y adaptación?;El silencio de los corderos;La Bella y la Bestia;Bugsy Malone;El príncipe de las mareas;2261
+982;peliculas;¿Quién dirigió películas como \Titanic\, \Terminator\ 1 y 2, \Aliens\ y \Avatar\?;James Cameron;George Lucas;Zack Snyder;Joss Whedon;2363
+983;peliculas;¿Quién fue el creador de \Star Wars\ e \Indiana Jones\?;George Lucas;James Cameron;Steven Spielberg;Quentin Tarantino;2198
+984;peliculas;¿Quién fue el director de las trilogías de \El señor de los anillos\ y \El Hobbit\?;Peter Jackson;Gillermo del Toro;Steven Spielberg;George Lucas;2259
+985;peliculas;¿Quién interpretó al protagonista travestido en \Tootsie\?;Dustin Hoffman;Al Pacino;Robert De Niro;Sean Connery;2268
+986;politica;¿A quién se le ofreció la presidencia de Israel en 1952, la cual rechazó?;Albert Einstein;Woody Allen;Isaac Asimov;Leonard Cohen;2225
+987;politica;¿Cómo llegó supuestamente la Reina Isabel II a la Ceremonia de Apertura de los Juegos Olímpicos de Verano en 2012?;Saltando desde un helicóptero;En una lancha por el Támesis;En una carroza de calabaza;Siendo cargada por 4 de sus sirvientes;2340
+988;politica;¿Cómo se conoce al partido de Hitler, que llegó al poder en 1933?;Partido Nazi;Partido Democrático;Partido Abierto;Partido Separacionista;2267
+989;politica;¿Cómo se conoce también a la quinta enmienda de la Constitución de Estados Unidos?;Derecho a guardar silencio;Derecho a llevar armas;Derecho a un juicio rápido y justo;Derecho a la libertad de expresión;2184
+990;politica;¿Cómo se le llama a cuando una organización ataca los sistemas de información de otra nación?;Guerra informática;Guerra telemática;Guerra fría;Guerra no convencional;2212
+991;politica;¿Cómo se le llama a la suspensión temporal de las hostilidades por mutuo consentimiento?;Armisticio;Asedio;Arbitración;Asilo;2284
+992;politica;¿Cómo se le llama a un grupo de estados soberanos unidos para propósitos de acción común en relación con otros estados?;Confederación;República;Consejo;Dictadura;2255
+993;politica;¿Cómo se le llama a una unión de estados o regiones parcialmente autónomos bajo un gobierno central?;Federación;República;Coalición;Autonomía;2367
+994;politica;¿Cómo se les llamaba a las bombas atómicas detonadas sobre Nagasaki e Hiroshima?;Fat Man y Little Boy;Fat Boy y Little Girl;Huge Man y Small Boy;Huge Boy y Small Girl;2224
+995;politica;¿Cómo se llama a la relación política, económica o cultural entre dos estados soberanos?;Bilateralismo;Relacionismo;Comunidad;Transaccionismo;2244
+996;politica;¿Cómo se llama el palacio de Londres en el que reside el monarca de Inglaterra?;Buckingham;Westminster;Glastonbury;Wiltshire;2377
+997;politica;¿Cómo se llamaba el sistema de segregación racial institucionalizado en Sudáfrica?;Apartheid;Basskap;Miskien;Negentien;2374
+998;politica;¿Con qué lema ganó Barack Obama su primera elección presidencial, aparte de \Change we can believe in\?;Yes, we can;Here I am;Not me, us;Make America great again;2274
+999;politica;¿Cuál es el término utilizado para describir la caída repentina de un gobierno provocada por una fuerza ilegal?;Golpe de estado;Ataque al parlamento;Guerra política;Combate de país;2259
+1000;politica;¿Cuál es la autoridad otorgada por una circunscripción electoral para actuar como su representante?;Mandato;Permiso;Concesión;Mandamiento;2266
+1001;politica;¿Cuál es la información sesgada o engañosa utilizada para promover una causa política o punto de vista?;Propaganda;Agenda;Junta;Rally;2297
+1002;politica;¿Cuál fue el movimiento político para la reforma del Partido Comunista de la Unión Soviética durante la década de 1980?;Perestroika;Peremena;Pereklyucheniye;Udaleniye;2239
+1003;politica;¿Cuándo murió John F. Kennedy?;1963;1965;1964;1962;2209
+1004;politica;¿Cuándo se convirtió Bill Clinton en presidente de Estados Unidos?;1993;1990;1986;1999;2267
+1005;politica;¿Cuándo se desintegró formalmente la URSS en 15 repúblicas?;1991;1992;1993;1994;2207
+1006;politica;¿Cuántos años había pasado encarcelado Nelson Mandela antes de su liberación?;27;12;30;35;2332
+1007;politica;¿Dónde tuvo lugar la \Revolución de Terciopelo\ de 1989?;Checoslovaquia;Estonia;Letonia;Ucrania;2232
+1008;politica;¿En qué año tuvieron lugar los ataques terroristas del 11 de septiembre?;2001;2003;2002;2000;2398
+1009;politica;¿En qué forma de gobierno tiene una persona o entidad política el control total sobre un país o un grupo de países?;Dictadura;Monarquía;República;Comunismo;2225
+1010;politica;¿En qué país fue asesinado Osama Bin Laden?;Pakistán;Iraq;Irán;Afghanistán;2289
+1011;politica;¿Qué figura política llevó a su pueblo a la independencia mediante el empleo de la desobediencia civil no violenta?;Mahatma Gandhi;Rosa Parks;Desmond Tutu;George Washington;2220
+1012;politica;¿Qué ideología política establece la propiedad social y el control democrático de los medios de producción?;Socialismo;Capitalismo;Democracia;Dictadura;2279
+1013;politica;¿Qué movimiento tiene como principio la igualdad entre mujeres y hombres?;Feminismo;Igualismo;Sexismo;Disforia de género;2277
+1014;politica;¿Qué proclamó John F. Kennedy en alemán cuando visitó Berlín en 1963?;Ich bin ein Berliner;Ich bin ein Amerikaner;Sind wir Freunde?;Ich komme aus den USA;2312
+1015;politica;¿Qué significa la palabra \politika\?;Asuntos de las ciudades;Gobernar;Discusión pública;Sentarse y hablar;2282
+1016;politica;¿Qué significó la firma del tratado de paz de Versalles?;Final de la Primera Guerra Mundial;Final de la Segunda Guerra Mundial;Final de la Guerra Civil Americana;Final de la Guerra Fría;2307
+1017;politica;¿Qué tipo de gobierno tenía Roma antes de ser un imperio y después de ser una monarquía?;República;Dictadura;No tenía gobierno central;Matriarcado;2186
+1018;politica;¿Qué une a Henri Dunant, Mikhail Gorbachev, Lech Walesa, Yasser Arafat y Barack Obama?;Premio Nobel de la paz;Políticos americanos;Afrodescendientes;Presidentes de sus respectivos países;2256
+1019;politica;¿Qué une al duque de Wellington, el conde de Derby, el marqués de Salisbury y Tony Blair?;Primeros Ministros del Reino Unido;Compositores de música clásica ingleses;Decanos de la Universidad de Brunel;Dramaturgos galeses;2292
+1020;politica;¿Quién es el único político que ha ocupado el cargo de Primer Ministro de Francia dos veces desde 1946?;Jacques Chirac;Nicolas Sarkozy;Édouard Philippe;Jean-Pierre Raffarin;2295
+1021;politica;¿Quién es el único presidente estadounidense elegido sin oposición?;George Washington;Barack Obama;Bill Clinton;Abraham Lincoln;2247
+1022;politica;¿Quién fue presidente de Iraq entre 1979 y 2003?;Saddam Hussein;Osama Bin Laden;Ahmed Hassan al-Bakr;Barham Salih;2312
+1023;politica;¿Quién se convirtió en el primer presidente negro de Sudáfrica?;Nelson Mandela;Thabo Mbeki;Jacob Zuma;Kgalema Motlanthe;2309
+1024;psicologia;¿A qué le tiene pánico la gente con acrofobia?;Alturas;Arañas;Globos explotando;Animales;2317
+1025;psicologia;¿A qué le tiene pánico la gente con agorafobia?;Espacios abiertos o abarrotados;Ruidos fuertes;Payasos;Ponerse enfermo;2262
+1026;psicologia;¿A qué le tiene pánico la gente con claustrofobia?;Espacios pequeños;Intimidad física;Hablar en público;Aviones;2263
+1027;psicologia;¿A qué le tiene pánico la gente con frigofobia?;Tener frío;Dejarse aparatos eléctricos encendidos;Ahogarse en el mar;Manejar objetos pesados;2237
+1028;psicologia;¿A qué le tiene pánico la gente con xenofobia?;Lo desconocido y lo extraño;Espacio exterior;Aguas profundas;Payasos;2288
+1029;psicologia;¿Cómo se le llama a las explosiones de ira mientras se conduce?;Violencia vial;Locura vial;Malhumor vial;Furia vial;2327
+1030;psicologia;¿Cómo se le llama al hecho de experimentar efectos dañinos o negativos cuando se administra una sustancia inofensiva?;Efecto nocebo;Efecto placebo;Efecto facebo;Efecto docebo;2253
+1031;psicologia;¿Cómo se le llaman a las emociones y pensamientos preocupantes centrados en un aspecto de la vida de uno mismo?;Complejo;Conciencia del yo;Atención plena;Luz de gas;2216
+1032;psicologia;¿Cómo se llama el potencial de involucrarse sexual o románticamente tanto con hombres como con mujeres?;Bisexualidad;Homosexualidad;Heterosexualidad;Asexualidad;2294
+1033;psicologia;¿Cuál es el fenómeno de negarse a aceptar lo que ha sucedido o sucederá para evitar el daño psicológico?;Negación;Fantasía;Proyección;Sublimación;2215
+1034;psicologia;¿Cuál es el nombre científico de la memoria fotográfica?;Memoria eidética;Memoria prospectiva;Memoria de trabajo;Memoria ecoica;2233
+1035;psicologia;¿Cuál es el nombre de las técnicas utilizadas para memorizar material difícil de recordar?;Reglas mnemotécnicas;Condicionamiento;Gestalt;Hipnosis;2257
+1036;psicologia;¿Cuál es el nombre del fenómeno por el cual la música clásica mejora la memoria?;Efecto Mozart;Efecto Beethoven;Efecto Bach;Efecto Vivaldi;2301
+1037;psicologia;¿Cuál es el nombre del trastorno caracterizado por problemas al leer a pesar de tener una inteligencia normal?;Dislexia;Dislalia;Disgrafía;Discalculia;2317
+1038;psicologia;¿Cuál es el proceso por el cual un ser humano se forma y se diferencia psicológicamente de otros seres humanos?;Individuación;Independenciación;Separatismo psicológico;Parlicularización psicológica;2290
+1039;psicologia;¿Cuál es la tendencia a buscar e interpretar información de una manera que confirme las creencias preexistentes?;Sesgo de confirmación;Sesgo de prejuicio;Sesgo retrospectivo;Sesgo pasado;2226
+1040;psicologia;¿Qué concepto de la teoría de juegos ayuda a predecir los resultados cuando hay varias personas tomando decisiones?;Equilibrio de Nash;Equilibrio de Mensch;Equilibrio de Baron;Equilibrio de Bayes;2295
+1041;psicologia;¿Qué síntomatología es indicativa de psicosis?;Delirios y alucinaciones;Cambios repentinos de humor;Dificultad para concentrarse;Sueño excesivo;2261
+1042;psicologia;¿Qué es el llamado \Efecto Mandela\?;Recuerdo falso colectivo;Negación del racismo;Incapacidad para recordar nombres;Pánico escénico;2326
+1043;psicologia;¿Qué es la ateofobia?;Discriminación contra los ateos;Discriminación de la gente religiosa;Miedo a dios;Miedo a las iglesia;2303
+1044;psicologia;¿Qué es un segundo yo, que se cree que es distinto de la personalidad normal u original de una persona?;Alter ego;Esquizofrenia;Id;Hipocondría;2257
+1045;psicologia;¿Qué mecanismo psicológico inconsciente reduce la ansiedad derivada de estímulos inaceptables o potencialmente dañinos?;Mecanismo de defensa;Mecanismo de contrarrestación;Mecanismo de protección;Mecanismo de inmunidad;2353
+1046;psicologia;¿Qué patrón de comportamiento se caracteriza por el daño o abuso infligido a uno mismo?;Comportamiento autodestructivo;Masoquismo;Cupio dissolvi;Sadismo;2298
+1047;psicologia;¿Qué rasgo conceptual se creó para ayudar a comprender las diferencias individuales en la susceptibilidad a la hipnosis?;Absorción;Apertura a la experiencia;Responsabilidad;Neuroticismo;2189
+1048;psicologia;¿Qué rasgo de personalidad está más fuertemente relacionado con el desempeño académico y ocupacional?;Responsabilidad;Neuroticismo;Apertura a la experiencia;Extraversión;2305
+1049;psicologia;¿Qué rasgo de personalidad tiende a manifestarse en un comportamiento abierto, hablador y enérgico?;Extraversión;Neuroticismo;Responsabilidad;Apertura a la experiencia;2340
+1050;psicologia;¿Qué término describe el miedo a la desnudez?;Nudofobia;Bodifobia;Dermofobia;Corpofobia;2225
+1051;psicologia;¿Qué término indica una pérdida de memoria de eventos previos a una lesión?;Amnesia retrógrada;Amnesia anterógrada;Amnesia autobiográfica;Amnesia del condicionamiento;2233
+1052;psicologia;¿Qué términos popularizó Carl Jung?;Introversión y extraversión;Naturaleza vs. crianza;Id, ego y superego;Depresión y manía;2286
+1053;psicologia;¿Qué trastorno mental dura más de un mes después de haber vivido un trauma?;Trastorno de estrés postraumático;Síndrome de Estocolmo;Síndrome de Capgrass;Hipomanía;2401
+1054;psicologia;¿Qué trastorno mental implica estar constantemente bajo la idea de que uno es víctima de una conspiración?;Paranoia;Pronoia;Aranoia;Disnoia;2260
+1055;psicologia;¿Qué trastorno mental tiene por síntomas el esuchar voces y no saber distinguir lo que es real?;Esquizofrenia;Trastorno de Déficit de Atención;Síndrome de Capgrass;Síndrome de Hunter;2294
+1056;psicologia;¿Quién es el padre del enfoque psicoanalítico?;Sigmund Freud;Carl Jung;Ivan Pavlov;B. F. Skinner;2309
+1057;psicologia;¿Quién fue el pionero de la investigación del condicionamiento clásico?;Ivan Pavlov;B. F. Skinner;Carl Jung;Sigmund Freud;2273
+1058;psicologia;¿Quién se creía que eran los únicos afectados por la enfermedad de la histeria?;Mujeres;Hombres;Ancianos;Niños;2328
+1059;psicologia;¿Quién se dice que tiene complejo de Napoleón?;La gente baja;La gente con sobrepeso;La gente poco atractiva;La gente poco inteligente;2163
+1060;quimica;¿Cómo se conoce también a la sal de mesa?;Cloruro de sodio;Bicarbonato de sodio;Carbonato de potasio;Hidróxido de potasio;2311
+1061;quimica;¿Con qué está recubierto el hierro galvanizado?;Zinc;Estaño;Plomo;Cromo;2354
+1062;quimica;¿Cuál de estos gases no es un gas de efecto invernadero?;Hidrógeno;Metano;Óxido nítrico;Dióxido de carbono;2195
+1063;quimica;¿Cuál es el apellido de la científica que descubrió el radio?;Sklodowska-Curie;Radium;Voltom;Edison;2147
+1064;quimica;¿Cuál es el metal más maleable?;Oro;Platino;Plata;Hierro;2298
+1065;quimica;¿Cuál es el mineral más blando conocido?;Talco;Pizarra;Cuarzo;Malaquita;2306
+1066;quimica;¿Cuál es el nombre común del compuesto C6 H12 O6?;Glucosa;Queroseno;Keratina;Fructosa;2232
+1067;quimica;¿Cuál es el principal elemento psicoactivo del café y la cola?;Cafeína;Aspirina;Ricotina;Clorofila;2302
+1068;quimica;¿Cuál es el punto de ebullición del agua en grados Fahrenheit?;212;232;202;222;2281
+1069;quimica;¿Cuál es el símbolo del potasio?;K;Na;Au;P;2347
+1070;quimica;¿Cuál es el único metal líquido a temperatura ambiente?;Mercurio;Aluminio;Cobre;Zinc;2285
+1071;quimica;¿Cuál es la reacción que convierte una disolución de azúcar en ácidos, gases o alcohol?;Fermentación;Hidrólisis;Saponificación;Hidrógeno;2224
+1072;quimica;¿Cuántos aminoácidos esenciales hay?;9;6;3;15;2284
+1073;quimica;¿De qué está compuesto el núcleo de un átomo?;Protones y neutrones;Electrones y neutrones;Electrones y protones;Neutrones solamente;2354
+1074;quimica;¿De qué están compuestos los átomos?;Núcleos y electrones;Núcleos solamente;Electrones solamente;Protones solamente;2352
+1075;quimica;¿Por qué se utiliza el aluminio para purificar el agua?;Para eliminar partículas sólidas;Para añadir nutrientes;Para absorber metales alcalinos;Para estabilizar la acidez;2266
+1076;quimica;¿Qué ácido se obtuvo por primera vez destilando hormigas rojas?;Ácido fórmico;Ácido cítrico;Ácido clórico;Ácido sulfúrico;2288
+1077;quimica;¿Qué común producto crea la saponificación?;Jabón;Miel;Azúcar;Hielo;2252
+1078;quimica;¿De qué están compuestas las burbujas del agua con gas?;Dióxido de carbono;Ácido nítrico;Ácido carbónico;Ácido sulfúrico;2263
+1079;quimica;¿Qué desarrollaron los científicos Newlands, Mendeleev y Meyer?;Tabla periódica de los elementos;Descubrimiento de los elementos;Estructura atómica;Metalurgia;2208
+1080;quimica;¿Qué droga forma la combinación de la zimasa y la glucosa?;Alcohol;Nicotina;Cocaína;Heroína;2263
+1081;quimica;¿Qué elemento de la tabla periódica representa el símbolo \Au\?;Oro;Plata;Platino;Cobre;2269
+1082;quimica;¿Qué elemento es común a todos los ácidos?;Hidrógeno;Carbono;Azufre;Oxígeno;2259
+1083;quimica;¿Qué es el bromo?;Líquido rojo;Gas incoloro;Gas muy inflamable;Sólido negro;2282
+1084;quimica;¿Qué es el gluten?;Una proteína;Un azúcar;Un lípido;Un mineral;2212
+1085;quimica;¿Qué gas es el más abundante en el aire que respiramos?;Nitrógeno;Oxígeno;Hidrógeno;Ozono;2260
+1086;quimica;¿Qué gases hay dentro de las bombillas incandescentes?;Argón;Hidrógeno;Dióxido de carbono;Oxígeno;2203
+1087;quimica;¿Qué impureza metálica hace rojos a los rubís y verdes a las esmeraldas?;Cromo;Aluminio;Cobre;Hierro;2232
+1088;quimica;¿Qué material está compuesto por un 75% de dióxido de silicio, con óxido de sodio, carbonato de sodio y cal?;Cristal;Carbón;Pizarra;Plástico;2287
+1089;quimica;¿Qué metal se extrae habitualmente del agua de mar?;Magnesio;Calcio;Sodio;Potasio;2253
+1090;quimica;¿Qué metal tóxico contamina normalmente el aire de una gran ciudad?;Plomo;Cadmio;Cobre;Cromo;2320
+1091;quimica;¿Qué otro gas aparte del oxígeno compone el gas de la risa?;Nitrógeno;Helio;Hidrógeno;Argón;2324
+1092;quimica;¿Qué piedra preciosa es roja?;Rubí;Esmeralda;Zafiro;Amatista;2223
+1093;quimica;¿Qué propiedad física de las gemas miden los quilates?;Masa;Durabilidad;Color;Corte;2312
+1094;quimica;¿Qué reacción química une el dióxido de carbono a diferentes reactivos?;Carbonación;Oxidación;Solución;Hidrólisis;2372
+1095;quimica;¿Qué refrigerante se utiliza normalmente en neveras domésticas?;Amoníaco y freón;Neón;Agua y sal;Alcohol;2284
+1096;quimica;¿Qué se produce al alear hierro, cromo y níquel?;Acero inoxidable;Bronce;Teflón ;Latón;2262
+1097;quimica;¿Qué son el diamante y el grafito?;Alótropos de carbono;Isómeros de carbono;Isomorfos de carbono;Isótopos de carbono;2368
+1098;records;¿Cuál es el árbol frutal más cultivado del mundo?;Naranjo;Manzano;Aguacatero;Cerezo;2215
+1099;records;¿Cuál es el área de la superfície terrestre a menor altura?;Mar Muerto (Jordania/Israel);Lago Eyre (Australia);Valle de la Muerte (Estados Unidos);Mar Caspio (Rusia);2260
+1100;records;¿Cuál es el continente más grande y poblado del mundo?;Asia;Australia;Antártida;África;2308
+1101;records;¿Cuál es el desierto más seco de la Tierra?;Desierto de Atacama (Chile);Desierto de Kalahari (Botswana);Desierto de Taklamakán (China);Gran Desierto Arenoso (Australia);2261
+1102;records;¿Cuál es el libro más vendido del mundo?;La Biblia;El Alquimista;El Guinness World Records;El Señor de los Anillos;2365
+1103;records;¿Cuál es el país más pequeño por área y población del mundo?;El Vaticano;San Marino;Andorra;Liechtenstein;2261
+1104;records;¿Cuál es el punto más profundo de la Tierra?;Fosa de las Marianas;Fosa de Tonga;Abismo de Galatea;Fosa de Kermadec;2279
+1105;records;¿Cuál es el río más largo de África?;Nilo;Congo;Niger;Zambeze;2316
+1106;records;¿Cuál es el río más profundo de la Tierra, alcanzando los 220 m?;El Congo;El Nilo;El Mississippi;El Amazonas;2334
+1107;records;¿Cuál es el roedor más grande del mundo?;Capibara;Castor;Rata;Mapache;2236
+1108;records;¿Cuál es la cordillera más larga del mundo?;Andes;Montañas Rocosas;Alpes;Himalaya;2284
+1109;records;¿Cuál es la hierba más alta del mundo?;Bambú;Trigo;Pasto azul de Kentucky;Hierba de don Carlos;2216
+1110;records;¿Cuál es la isla más grande del mundo?;Groenlandia;Nueva Guinea;Sumatra;Madagascar;2167
+1111;records;¿Cuál es la montaña más alta del mundo?;Everest;K2;Kanchenjunga;Lohtse;2292
+1112;records;¿Cuál es la religión con más seguidores del mundo?;Cristianismo;Islam;Hinduismo;Sintoísmo;2248
+1113;records;¿Cuál es la sustancia más dura conocida?;Diamante;Carbón;Grafito;Fibra de carbono;2215
+1114;records;¿Cuál es la universidad operativa más antigua del mundo?;Universidad de Bolonia;Universidad de Oxford;Universidad de Aix-Marsella;Universidad de Barcelona;2277
+1115;records;¿En qué país se encuentra la ciudad con el sistema de metro más largo del mundo?;China;Estados Unidos;Reino Unido;Rusia;2186
+1116;records;¿Qué artista ha vendido el mayor número de discos en la historia?;Los Beatles;Elvis Presley;Michael Jackson;Madonna;2259
+1117;records;¿Qué dos países hacen frontera con el mayor número de países?;China y Rusia;Estados Unidos y Chile;Chad y Brasil;Uzbekistán y Lituania;2353
+1118;records;¿Qué nación tiene el mayor número de vehículos de carretera motorizados per capita?;San Marino;Estados Unidos;Mónaco;Nueva Zelanda;2245
+1119;religion;¿A dónde peregrinan los enfermos en Francia?;Lourdes;Étretat;Giverny;Bayeux;2338
+1120;religion;¿A quién se le apareció Dios en el monte Horeb según la Biblia?;Moisés;Salomón;Noé;Virgen María;2276
+1121;religion;¿A quién se le podía encontrar en el castillo de Gandolfo hasta 2016?;Al Papa;A los arzobispos;A los franciscanos;A los jesuitas;2322
+1122;religion;¿Cómo se le llama al conjunto de todos los dioses de una religión, mitología o tradición?;Panteón;Santuario;Altar;Templo;2250
+1123;religion;¿Cómo se llama un sacerdote judío?;Rabino;Chamán;No hay sacerdotes judíos;Bhikkhu;2154
+1124;religion;¿Cómo se llaman respectivamente el cielo y el infierno en el islam?;Jannah y Jahannam;Moksha y Samsara;Alharara y Albard;Bikuli Surur y Alam;2282
+1125;religion;¿Cuál de las religiones monoteístas más antiguas del mundo se puede rastrear hasta la Edad de Bronce?;Judaísmo;Budismo;Sijismo;Zoroastrismo;2230
+1126;religion;¿Cuál es el día de ayuno más conocido del judaísmo?;Yom Kippur;Rosh Hashanah;Hoshana Rabbah;Tishri;2282
+1127;religion;¿Cuál es el lugar de culto para el judaísmo?;Sinagoga;Primer templo;No tienen lugar de culto;Monasterio;2310
+1128;religion;¿Cuál es el último libro de la Biblia?;Apocalipsis;Éxodo;Génesis;Deuteronomio;2350
+1129;religion;¿Cuál es la creencia de que la existencia de Dios o lo sobrenatural es desconocida e incognoscible?;Agnosticismo;Ateísmo;Politeísmo;Antiteísmo;2257
+1130;religion;¿Cuál es la forma correcta de dirigirse al Papa?;Su Santidad;Su Alteza;Padre Celestial;Santo Emisario del Señor;2304
+1131;religion;¿Cuáles son los dioses o espíritus que invitan a los humanos a la muerte en la cultura japonesa?;Shinigami;Chochinbi;Amemasu;Furabiri;2299
+1132;religion;¿Cuándo fue crucificado Jesucristo?;30-33 d. C.;1-4 d. C.;55-58 d. C.;4-1 a. C.;2265
+1133;religion;¿Cuándo nació Buda Gautama?;563-483 a. C.;752-564 a. C.;586-420 a. C.;1021-863 a. C.;2299
+1134;religion;¿Cuándo nació el profeta Mahoma, fundador del Islam?;570 d. C.;868 d. C.;1138 d. C.;420 d. C.;2240
+1135;religion;¿De qué religión es una rama el mormonismo?;Restauracionismo;Protestantismo;Catolicismo;Ortodoxismo;2215
+1136;religion;¿De quién fue el cadáver que se comieron los perros en el Antiguo Testamento?;Jezabel;Nabot;Noé;Abdías;2216
+1137;religion;¿Dónde fue bautizado Cristo por Juan el Bautista?;Río Jordán;Mar Rojo;Mar Muerto;Río Nazaret;2272
+1138;religion;¿En qué creen los politeístas?;Múltiples deidades;Una deidad;Ninguna deidad;Múltiples religiones;2270
+1139;religion;¿En qué país se originó el budismo?;India;China;Tailandia;Japón;2267
+1140;religion;¿En qué religión se celebra el Ramadán?;Islam;Judaísmo;Taoísmo;Hinduismo;2315
+1141;religion;¿Qué creó Dios el quinto día?;La criaturas marinas y los pájaros;La luz;Los humanos;Los árboles y las frutas;2257
+1142;religion;¿Qué fe religiosa celebra el Diwali?;Hinduismo;Budismo;Islam;Taoísmo;2234
+1143;religion;¿Qué líder espiritual vivió en Palacio Potala durante casi 3 siglos?;Dalai Lama;Somdet Phra;Califa;Rabino;2225
+1144;religion;¿Qué religión divide sus escritos sagrados en el Tripitaka?;Budismo;Judaísmo;Sintoísmo;Hinduismo;2330
+1145;religion;¿Qué religión prohíbe la cremación?;Islam;Cristianismo;Hinduismo;Sintoísmo;2243
+1146;religion;¿Qué religión se basa en la creencia en varios kami, seres espirituales sobrenaturales que mueven todo en el mundo?;Sintoísmo;Sijismo;Zoroastrismo;Hinduismo;2326
+1147;religion;¿Qué religión tiene como deidad a Ahura Mazda?;Zoroastrismo;Sintoísmo;Juche;Jainismo;2306
+1148;religion;¿Qué religión tiene como deidades a Brahma, Saraswati y Harihara?;Hinduismo;Taoísmo;Sijismo;Budismo;2310
+1149;religion;¿Qué religión tiene como lugar de culto los \templos de fuego\?;Zoroastrismo;Sintoísmo;Judaísmo;Taoísmo;2157
+1150;religion;¿Qué religión une a Vesak, Hanamatsuri, Asalha Puja y el cumpleaños de Avalokitesvara?;Budismo;Hinduismo;Sintoísmo;Taoísmo;2258
+1151;religion;¿Qué siglas significan \Jesús de Nazaret, rey de los judíos\?;INRI;SERA;YANO;OINA;2348
+1152;religion;¿Qué significa la palabra \shinto\?;Camino de los dioses;Espíritus de la naturaleza;Dos seres;Equilibrio y orden;2313
+1153;religion;¿Qué simboliza la esvástica en la religión india del jainismo?;Suerte y bienestar;Mal y el diablo;Poder y dominancia;Espíritu y cuerpo;2342
+1154;religion;¿Quién construyó la antigua Torre de Babel según la Biblia?;Nemrod;Esther;Aarón;Caín;2295
+1155;religion;¿Quién fue el primer Papa?;San Pedro;San Lino;San Clemente ;San Alejandro;2285
+1156;religion;¿Quién ordenó la ejecución de Juan el Bautista?;Herodes Antipas;Poncio Pilato;Julio César;Salomé I;2302
+1157;religion;¿Quién traicionó a Jesús ante el consejo judicial y religioso judío por 30 monedas de plata?;Judas Iscariote;Judas Tadeo;Jaime, hijo de Alfeo;Bartolomé;2257
+1158;religion;¿Sobre qué mar caminó Jesús según la Biblia?;Mar de Galilea;Mar Muerto;Mar Rojo;Mar Mediterráneo;2184
+1159;tecnologia;¿Cómo se llamaba la primera versión de Internet?;ARPAnet;NEOnet;MULTInet;ROLAnet;2258
+1160;tecnologia;¿Cómo se llaman los 2 terminales de un diodo?;Ánodo y cátodo;Péntado y tríodo;Puerta y drenaje;Drenaje y fuente;2295
+1161;tecnologia;¿Con qué unidades se mide la velocidad de acceso a internet?;Kbps;Megabytes;RAM;MHz;2259
+1162;tecnologia;¿Cuál era el nombre del superordenador IBM que fue derrotado por el maestro de ajedrez Gary Kasparov en 1996?;Deep Blue;Deep Sea;Deep Sky;Deep Purple;2270
+1163;tecnologia;¿Cuál era el primer límite de caracteres para los tweets publicados en la red social de Twitter?;140 caracteres;160 caracteres;280 caracteres;200 caracteres;2351
+1164;tecnologia;¿Cuál es el nombre de la serie de sistemas operativos creados por Microsoft?;Windows;Mac;Linux;Matlab;2374
+1165;tecnologia;¿Cuál es el nombre de un ordenador en una red que solicita archivos de otro ordenador?;Cliente;Host;Router;Servidor web;2221
+1166;tecnologia;¿Cuál es el primer software que se instala en un ordenador?;Sistema operativo;Hoja de cálculo;Procesador de textos;Plataforma de borrado;2302
+1167;tecnologia;¿Cuál fue el primer lenguaje de programación ampliamente utilizado del mundo, inventado en 1957?;IBM FORTRAN;Java;C;R;2281
+1168;tecnologia;¿Cuáles son las tres principales expresiones de búsqueda (operadores) reconocidas por la lógica de Boole?;AND, OR, NOT;SEARCH, KEYWORD, TEXT;AND, OR, BUT;FROM, TO, WHOM;2278
+1169;tecnologia;¿Cuándo se envió el primer mensaje a través de lo que ahora se llama Internet?;10:30 PM el 29 de Octubre en 1969;12:00 AM el 16 de febrero de 1968;08:45 PM el 21 de Enero de 1971;09:00 AM el 23 de Septiembre de 1962;2360
+1170;tecnologia;¿Cuántos bits tiene un byte?;8;16;32;4;2272
+1171;tecnologia;¿Cuántos minutos de música tienen los CD, de acuerdo con las especificaciones originales del CD?;74 minutos;56 minutos;60 minutos;90 minutos;2369
+1172;tecnologia;¿De qué sistema operativo de red es Solaris una versión?;UNIX;Minix 3;AmigaOS;Atlas;2282
+1173;tecnologia;¿En qué año fue el debut del primer ordenador personal IBM?;1981;1985;1989;1991;2273
+1174;tecnologia;¿En qué país se fundó la empresa de tecnología Philips?;Países Bajos;Gran Bretaña;Noruega;Dinamarca;2265
+1175;tecnologia;¿Qué atajo de teclado cierra la mayoría de los programas en el sistema operativo Microsoft Windows?;Alt + F4;Alt + F5;Alt+ F6;Alt + F7;2295
+1176;tecnologia;¿Qué compañía fue la pionera de los disquetes?;IBM;Apple ;Windows;Linux;2315
+1177;tecnologia;¿Qué controla la CPU?;Todas las funciones de un ordenador;La pantalla y los gráficos;El teclado y otros sistemas de input;El sistema de ventilación;2278
+1178;tecnologia;¿Qué es un virus informático que ni se replica ni se copia, pero que daña o compromete la seguridad del ordenador?;Troyano;Bulo;Joker;Gusano;2356
+1179;tecnologia;¿Qué lector de libros electrónicos fue diseñado por Amazon?;Kindle;Kobo;Epub;PRS-650;2292
+1180;tecnologia;¿Qué nombre de mujer se le dio a uno de los primeros ordenadores de Apple?;Lisa;Sara;Anna;Isabella;2359
+1181;tecnologia;¿Qué otro nombre se utiliza para referirse al correo electrónico no deseado?;Spam;Bug;Flag;OP;2288
+1182;tecnologia;¿Qué significa \módem\?;Modulator-demodulator;Monetary Devaluation Exchange Mechanism;Memory Demagnetization;Monetary Demarkation;2233
+1183;tecnologia;¿Qué significa \Pixel\?;Picture element;Picture extract ;Picture election;Picture excision;2266
+1184;tecnologia;¿Qué significa CD en el mundo de la música?;Compact Disc;Computer Data;Computer Disc;Compact Data;2288
+1185;tecnologia;¿Qué significa el \http\ escrito al comienzo de cualquier dirección web?;Hypertext Transfer Protocol;HTML Transfer Technology Process;Hyperspace Terms and Tech Protocol;Hyperspace Techniques & Tech Progress;2269
+1186;tecnologia;¿Qué significa JPEG?;Joint Photographic Experts Group;Joint Pixels Experts Group;Joint Photogram Experts Group;Joint Painting Experts Group;2268
+1187;tecnologia;¿Qué significan las siglas \RAM\ en informática?;Random Access Memory;Raid Addressed Microprocessor;Robust Administrative Motherboard;Rapid Action Microchip;2216
+1188;tecnologia;¿Qué significan las siglas \URL\?;Uniform Resource Locator;Ultimate RAM Locator;User Regulation Law;Unknown RAM Load;2257
+1189;tecnologia;¿Qué tipo de archivo es uno con extensión \.BAK\?;Copia de seguridad de un archivo;Archivo de audio;Archivo de animación/película;Archivo de texto;2345
+1190;tecnologia;¿Qué une a los nombres Ada, Lisp y Algol?;Lenguajes de programación;Software de hoja de cálculo;Marcas de placas base;Disposición de teclados;2293
+1191;tecnologia;¿Qué virus informático se replica, apagando el sistema informático en el proceso?;Gusano;Bug;Tarántula;Troyano;2238
+1192;television;¿Cómo se llama la cafetería que visitan a menudo los protagonistas de la serie \Friends\?;Central Perk;Insomnia Cafe;Friends;Trivianni;2322
+1193;television;¿Cuál era el apellido de Rachel en la exitosa serie \Friends\?;Green;Buffay;Geller;Bing;2234
+1194;television;¿Cuál era el nombre de la nave en la que la tripulación de \Star Trek\ solía viajar por el espacio?;Enterprise;Stardestroyer;Halcón Milenario;X-Wing;2285
+1195;television;¿Cuál es el apellido de soltera de Marge Simpson?;Bouvier;Davis;Thompson;Franklin;2282
+1196;television;¿Cuál es el lema de la familia Stark en la serie \Juego de Tronos\?;Se acerca el invierno;La alondra está llamando;Se aproxima el frío;Nieve y acero;2236
+1197;television;¿Cuál es el nombre del perro en \Garfield\?;Odie;Ariene;Jon;Pooky;2230
+1198;television;¿En qué gran guerra se basa la trama de \Juego de tronos\?;Guerra de las Dos Rosas;Primera Guerra Mundial;Guerra Civil Americana;Segunda Guerra Mundial;2310
+1199;television;¿Qué asignatura enseñaba Walter White en la serie \Breaking Bad\?;Química;Inglés;Matemáticas;Biología;2244
+1200;television;¿Qué cadena de televisión británica no pone anuncios?;BBC;ITV;NCN;Fox;2173
+1201;television;¿Quién fue el creador de \Los Simpson\?;Matt Groening;Seth McFarlane;Justin Roiland;Nick Kroll;2257
+1202;television;¿Quién fue el creador de \Star Trek\?;Gene Roddenberry;George Lucas;Michael Schur;David Crane;2241
+1203;transportes;¿A cuál de los siguientes países pertenecía la aerolínea Olympic Airways?;Grecia;China;Indonesia;Francia;2281
+1204;transportes;¿A qué país pertenecían los aviones Spitfires en la Segunda Guerra Mundial?;Gran Bretaña;Estados Unidos;Francia;Rusia;2256
+1205;transportes;¿A qué país representa la matrícula internacional de automóviles \CH\?;Suiza;República checa;Chile;China;2390
+1206;transportes;¿Con qué otro nombre se conoce al tren japonés \Shinkansen\?;Tren bala;Tren trueno;Tren sónico;Tren chasquido;2225
+1207;transportes;¿Cuál era el destino del Titanic?;Nueva York;Los Ángeles;Miami;Cabo Bretón;2294
+1208;transportes;¿Cuál era el nombre del barco supuestamente imposible de hundir que se hundió en su viaje inaugural en 1912?;Titanic;Mayflower;Olympic;Goliath;2257
+1209;transportes;¿Cuál es el nombre del avión supersónico que hizo vuelos intercontinentales desde 1976 hasta 2003?;Concorde;Tupolev Tu-144;English Electric Lightning;Canadair CF-5;2273
+1210;transportes;¿Cuál fue el primer medio de transporte de 1 o múltiples ruedas a pedal?;Velocípedo;Bicicleta;Patines;Monociclo;2235
+1211;transportes;¿De qué color es la caja negra de un avión?;Naranja;Negra;Verde;Azul;2287
+1212;transportes;¿De qué país es KLM la aerolínea nacional?;Países Bajos;Austria;Suiza;Estonia;2249
+1213;transportes;¿De qué país es la aerolínea nacional \TAP\?;Portugal;España;Italia;Grecia;2203
+1214;transportes;¿El primer qué eléctrico abrió en Londres en 1890?;Metro;Alumbrado público;Feria de coches;Sistema de votación;2256
+1215;transportes;¿En qué ciudad se encuentra el aeropuerto Narita?;Tokio;Pekín;Ho Chi Minh;Bangkok;2249
+1216;transportes;¿En qué lado de la carretera se debe conducir en Japón?;Izquierda;Derecha;Depende de la isla;Depende del clima;2283
+1217;transportes;¿Qué compañía de automóviles fabrica el modelo de automóvil Celica?;Toyota;Opel;Ford;Audi;2288
+1218;transportes;¿Qué dispositivo electrónico se asegura de que la mezcla de combustible y aire en el motor de un coche sea la correcta?;Sonda lambda;Carburador;Equilibrador de aire;Comprobador de presión;2216
+1219;transportes;¿Qué fabricante de automóviles sueco comenzó como compañía de aviones?;Saab;Volvo;Koenigsegg;Scania;2269
+1220;transportes;¿Qué inventó Igor Sikorsky?;Helicóptero;Hidroavión;Motor de reacción;Planeador;2273
+1221;transportes;¿Qué inventó Karl Benz?;Coche de gasolina;Tranvía;Planeador;Turbina de vapor;2246
+1222;transportes;¿Qué marca de automóviles fue registrada en 1902?;Mercedes;Nissan;Ford;Ferrari;2178
+1223;transportes;¿Qué medio de transporte personal fue inventado en 1760 por un belga?;Patines;Bicicleta;Monociclo;Monopatín;2242
+1224;transportes;¿Qué país colaboró con el Reino Unido para construir el avión Concorde?;Francia;Alemania;Noruega;Suecia;2277
+1225;transportes;¿Qué país es el creador del \tren bala\ de alta velocidad?;Japón;China;España;Estados Unidos;2169
+1226;transportes;¿Qué país tiene \E\ como placa de matrícula internacional?;España;Estonia;Italia;Francia;2267
+1227;transportes;¿Qué país tiene \IS\ como matrícula de coche?;Islandia;India;Australia;Nueva Zelanda;2350
+1228;transportes;¿Qué país tiene Aer Lingus como aerolínea nacional?;República de Irlanda;Mónaco;Malta;San Marino;2292
+1229;transportes;¿Qué tren rompió la barrera de las 100 mph en 1934?;Flying Scotsman;Sir Nigel Gresley;Blue Peter;Caerphilly Castle;2252
+1230;transportes;¿A qué país pertenecía la aeolínea internacional Trans World Airlines?;Estados Unidos;Rusia;Dinamarca;Reino Unido;2296
+1231;zoologia;¿A qué animal se le conocía en la antigüedad como \camelopardalis\?;Jirafa;Cebra;Camello;Pitón;2269
+1232;zoologia;¿A qué son homólogas las glándulas venenosas de las serpientes?;Glándulas salivarias de los vertebrados;Órganos eléctricos de los peces;Aguijones de las rayas;Glandulas sebáceas de los mamíferos;2235
+1233;zoologia;¿Cómo llamamos a los animales en la parte superior de la cadena alimentaria?;Superpredadores;Predadores superiores;Predadores cúspide;Hiperpredadores;2291
+1234;zoologia;¿Cómo se comunican las abejas melíferas dónde encontrar flores?;Con una danza especial;Con un zumbido especial;Picándose unas a otras;Oliéndose unas a otras;2319
+1235;zoologia;¿Cómo se llama el largo sueño en el que entran algunos animales durante todo el invierno?;Hibernación;Metástasis;Incubación;Narcolepsia;2195
+1236;zoologia;¿Cómo se llama el nombre del reptil que cambia su color para que coincida con el de su entorno?;Camaleón;Iguana;Gecko;Dragón de komodo;2190
+1237;zoologia;¿Cómo se llaman las almohadillas suaves y acolchadas en los pies de los insectos y otros artrópodos?;Pulvilli;Garras;Van der Waals;Adhesivos;2307
+1238;zoologia;¿Con qué órgano huele una serpiente?;Lengua;Mandíbula;Dientes;Cola;2267
+1239;zoologia;¿Cuál de estos mamíferos pone huevos?;Ornitorrinco;Delfín;Ratón;Murciélago;2314
+1240;zoologia;¿Cuál es el animal terrestre que corre más deprisa?;Guepardo;Leopardo;Tigre;Puma;2234
+1241;zoologia;¿Cuál es el nombre de un apéndice u órgano que se ha adaptado para agarrar o sostener cosas?;Prensible;Agarrador;Apretador;Estrechible;2188
+1242;zoologia;¿Cuál es el nombre del pájaro que no puede volar y es el ave más grande en la Tierra?;Avestruz;Emú;Flamenco;Kiwi;2231
+1243;zoologia;¿Cuál es la única criatura que puede sacarse el estómago?;Estrella de mar;Vaca;Pulpo;Araña;2191
+1244;zoologia;¿Cuáles son los animales que comen plantas y otros animales?;Omnívoros;Herbívoros;Carnívoros;Bibívoros;2241
+1245;zoologia;¿Cuántas patas tiene una hormiga?;6;4;8;10;2322
+1246;zoologia;¿Cuántos corazones tiene un pulpo?;3;4;5;6;2256
+1247;zoologia;¿De qué color es la sangre de los pulpos?;Azul;Verde;Amarilla;Naranja;2289
+1248;zoologia;¿Cuál es la especie del primer mamífero clonado?;Oveja;Ratón;Vaca;Rata;2218
+1249;zoologia;¿De qué tiene hasta 150.000 unidades un elefante en su trompa?;Fajos de fibras de músculos esqueletales;Fajos de fibras nerviosas;Fajos de capilares;Fajos de nódulos linfáticos;2273
+1250;zoologia;¿De qué tipo de animal fue el primero el Archaeopteryx?;Pájaro;Serpiente;Anfibio;Lagarto;2283
+1251;zoologia;¿En cuántas cámaras se divide el estómago de una vaca?;4;2;3;5;2283
+1252;zoologia;¿Qué animal duerme con un ojo abierto?;Delfín;Gato;Caballo;Conejo;2259
+1253;zoologia;¿Qué animal produce su propia loción bronceadora?;Hipopótamo;Rinoceronte;Elefante;Caimán;2272
+1254;zoologia;¿Qué animal se usa comúnmente para encontrar trufas?;Cerdo;Perro;Cabra;Caballo;2306
+1255;zoologia;¿Qué animal supera con creces el peso de todos los humanos en la Tierra cuando sumamos el peso de todos sus miembros?;Lombrices;Ballenas azules;Sapos comunes;Gaviotas;2265
+1256;zoologia;¿Qué animal tiene los ojos más grandes que cualquier otro vertebrado terrestre?;Avestruz;Vaca;Águila;Caballo;2317
+1257;zoologia;¿Qué animal tiene unos ojos de hasta 40 cm de diámetro?;Calamar colosal;Calamar gigante;Ballena azul;Orca;2271
+1258;zoologia;¿Qué animales tienen pupilas rectangulares?;Cabras, sapos y pulpos;Cocodrilos, víboras y gatos;Dragones de Komodo y geckos;Musarañas y zarigüeyas;2401
+1259;zoologia;¿Qué animales viven en un formicario?;Hormigas;Abejas;Escarabajos;Arañas;2307
+1260;zoologia;¿Qué especie de vertebrados vive más tiempo?;Tiburones de Groenlandia;Tortugas Galápagos;Elefantes asiáticos;Papagayos;2242
+1261;zoologia;¿Qué estudia la cinología?;Perros;Gatos;Mamíferos;Ballenas;2248
+1262;zoologia;¿Qué estudia la ornitología?;Pájaros;Olores;Bosques;Cristales;2249
+1263;zoologia;¿Qué miembro de la familia de los osos sólo come bambú?;Panda;Oso Polar;Koala;Oso pardo;2249
+1264;zoologia;¿Qué pájaro come cabeza abajo?;Flamenco;Avestruz;Búho;Halcón;2334
+1265;zoologia;¿Qué pez puede agarrar objetos con la cola?;Caballito de mar;Pez volador;Barracuda;Tiburón blanco;2225
+1266;zoologia;¿Qué raza de perro estaba reservada para la aristocracia en la antigua China?;Pekinés;Shar Pei;Chow chow;Carlino;2218
+1267;zoologia;¿Qué tienen de menos los caballos árabes en comparación con otras razas de caballos?;1 costilla y 1 vértebra;8 dientes;Capacidad pulmonar;Densidad de la crin y la cola;2296
+1268;zoologia;¿Qué tienen sólo los animales ungulados?;Pezuñas;Cuernos;Cola;Uñas;2239
+1269;zoologia;¿Qué tipo de animal es un samoyedo?;Perro;Ciervo;Oso;Mapache;2374
+1270;zoologia;¿Qué tipo de glándulas no son funcionales en los cerdos?;Sudoríparas;Salivarias;Lacrimales;Feromonales;2403

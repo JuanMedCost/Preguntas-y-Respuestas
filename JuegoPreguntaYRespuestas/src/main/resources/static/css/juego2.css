@@ -1,0 +1,72 @@
+body{
+    background-image: url("juego2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    height: 600px;
+    width: 70%;
+    border: solid black 4px;
+    margin-top: 4%;
+    background-color: rgb(219, 219, 219);
+}
+.pregunta{
+    margin-top: 3%;
+    text-align: center;
+}
+.navbar{
+    border: 4px solid black;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    background-color:black;
+  }
+  #navbar-brand{
+    border: 2px solid black;
+    background-color: black;
+    width: 60px;
+    height: 36px;
+  }
+  img {
+    height:50px;
+    width: 50px;
+    float: left;
+    margin-left: 3px;
+    margin-top: -7px;
+    position: relative;
+  }
+  #titulo{
+    text-align: center;
+     margin-left: 10%;
+  }
+  .htmltxt{
+    color: #898989;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana;
+  }
+  .htmltxt:hover{
+    color: #51ff00;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana;
+  }
+  #nombreUsuario{
+    color: #51ff00;
+  }
+
+  .botonJuego{
+      height: 50px;
+      width: 80%;
+      margin-left: 10%;
+      margin-bottom: 2%;
+  }
+
+  #botonPrimero{
+    margin-top: 7%;
+    
+  }
+  .botonJuego:hover{
+    background-color: #00ffb3;
+  }
